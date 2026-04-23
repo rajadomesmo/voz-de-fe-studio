@@ -22,8 +22,8 @@ Cinematic dark transformation scene. A cracked dark stone surface with brilliant
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, firme, transformadora*
 
-**"Esse decreto de *Romanos 12* já renovado a mente de mais de 60 mil pessoas —
-ouça *por 21 dias* e veja seus pensamentos mudarem."**
+**"Sua *mente* está te governando —
+ou a *Palavra de Deus* te governa?"**
 
 ---
 

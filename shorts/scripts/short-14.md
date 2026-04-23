@@ -22,8 +22,8 @@ Cinematic dark endurance scene. A solitary eagle silhouette soaring upward throu
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, acolhedora, para quem está cansado*
 
-**"Essa promessa de *Isaías 40* já renovado as forças de mais de 70 mil pessoas no limite —
-ouça *na hora mais difícil do dia* e sinta a renovação."**
+**"Para quem está no *limite* —
+há uma promessa de Deus que ninguém pode cancelar."**
 
 ---
 

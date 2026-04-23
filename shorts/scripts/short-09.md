@@ -22,8 +22,8 @@ Cinematic dark dawn prayer scene. A lone wooden chair positioned before a tall n
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, suave como o amanhecer*
 
-**"Esse Salmo de *manhã* já transformado a vida de mais de 45 mil pessoas —
-ouça *todo dia ao acordar* e entre no dia protegido."**
+**"Você começa o dia olhando o *celular* antes de falar com *Deus*? —
+Muda isso agora."**
 
 ---
 

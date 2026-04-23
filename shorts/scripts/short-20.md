@@ -22,8 +22,8 @@ Cinematic dark Holy Spirit scene. A white dove in slow descent, wings spread wid
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, íntima, como convite ao sagrado*
 
-**"Essa oração ao *Espírito Santo* já transformado a vida de mais de 85 mil pessoas —
-ouça *antes de decisões importantes* e sinta a presença de Deus."**
+**"Antes de qualquer *decisão importante* —
+ore ao *Espírito Santo* primeiro."**
 
 ---
 

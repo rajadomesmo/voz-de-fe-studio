@@ -48,6 +48,8 @@ Vamos entrar juntos no esconderijo do Senhor.
 
 ---
 
+> *[PRODUÇÃO: música sobe gradualmente por 4–5 segundos aqui — ponte entre o tom íntimo da abertura e o tom solene da leitura. Não cortar abruptamente.]*
+
 ### [LEITURA DO SALMO 91 — tom: solene, lento, reverente, como quem lê diante do altar]
 
 Salmo 91.

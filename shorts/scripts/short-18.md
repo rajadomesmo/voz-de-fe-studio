@@ -22,7 +22,7 @@ Cinematic dark abundance decree scene. A large open ancient stone doorway with g
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, proclamação, autoridade bíblica*
 
-**"Esse decreto de *Deuteronômio 28* já aberto bênçãos sobre mais de 75 mil famílias —
+**"Esse decreto de *Deuteronômio 28* já abriu bênçãos sobre mais de 75 mil famílias —
 ouça *toda manhã antes de trabalhar* e declare suas bênçãos."**
 
 ---

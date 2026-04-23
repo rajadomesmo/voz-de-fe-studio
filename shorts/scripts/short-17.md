@@ -22,8 +22,8 @@ Cinematic dark covenant scene. Two intertwined braided cords wrapped around a wo
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, acolhedora, para quem sente o casamento abalado*
 
-**"Essa oração de *Eclesiastes* já restaurado casamentos de mais de 40 mil famílias —
-ouça *junto com seu esposo* e veja Deus agir."**
+**"O inimigo *ataca mais* o casamento quando você
+*não está orando* por ele."**
 
 ---
 

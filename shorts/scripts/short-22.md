@@ -22,7 +22,7 @@ Cinematic dark prophetic dream scene. A dark night sky filled with stars, with a
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, profética, com autoridade espiritual*
 
-**"Essa declaração de *Joel 2* já despertado sonhos e visões em mais de 50 mil pessoas —
+**"Essa declaração de *Joel 2* já despertou sonhos e visões em mais de 50 mil pessoas —
 ouça *antes de dormir por 7 dias* e veja o que Deus revela."**
 
 ---

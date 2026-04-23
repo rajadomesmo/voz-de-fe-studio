@@ -22,8 +22,8 @@ Cinematic dark new creation scene. A cracked old dark stone chrysalis splitting 
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, libertadora, definitiva*
 
-**"Esse decreto de *2 Coríntios* já mudado a identidade de mais de 65 mil pessoas —
-salva e *declare sua nova identidade em Cristo* todo dia."**
+**"Em Cristo, você não é mais quem você *era*.
+Declare isso *agora*."**
 
 ---
 

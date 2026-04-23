@@ -10,7 +10,7 @@
 `SALMO 27 | Oração de Cura e Restauração Agora 🙏`
 
 ## Hashtags
-`#Salmo27` `#OraçãoDeCura` `#CuraPoderosa` `#RestauiraçãoDivina` `#VozDeFé`
+`#Salmo27` `#OraçãoDeCura` `#CuraPoderosa` `#RestaurachãoDivina` `#VozDeFé`
 
 ---
 

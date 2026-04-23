@@ -22,7 +22,7 @@ Cinematic dark remembrance and blessing scene. An ancient stone scroll unfurling
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, suave, como quem lembra de algo precioso*
 
-**"Essa oração do *Salmo 103* já despertado gratidão real em mais de 70 mil pessoas —
+**"Essa oração do *Salmo 103* já despertou gratidão real em mais de 70 mil pessoas —
 ouça *toda manhã* e nunca mais esqueça o que Deus fez."**
 
 ---

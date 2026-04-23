@@ -22,8 +22,8 @@ Cinematic dark family protection scene. A family Bible open on a dark wooden tab
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, materna, cheia de amor e autoridade*
 
-**"Essa oração pelos filhos já coberto com o sangue de Jesus a família de mais de 65 mil mães —
-ouça *todo dia* e declare proteção sobre os seus."**
+**"Você *orou pelos seus filhos* hoje? —
+Trinta segundos que podem mudar o dia deles."**
 
 ---
 

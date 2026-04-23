@@ -50,13 +50,11 @@ Deixa o seu gostei neste vídeo agora.
 E escreve nos comentários: **"Senhor, destrava minha vida."**
 Eu vou interceder por cada pessoa que escrever.
 
-Sete dias de oração.
-Sete é o número de Deus, o número da perfeição.
-Ouça esta oração durante sete dias e observe o agir de Deus.
-
 Vem comigo.
 
 ---
+
+> *[PRODUÇÃO: música sobe gradualmente por 4–5 segundos aqui — ponte entre o tom empático da abertura e a proclamação solene das âncoras bíblicas. Não cortar abruptamente.]*
 
 ### [ÂNCORAS BÍBLICAS — tom: solene, proclama promessas como verdades eternas]
 

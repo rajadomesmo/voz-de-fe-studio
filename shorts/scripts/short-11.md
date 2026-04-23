@@ -22,7 +22,7 @@ Cinematic dark gratitude scene. Hands raised open in worship, viewed from below 
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, serena, gratidão genuína*
 
-**"Essa oração de *gratidão* já transformado o coração de mais de 80 mil pessoas —
+**"Essa oração de *gratidão* já transformou o coração de mais de 80 mil pessoas —
 ouça *toda noite antes de dormir* e veja a vida mudar."**
 
 ---

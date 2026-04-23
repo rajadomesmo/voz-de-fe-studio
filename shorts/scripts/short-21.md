@@ -22,8 +22,8 @@ Cinematic dark victory scene. A raised fist emerging from darkness, wrapped in g
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, vitoriosa, explosiva*
 
-**"Esse decreto de *1 Coríntios* já virado batalhas perdidas para mais de 60 mil guerreiros —
-manda para quem está *perdendo batalhas agora*."**
+**"Você está em uma batalha que parece *impossível de vencer*? —
+A vitória já é sua. Receba."**
 
 ---
 

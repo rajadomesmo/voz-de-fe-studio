@@ -22,8 +22,8 @@ Cinematic dark inner healing scene. A cracked clay vessel sitting on dark stone,
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, acolhedora, para quem carrega dor emocional*
 
-**"Essa oração de *Isaías 61* já curado o coração quebrantado de mais de 75 mil pessoas —
-manda para quem carrega *mágoa e dor*."**
+**"Tem uma *dor no coração* que nenhum remédio alcança? —
+Só o Espírito do Senhor cura por dentro."**
 
 ---
 

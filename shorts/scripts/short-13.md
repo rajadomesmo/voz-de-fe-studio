@@ -22,7 +22,7 @@ Cinematic dark faith scene. A single burning torch planted firmly in dark rocky 
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, confiante, ativa*
 
-**"Essa declaração de *Hebreus 11* já fortalecido a fé de mais de 55 mil pessoas —
+**"Essa declaração de *Hebreus 11* já fortaleceu a fé de mais de 55 mil pessoas —
 salva e *declare em voz alta* todo dia."**
 
 ---

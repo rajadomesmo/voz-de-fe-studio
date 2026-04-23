@@ -23,7 +23,7 @@ Cinematic dark midnight prayer scene. A narrow stone prison corridor at night, w
 > *Voz grave, urgente, para quem acordou na madrugada*
 
 **"Se você *acordou na madrugada* — Deus tem algo para você.
-Essa oração de *Atos 16* já quebrado prisões de mais de 65 mil pessoas."**
+Essa oração de *Atos 16* já quebrou prisões de mais de 65 mil pessoas."**
 
 ---
 

@@ -58,6 +58,8 @@ Porque a fé é o que ativa o milagre.
 
 ---
 
+> *[PRODUÇÃO: música sobe gradualmente por 4–5 segundos aqui — ponte entre o tom empático da abertura e a proclamação solene das âncoras bíblicas. Não cortar abruptamente.]*
+
 ### [ÂNCORAS BÍBLICAS — tom: solene, lento, como quem proclama verdades eternas]
 
 A palavra do Senhor declara:

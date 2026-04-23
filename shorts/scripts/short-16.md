@@ -22,7 +22,7 @@ Cinematic dark release scene. A heavy dark iron chain link slowly unraveling and
 ### 🎯 HOOK — 0 a 3s
 > *Voz grave, compreensiva, para quem está carregando peso*
 
-**"Essa oração do *Salmo 55* já aliviado o peso de mais de 50 mil pessoas com ansiedade —
+**"Essa oração do *Salmo 55* já aliviou o peso de mais de 50 mil pessoas com ansiedade —
 ouça *antes de dormir* e entregue tudo a Deus."**
 
 ---
