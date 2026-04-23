@@ -1,24 +1,16 @@
-# Script que varre todos os arquivos do projeto e gera data.json para o painel online
 $root = "C:\Users\Uto\Documents\Claude\canal-dark-oracao"
 $files = @()
-
 Get-ChildItem -Path $root -Recurse -Include "*.md","*.txt" | ForEach-Object {
     $rel = $_.FullName.Replace($root + "\", "").Replace("\", "/")
-    $skip = @("gerar-data.ps1")
-    if ($skip -notcontains $_.Name) {
-        $files += @{
-            name    = $_.Name
-            path    = $rel
-            content = (Get-Content $_.FullName -Raw -Encoding UTF8)
-            size    = $_.Length
-            mtime   = $_.LastWriteTime.ToString("yyyy-MM-ddTHH:mm:ss")
-        }
+    $content = [System.IO.File]::ReadAllText($_.FullName, [System.Text.Encoding]::UTF8)
+    $files += [PSCustomObject]@{
+        name    = $_.Name
+        path    = $rel
+        content = $content
+        size    = $_.Length
+        mtime   = $_.LastWriteTime.ToString("yyyy-MM-ddTHH:mm:ss")
     }
 }
-
-$json = $files | ConvertTo-Json -Depth 3
-$json | Out-File -FilePath "$root\data.json" -Encoding utf8
+$json = $files | ConvertTo-Json -Depth 3 -Compress
+[System.IO.File]::WriteAllText("$root\data.json", $json, [System.Text.Encoding]::UTF8)
 Write-Host "data.json gerado com $($files.Count) arquivos"
-
-
-
