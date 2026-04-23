@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__chrome-devtools__click",
+      "mcp__chrome-devtools__evaluate_script",
+      "mcp__chrome-devtools__list_pages",
+      "mcp__chrome-devtools__wait_for",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__plugin_everything-claude-code_exa__web_search_exa",
+      "mcp__chrome-devtools__new_page"
+    ]
+  }
+}
