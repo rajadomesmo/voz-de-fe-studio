@@ -10,7 +10,7 @@
   --bg:#060608;--bg1:#0C0C10;--bg2:#111116;--bg3:#17171E;--bg4:#1D1D26;
   --gold:#C8973A;--gold2:#E8B85A;--gold3:rgba(200,151,58,0.07);--gold4:rgba(200,151,58,0.14);
   --text:#EAE5DC;--muted:#4A4858;--muted2:#888699;
-  --border:rgba(255,255,255,0.05);--border2:rgba(200,151,58,0.16);--border3:rgba(200,151,58,0.32);
+  --border:rgba(255,255,255,0.05);--border2:rgba(200,151,58,0.16);
   --green:#52C060;--blue:#5AAAE8;--purple:#9B6FF0;--orange:#E89B3A;--red:#E86060;
   --r:8px;--r2:12px;--r3:16px;
   --font:-apple-system,'Segoe UI',system-ui,sans-serif;
@@ -19,7 +19,6 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 ::-webkit-scrollbar{width:3px;height:3px}
 ::-webkit-scrollbar-track{background:transparent}
 ::-webkit-scrollbar-thumb{background:var(--bg4);border-radius:3px}
-
 .shell{display:flex;height:100vh}
 
 /* SIDEBAR */
@@ -29,7 +28,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 .sb-name::before{content:'✦ ';font-size:9px;opacity:.8}
 .sb-sub{font-size:9px;color:var(--muted);margin-top:2px;letter-spacing:.07em;text-transform:uppercase}
 .sb-btn{margin:9px 9px 5px;padding:7px 11px;background:var(--gold3);border:1px solid var(--border2);border-radius:var(--r);cursor:pointer;color:var(--gold2);font-size:10.5px;font-weight:500;display:flex;align-items:center;gap:6px;justify-content:center;transition:all .2s}
-.sb-btn:hover{background:var(--gold4);border-color:var(--border3)}
+.sb-btn:hover{background:var(--gold4)}
 .sb-btn svg{width:11px;height:11px;stroke:currentColor;fill:none;stroke-width:2}
 .sb-sec{padding:11px 13px 3px;font-size:8.5px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;font-weight:500}
 .sb-nav{display:flex;align-items:center;gap:7px;padding:6px 11px;margin:1px 5px;border-radius:var(--r);cursor:pointer;color:var(--muted2);font-size:11px;transition:all .15s;position:relative}
@@ -62,20 +61,6 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 .stat-v{font-size:19px;font-weight:600;color:var(--gold2);line-height:1}
 .stat-s{font-size:9.5px;color:var(--muted);margin-top:1px}
 
-/* QUICK NAV */
-.qnav{background:var(--bg1);border:1px solid var(--border);border-radius:var(--r2);padding:10px 12px;margin-bottom:10px}
-.qnav-hd{display:flex;align-items:center;margin-bottom:7px}
-.qnav-lbl{font-size:8.5px;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);font-weight:500}
-.qnav-tabs{display:flex;gap:2px;margin-left:auto}
-.qnav-tab{padding:2px 8px;font-size:9.5px;border-radius:5px;cursor:pointer;color:var(--muted);border:none;background:none;transition:all .15s;font-family:var(--font)}
-.qnav-tab.on{background:var(--bg3);color:var(--text)}
-.chips{display:flex;flex-wrap:wrap;gap:4px;min-height:22px;align-items:center}
-.chip{padding:3px 8px;background:var(--bg2);border:1px solid var(--border);border-radius:20px;font-size:10px;color:var(--muted2);cursor:pointer;transition:all .15s;white-space:nowrap}
-.chip:hover{border-color:var(--border2);color:var(--gold2);background:var(--gold3)}
-.chip.pc{border-color:rgba(90,170,232,.13);color:var(--blue)}
-.chip.pc:hover{background:rgba(90,170,232,.07)}
-.chip-empty{font-size:10px;color:var(--muted);font-style:italic}
-
 /* CONTENT */
 .content{flex:1;overflow-y:auto;padding:0 20px 20px}
 .panel{display:none}
@@ -90,81 +75,71 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 /* FILE LIST */
 .flist{display:flex;flex-direction:column;gap:5px}
 
-/* FILE CARD */
-.fc{background:var(--bg1);border:1px solid var(--border);border-radius:var(--r2);overflow:hidden;transition:border-color .18s}
-.fc:hover{border-color:rgba(200,151,58,.1)}
-.fc-hd{display:flex;align-items:center;gap:8px;padding:9px 13px;cursor:pointer;user-select:none}
-.fc-ico{width:26px;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0}
-.i-s{background:rgba(82,192,96,.08);color:var(--green)}
-.i-l{background:rgba(90,170,232,.08);color:var(--blue)}
-.i-k{background:var(--gold3);color:var(--gold2)}
-.i-a{background:rgba(155,111,240,.08);color:var(--purple)}
-.fc-meta{flex:1;min-width:0}
-.fc-nm{font-size:11px;font-weight:500;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.fc-pt{font-size:9.5px;color:var(--muted);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.fc-r{display:flex;align-items:center;gap:5px;flex-shrink:0}
-.fc-dt{font-size:8.5px;color:var(--muted);background:var(--bg2);padding:2px 6px;border-radius:5px;white-space:nowrap}
-.tag{font-size:8.5px;padding:2px 7px;border-radius:20px;font-weight:500}
-.tag-s{background:rgba(82,192,96,.08);color:var(--green)}
-.tag-l{background:rgba(90,170,232,.08);color:var(--blue)}
+/* SHORT CARD */
+.sc{background:var(--bg1);border:1px solid var(--border);border-radius:var(--r2);overflow:hidden;transition:border-color .18s}
+.sc:hover{border-color:rgba(200,151,58,.1)}
+.sc.done{border-color:rgba(82,192,96,.15);opacity:.7}
+.sc.done .sc-title{text-decoration:line-through;color:var(--muted)}
+
+.sc-hd{display:flex;align-items:center;gap:8px;padding:10px 13px;cursor:pointer;user-select:none}
+.sc-ico{width:26px;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0}
+.ic-v{background:rgba(200,151,58,.09);color:var(--gold2)}
+.ic-p{background:rgba(90,170,232,.09);color:var(--blue)}
+.ic-l{background:rgba(90,170,232,.09);color:var(--blue)}
+.ic-k{background:var(--gold3);color:var(--gold2)}
+.ic-a{background:rgba(155,111,240,.09);color:var(--purple)}
+
+.sc-meta{flex:1;min-width:0}
+.sc-title{font-size:11.5px;font-weight:500;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sc-sub{font-size:9.5px;color:var(--muted);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sc-right{display:flex;align-items:center;gap:5px;flex-shrink:0}
+.sc-dt{font-size:8.5px;color:var(--muted);background:var(--bg2);padding:2px 6px;border-radius:5px;white-space:nowrap}
+
+.tag{font-size:8.5px;padding:2px 7px;border-radius:20px;font-weight:500;white-space:nowrap}
+.tag-v{background:rgba(200,151,58,.09);color:var(--gold)}
+.tag-p{background:rgba(90,170,232,.09);color:var(--blue)}
+.tag-l{background:rgba(90,170,232,.09);color:var(--blue)}
 .tag-k{background:var(--gold3);color:var(--gold)}
-.tag-a{background:rgba(155,111,240,.08);color:var(--purple)}
+.tag-a{background:rgba(155,111,240,.09);color:var(--purple)}
+
+.check-btn{width:22px;height:22px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;flex-shrink:0;color:var(--muted);font-size:11px}
+.check-btn:hover{border-color:var(--green);color:var(--green);background:rgba(82,192,96,.07)}
+.sc.done .check-btn{border-color:var(--green);color:var(--green);background:rgba(82,192,96,.12)}
+
 .cbtn{padding:3px 9px;background:var(--bg2);border:1px solid var(--border);border-radius:6px;cursor:pointer;color:var(--muted2);font-size:9.5px;font-weight:500;display:flex;align-items:center;gap:4px;transition:all .15s;white-space:nowrap}
 .cbtn:hover{background:var(--bg3);color:var(--text)}
 .cbtn.ok{color:var(--green);border-color:rgba(82,192,96,.2);background:rgba(82,192,96,.05)}
 .cbtn svg{width:9px;height:9px;stroke:currentColor;fill:none}
+
 .chev{width:12px;height:12px;stroke:var(--muted);fill:none;stroke-width:2;transition:transform .18s;flex-shrink:0}
-.fc.open .chev{transform:rotate(90deg)}
-.fc-body{display:none;border-top:1px solid var(--border)}
-.fc.open .fc-body{display:block}
+.sc.open .chev{transform:rotate(90deg)}
 
-/* PARSED SECTIONS */
-.fc-sections{padding:10px 13px;display:flex;flex-direction:column;gap:8px;background:var(--bg)}
-.fc-section{border:1px solid var(--border);border-radius:var(--r);overflow:hidden}
-.fc-sec-hd{display:flex;align-items:center;justify-content:space-between;padding:6px 10px;background:var(--bg1);cursor:pointer}
-.fc-sec-title{font-size:9.5px;font-weight:500;display:flex;align-items:center;gap:6px}
-.fc-sec-body{padding:8px 10px;font-size:10.5px;color:var(--muted2);line-height:1.75;white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,'SF Mono',monospace;max-height:260px;overflow-y:auto}
-.sec-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
-.dot-hook{background:var(--orange)}
-.dot-script{background:var(--green)}
-.dot-seo{background:var(--blue)}
-.dot-prod{background:var(--purple)}
-.dot-raw{background:var(--muted)}
-
-.fc-foot{padding:6px 13px 9px;display:flex;gap:5px;border-top:1px solid var(--border);background:var(--bg1)}
+/* SCRIPT BODY — single click, full content */
+.sc-body{display:none;border-top:1px solid var(--border)}
+.sc.open .sc-body{display:block}
+.sc-text{padding:12px 13px;font-size:10.5px;color:var(--muted2);line-height:1.75;white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,'SF Mono',monospace;max-height:420px;overflow-y:auto;background:var(--bg)}
+.sc-foot{padding:6px 13px 9px;display:flex;gap:5px;border-top:1px solid var(--border);background:var(--bg1)}
 
 /* RAW (non-shorts) */
+.fc{background:var(--bg1);border:1px solid var(--border);border-radius:var(--r2);overflow:hidden;transition:border-color .18s}
+.fc:hover{border-color:rgba(200,151,58,.1)}
+.fc-hd{display:flex;align-items:center;gap:8px;padding:10px 13px;cursor:pointer;user-select:none}
+.fc-meta{flex:1;min-width:0}
+.fc-nm{font-size:11px;font-weight:500;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.fc-pt{font-size:9.5px;color:var(--muted);margin-top:1px}
+.fc-r{display:flex;align-items:center;gap:5px;flex-shrink:0}
+.fc-dt{font-size:8.5px;color:var(--muted);background:var(--bg2);padding:2px 6px;border-radius:5px}
+.chev2{width:12px;height:12px;stroke:var(--muted);fill:none;stroke-width:2;transition:transform .18s;flex-shrink:0}
+.fc.open .chev2{transform:rotate(90deg)}
+.fc-body{display:none;border-top:1px solid var(--border)}
+.fc.open .fc-body{display:block}
 .fc-raw{padding:11px 13px;font-size:10.5px;color:var(--muted2);line-height:1.75;white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,'SF Mono',monospace;max-height:340px;overflow-y:auto;background:var(--bg)}
+.fc-foot{padding:6px 13px 9px;display:flex;gap:5px;border-top:1px solid var(--border);background:var(--bg1)}
 
-/* VERSE GRID */
-.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(115px,1fr));gap:4px;margin-top:5px}
-.vchip{padding:6px 8px;background:var(--bg1);border:1px solid var(--border);border-radius:7px;font-size:10.5px;cursor:pointer;transition:all .15s;color:var(--muted2);text-align:center;line-height:1.3}
-.vchip:hover{border-color:var(--border2);color:var(--gold2);background:var(--gold3)}
-.vchip.pc{border-color:rgba(90,170,232,.12);color:var(--blue)}
-.vchip.pc:hover{background:rgba(90,170,232,.06)}
-.vchip small{display:block;font-size:8.5px;color:var(--muted);margin-top:1px}
-
-/* MODAL */
-.mbg{position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:200;display:none;align-items:center;justify-content:center;backdrop-filter:blur(6px)}
-.mbg.on{display:flex}
-.modal{background:var(--bg1);border:1px solid var(--border2);border-radius:var(--r3);width:min(580px,92vw);max-height:76vh;display:flex;flex-direction:column;box-shadow:0 24px 80px rgba(0,0,0,.6)}
-.m-hd{display:flex;align-items:center;justify-content:space-between;padding:13px 16px;border-bottom:1px solid var(--border);flex-shrink:0}
-.m-hd h2{font-size:12.5px;font-weight:600;color:var(--text)}
-.m-cls{width:24px;height:24px;border-radius:5px;border:1px solid var(--border);background:var(--bg2);cursor:pointer;color:var(--muted2);display:flex;align-items:center;justify-content:center;font-size:12px;transition:all .15s}
-.m-cls:hover{color:var(--text)}
-.m-body{overflow-y:auto;padding:12px 16px;flex:1}
-.m-item{padding:8px 10px;background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);margin-bottom:5px;cursor:pointer;transition:all .15s}
-.m-item:hover{border-color:var(--border2);background:var(--bg3)}
-.m-item h3{font-size:11px;font-weight:500;color:var(--text)}
-.m-item p{font-size:9.5px;color:var(--muted);margin-top:2px}
-
-/* EMPTY */
+/* EMPTY / LOADING */
 .empty{text-align:center;padding:44px 20px;color:var(--muted)}
 .empty-i{font-size:28px;margin-bottom:9px;opacity:.3}
 .empty h3{font-size:11.5px;color:var(--muted2);margin-bottom:4px;font-weight:500}
-.empty p{font-size:10.5px;line-height:1.6}
-
-/* LOADING */
 .loading{display:flex;align-items:center;justify-content:center;gap:7px;padding:44px;color:var(--muted);font-size:11px}
 .spin{width:14px;height:14px;border:2px solid var(--border);border-top-color:var(--gold);border-radius:50%;animation:sp .7s linear infinite}
 @keyframes sp{to{transform:rotate(360deg)}}
@@ -182,18 +157,23 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
     <svg viewBox="0 0 24 24"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
     Atualizar
   </button>
-  <div class="sb-sec">Conteúdo</div>
-  <div class="sb-nav on" onclick="nav('shorts',this)">
-    <svg viewBox="0 0 24 24"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="9" y1="9" x2="15" y2="9"/><line x1="9" y1="13" x2="15" y2="13"/></svg>
-    Shorts <span class="sb-bdg" id="b-s">0</span>
+  <div class="sb-sec">Shorts</div>
+  <div class="sb-nav on" onclick="nav('versiculos',this)">
+    <svg viewBox="0 0 24 24"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+    Shorts Versículos <span class="sb-bdg" id="b-v">0</span>
   </div>
+  <div class="sb-nav" onclick="nav('oracoes',this)">
+    <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg>
+    Shorts Orações <span class="sb-bdg" id="b-p">0</span>
+  </div>
+  <div class="sb-sec">Conteúdo</div>
   <div class="sb-nav" onclick="nav('live',this)">
     <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg>
     Live / Long-form <span class="sb-bdg" id="b-l">0</span>
   </div>
   <div class="sb-sec">Base</div>
   <div class="sb-nav" onclick="nav('conhecimento',this)">
-    <svg viewBox="0 0 24 24"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+    <svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg>
     Conhecimento <span class="sb-bdg" id="b-k">0</span>
   </div>
   <div class="sb-nav" onclick="nav('agentes',this)">
@@ -212,89 +192,65 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
   <div class="topbar">
     <div class="top-row">
       <div class="top-hd">
-        <h1 id="ptitle">Shorts</h1>
-        <p id="psub">Scripts organizados por seção · ordenados por data</p>
+        <h1 id="ptitle">Shorts Versículos</h1>
+        <p id="psub">Clique no card para ver o script completo · ✓ para marcar como feito</p>
       </div>
       <div class="srch">
         <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-        <input type="text" id="srch-inp" placeholder="Buscar arquivos..." oninput="doSearch()">
+        <input type="text" id="srch-inp" placeholder="Buscar..." oninput="doSearch()">
       </div>
     </div>
     <div class="stats">
-      <div class="stat"><div class="stat-l">Shorts</div><div class="stat-v" id="sv-s">0</div><div class="stat-s">scripts</div></div>
+      <div class="stat"><div class="stat-l">Shorts Versículos</div><div class="stat-v" id="sv-v">0</div><div class="stat-s">scripts</div></div>
+      <div class="stat"><div class="stat-l">Shorts Orações</div><div class="stat-v" id="sv-p">0</div><div class="stat-s">scripts</div></div>
       <div class="stat"><div class="stat-l">Long-form</div><div class="stat-v" id="sv-lg">0</div><div class="stat-s">roteiros</div></div>
-      <div class="stat"><div class="stat-l">Lives</div><div class="stat-v" id="sv-lv">0</div><div class="stat-s">para Gyre</div></div>
-      <div class="stat"><div class="stat-l">Versículos</div><div class="stat-v" id="sv-v">0</div><div class="stat-s">nos arquivos</div></div>
-      <div class="stat"><div class="stat-l">Orações</div><div class="stat-v" id="sv-p">0</div><div class="stat-s">temas</div></div>
+      <div class="stat"><div class="stat-l">Lives Gyre</div><div class="stat-v" id="sv-lv">0</div><div class="stat-s">loops</div></div>
+      <div class="stat"><div class="stat-l">Feitos ✓</div><div class="stat-v" id="sv-done">0</div><div class="stat-s">concluídos</div></div>
     </div>
   </div>
 
   <div class="content">
 
-    <!-- SHORTS -->
-    <div class="panel on" id="panel-shorts">
-      <div class="qnav">
-        <div class="qnav-hd">
-          <span class="qnav-lbl">Navegação rápida</span>
-          <div class="qnav-tabs">
-            <button class="qnav-tab on" onclick="qnt('v',this)">Versículos nos arquivos</button>
-            <button class="qnav-tab" onclick="qnt('p',this)">Orações nos arquivos</button>
-          </div>
-        </div>
-        <div class="chips" id="qn-v"><span class="chip-empty">Carregando...</span></div>
-        <div class="chips" id="qn-p" style="display:none"><span class="chip-empty">Carregando...</span></div>
-      </div>
-      <div class="sec"><span class="sec-t">Scripts · mais recentes primeiro</span><span class="sec-c" id="sc-s">0</span></div>
-      <div class="flist" id="list-shorts"><div class="loading"><div class="spin"></div>Aguardando data.json...</div></div>
+    <!-- VERSÍCULOS -->
+    <div class="panel on" id="panel-versiculos">
+      <div class="sec"><span class="sec-t">Shorts com versículo bíblico · mais recentes primeiro</span><span class="sec-c" id="sc-v">0</span></div>
+      <div class="flist" id="list-v"><div class="loading"><div class="spin"></div>Aguardando data.json...</div></div>
+    </div>
+
+    <!-- ORAÇÕES -->
+    <div class="panel" id="panel-oracoes">
+      <div class="sec"><span class="sec-t">Shorts de oração temática · mais recentes primeiro</span><span class="sec-c" id="sc-p">0</span></div>
+      <div class="flist" id="list-p"><div class="loading"><div class="spin"></div>Aguardando data.json...</div></div>
     </div>
 
     <!-- LIVE -->
     <div class="panel" id="panel-live">
-      <div class="sec"><span class="sec-t">Roteiros long-form · YouTube (10–15 min)</span><span class="sec-c" id="sc-lg">0</span></div>
-      <div class="flist" id="list-long"></div>
-      <div class="sec" style="margin-top:18px"><span class="sec-t">Lives · Gyre.pro (30–60 min em loop)</span><span class="sec-c" id="sc-lv">0</span></div>
-      <div class="flist" id="list-live"></div>
+      <div class="sec"><span class="sec-t">Roteiros long-form (10–15 min)</span><span class="sec-c" id="sc-lg">0</span></div>
+      <div class="flist" id="list-lg"></div>
+      <div class="sec" style="margin-top:18px"><span class="sec-t">Lives / Loops Gyre (30–60 min)</span><span class="sec-c" id="sc-lv">0</span></div>
+      <div class="flist" id="list-lv"></div>
     </div>
 
     <!-- CONHECIMENTO -->
     <div class="panel" id="panel-conhecimento">
-      <div class="sec"><span class="sec-t">Versículos utilizados nos scripts</span><span class="sec-c" id="sc-v">0</span></div>
-      <div class="vgrid" id="vgrid"></div>
-      <div class="sec" style="margin-top:16px"><span class="sec-t">Orações por tema</span><span class="sec-c" id="sc-p">0</span></div>
-      <div class="vgrid" id="pgrid"></div>
-      <div class="sec" style="margin-top:16px"><span class="sec-t">Base de conhecimento · hooks · keywords · referências</span><span class="sec-c" id="sc-k">0</span></div>
-      <div class="flist" id="list-know"></div>
+      <div class="sec"><span class="sec-t">Base de conhecimento</span><span class="sec-c" id="sc-k">0</span></div>
+      <div class="flist" id="list-k"></div>
     </div>
 
     <!-- AGENTES -->
     <div class="panel" id="panel-agentes">
-      <div class="sec"><span class="sec-t">Arquivos dos agentes</span><span class="sec-c" id="sc-a">0</span></div>
-      <div class="flist" id="list-agents"></div>
+      <div class="sec"><span class="sec-t">Agentes configurados</span><span class="sec-c" id="sc-a">0</span></div>
+      <div class="flist" id="list-a"></div>
       <div class="sec" style="margin-top:18px"><span class="sec-t">Comandos no Claude Code</span></div>
       <div class="fc open">
         <div class="fc-body" style="display:block">
-          <div class="fc-raw">"quero 5 shorts sobre cura"
-→ PRÉ-CICLO + CICLO SHORTS automático
-
-"pesquisa o que está viral essa semana"
-→ CICLO PESQUISA
-
-"faz 1 roteiro de 10-15 min"
-→ CICLO ROTEIRO LONGO
-
-"faz 1 roteiro longo para live"
-→ CICLO LIVE (30-60 min para Gyre)
-
-"o que já foi feito?"
-→ Resumo do MEMORY
-
-"não quero mais [X]"
-→ Registra em Descartados</div>
-          <div class="fc-foot">
-            <button class="cbtn" onclick="copyTxt(this,document.querySelector('.fc-raw').textContent)">
-              <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar
-            </button>
-          </div>
+          <div class="fc-raw">"quero 5 shorts sobre cura"  → PRÉ-CICLO + CICLO SHORTS
+"pesquisa o que está viral"  → CICLO PESQUISA
+"faz roteiro de 10-15 min"  → CICLO ROTEIRO LONGO
+"faz roteiro para live"     → CICLO LIVE
+"o que já foi feito?"       → Resumo do MEMORY
+"não quero mais [X]"        → Registra em Descartados</div>
+          <div class="fc-foot"><button class="cbtn" onclick="copyTxt(this,document.querySelector('.fc-raw').textContent)"><svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar</button></div>
         </div>
       </div>
     </div>
@@ -303,59 +259,21 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 </div>
 </div>
 
-<!-- MODAL -->
-<div class="mbg" id="mbg" onclick="closeMbg(event)">
-  <div class="modal">
-    <div class="m-hd"><h2 id="m-title"></h2><button class="m-cls" onclick="closeModal()">✕</button></div>
-    <div class="m-body" id="m-body"></div>
-  </div>
-</div>
-
 <script>
 const PAGES={
-  shorts:{t:'Shorts',s:'Scripts organizados por seção · ordenados por data'},
-  live:{t:'Live / Long-form',s:'Roteiros para YouTube e Gyre.pro · ordenados por data'},
-  conhecimento:{t:'Conhecimento',s:'Versículos e orações detectados nos arquivos · base de dados'},
+  versiculos:{t:'Shorts Versículos',s:'Clique no card para ver o script · ✓ para marcar como feito'},
+  oracoes:{t:'Shorts Orações',s:'Clique no card para ver o script · ✓ para marcar como feito'},
+  live:{t:'Live / Long-form',s:'Roteiros para YouTube e Gyre.pro'},
+  conhecimento:{t:'Conhecimento',s:'Base de dados, hooks, keywords, prompts de imagem'},
   agentes:{t:'Agentes',s:'Configuração do agent team'}
 };
 
-let ALL=[], VM={}, PM={};
+let ALL=[], DONE=new Set(JSON.parse(localStorage.getItem('vdf_done')||'[]'));
 
-// ── PARSE SHORT SECTIONS ──
-function parseShort(content){
-  const sections={hook:'',script:'',seo:'',prod:'',raw:''};
-  const c=String(content||'');
-  if(!c.trim()){sections.raw='(vazio)';return sections;}
-
-  // SEO block
-  const seoMatch=c.match(/---\s*SEO\s*---([\s\S]*?)(?=---|$)/i);
-  if(seoMatch)sections.seo=seoMatch[1].trim();
-
-  // PROD / GUIA block
-  const prodMatch=c.match(/---\s*(?:GUIA DE PRODUÇÃO|PRODUÇÃO|PRODUCTION)\s*---([\s\S]*?)(?=---|$)/i);
-  if(prodMatch)sections.prod=prodMatch[1].trim();
-
-  // HOOK block (0-3s)
-  const hookMatch=c.match(/(?:HOOK|hook|Hook)[^\n]*\n+([\s\S]*?)(?=\n###|\n##|\nCORPO|\nSCRIPT|\nCTA|---)/i);
-  if(hookMatch)sections.hook=hookMatch[1].trim();
-
-  // SCRIPT / CORPO block
-  const scriptMatch=c.match(/(?:CORPO|BODY|Script completo|ROTEIRO|corpo)[^\n]*\n+([\s\S]*?)(?=\n###|\n##|\nCTA|---GUIA|---SEO|---)/i);
-  if(scriptMatch)sections.script=scriptMatch[1].trim();
-
-  // If no parsed sections, use raw
-  if(!sections.hook&&!sections.script&&!sections.seo&&!sections.prod){
-    sections.raw=c;
-  }
-  return sections;
-}
-
-// ── TYPE DETECTION ──
+// ── TYPE ──
 function typ(p){
-  const l=(p||'').toLowerCase().replace(/\\/g,'/');
-  // prompts de imagem vão para conhecimento, não scripts
+  const l=String(p||'').toLowerCase().replace(/\\/g,'/');
   if(l.includes('prompts-imagem')) return 'k';
-  // apenas arquivos dentro de shorts/scripts/ são shorts
   if(l.includes('shorts/scripts/')) return 's';
   if(l.includes('live/playlist')) return 'lv';
   if(/scripts\/roteiro/.test(l)) return 'lg';
@@ -363,39 +281,34 @@ function typ(p){
   return 'k';
 }
 
-// ── EXTRACT VERSES ──
-function extractVerses(content){
+// ── DETECT VERSE ──
+const VERSE_RE=/(?:salmo[s]?|jo[aã]o|romanos|filipenses|isa[ií]as|ef[eé]sios|jeremias|mateus|marcos|lucas|atos|g[eê]n[eê]sis|[eê]xodo|prov[eé]rbios|hebreus|tiago|pedro|apocalipse|deuteron[oô]mio|g[aá]latas|col[os]+enses|tessalonicenses|cor[íi]ntios|jo[eé]l|josué|isaías|n[úu]meros|levítico)\s+\d+[:\s.]\d+/gi;
+function firstVerse(content){
+  const m=String(content||'').match(VERSE_RE);
+  return m?m[0].trim():null;
+}
+function allVerses(content){
   const found=new Set();
   const str=String(content||'');
-  const re=/(?:salmo[s]?|jo[aã]o|romanos|filipenses|isa[ií]as|ef[eé]sios|jeremias|mateus|marcos|lucas|atos|g[eê]n[eê]sis|[eê]xodo|prov[eé]rbios|hebreus|tiago|pedro|apocalipse|deuteron[oô]mio|g[aá]latas|col[os]+enses|tessalonicenses|cor[íi]ntios|jo[eé]l|jo[sé]|isaías|n[úu]meros|levítico)\s+\d+[:\s]\d+/gi;
-  let m; while((m=re.exec(str))!==null) found.add(m[0].trim());
-  return found;
+  VERSE_RE.lastIndex=0;
+  let m; while((m=VERSE_RE.exec(str))!==null) found.add(m[0].trim());
+  VERSE_RE.lastIndex=0;
+  return [...found];
 }
 
-// ── EXTRACT PRAYER TYPES ──
-const PRAYER_TYPES=['oração da noite','oração da manhã','oração do dia','oração para dormir','oração de proteção','oração de cura','oração da gratidão','oração de guerra','oração de libertação','oração de prosperidade','oração da meia-noite','oração de intercessão','oração de arrependimento','oração de força','oração de paz','oração de vitória','oração de esperança','oração de fé'];
-function extractPrayer(name,content){
+// ── DETECT PRAYER ──
+const PRAYER_TYPES=['oração da noite','oração da manhã','oração do dia','oração para dormir','oração de proteção','oração de cura','oração da gratidão','oração de guerra','oração de libertação','oração de prosperidade','oração da meia-noite','oração de intercessão','oração de arrependimento','oração de força','oração de paz','oração de vitória','oração de esperança','oração de fé','oração pelos','oração de'];
+function detectPrayer(name,content){
   const cl=String(content||'').toLowerCase();
   for(const p of PRAYER_TYPES) if(cl.includes(p)) return p;
-  const m=cl.match(/oração\s+(d[aoe]?\s+\w+)/);
+  const m=cl.match(/oração\s+(?:d[aoe]?\s+)?\w+/i);
   return m?m[0].toLowerCase():null;
 }
 
-// ── BUILD MAPS ──
-function buildMaps(){
-  VM={};PM={};
-  ALL.filter(f=>typ(f.path)==='s'&&f.content).forEach(f=>{
-    const content=String(f.content||'');
-    extractVerses(content).forEach(v=>{
-      if(!VM[v])VM[v]=[];
-      if(!VM[v].find(x=>x.path===f.path))VM[v].push(f);
-    });
-    const p=extractPrayer(f.name,content);
-    if(p){
-      if(!PM[p])PM[p]=[];
-      if(!PM[p].find(x=>x.path===f.path))PM[p].push(f);
-    }
-  });
+// ── PREVIEW ──
+function preview(content){
+  const c=String(content||'').replace(/#+\s*/g,'').replace(/\*+/g,'').replace(/\[pausa[^\]]*\]/gi,'').replace(/---[^\n]*/g,'').replace(/\n+/g,' ').trim();
+  return c.length>90?c.slice(0,90)+'…':c;
 }
 
 // ── LOAD ──
@@ -404,16 +317,15 @@ async function loadData(){
   document.getElementById('sdot').style.background='var(--orange)';
   try{
     const r=await fetch('data.json?_='+Date.now());
-    if(!r.ok)throw new Error('Rode gerar-data.ps1 primeiro');
+    if(!r.ok)throw new Error('Rode gerar-data.ps1');
     const raw=await r.json();
-    // Garante que content é sempre string — PowerShell pode gerar array ou objeto
     ALL=(Array.isArray(raw)?raw:[]).map(f=>{
       let c=f.content;
-      if(Array.isArray(c)) c=c.join('\n');
-      else if(typeof c!=='string') c=c?JSON.stringify(c):'';
-      return {...f,content:c};
+      if(Array.isArray(c))c=c.join('\n');
+      else if(typeof c!=='string')c=c?JSON.stringify(c):'';
+      return{...f,content:c};
     }).sort((a,b)=>new Date(b.mtime)-new Date(a.mtime));
-    buildMaps();renderAll();
+    renderAll();
     const t=new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
     document.getElementById('stxt').textContent='Atualizado '+t;
     document.getElementById('sdot').style.background='var(--green)';
@@ -426,173 +338,130 @@ async function loadData(){
 // ── RENDER ALL ──
 function renderAll(){
   const shorts=ALL.filter(f=>typ(f.path)==='s');
+  // Separate: has verse = versiculos, else oracoes
+  const versShorts=shorts.filter(f=>firstVerse(f.content));
+  const prayShorts=shorts.filter(f=>!firstVerse(f.content));
   const longs=ALL.filter(f=>typ(f.path)==='lg');
   const lives=ALL.filter(f=>typ(f.path)==='lv');
   const know=ALL.filter(f=>typ(f.path)==='k');
   const agents=ALL.filter(f=>typ(f.path)==='a');
-  const vn=Object.keys(VM).length, pn=Object.keys(PM).length;
+  const doneCount=[...DONE].length;
 
-  set('b-s',shorts.length); set('b-l',longs.length+lives.length);
-  set('b-k',know.length); set('b-a',agents.length);
-  set('sv-s',shorts.length); set('sv-lg',longs.length); set('sv-lv',lives.length);
-  set('sv-v',vn); set('sv-p',pn);
-  set('sc-s',shorts.length+' arquivos');
-  set('sc-lg',longs.length); set('sc-lv',lives.length);
-  set('sc-v',vn+' versículos'); set('sc-p',pn+' temas'); set('sc-k',know.length);
-  set('sc-a',agents.length);
+  set('b-v',versShorts.length); set('b-p',prayShorts.length);
+  set('b-l',longs.length+lives.length); set('b-k',know.length); set('b-a',agents.length);
+  set('sv-v',versShorts.length); set('sv-p',prayShorts.length);
+  set('sv-lg',longs.length); set('sv-lv',lives.length); set('sv-done',doneCount);
+  set('sc-v',versShorts.length+' arquivos'); set('sc-p',prayShorts.length+' arquivos');
+  set('sc-lg',longs.length); set('sc-lv',lives.length); set('sc-k',know.length); set('sc-a',agents.length);
 
-  renderList('list-shorts',shorts,'s');
-  renderList('list-long',longs,'lg');
-  renderList('list-live',lives,'lv');
-  renderList('list-know',know,'k');
-  renderList('list-agents',agents,'a');
-  renderVGrid(); renderPGrid(); renderQN();
+  renderShorts('list-v',versShorts,'v');
+  renderShorts('list-p',prayShorts,'p');
+  renderRaw('list-lg',longs,'l');
+  renderRaw('list-lv',lives,'l');
+  renderRaw('list-k',know,'k');
+  renderRaw('list-a',agents,'a');
 }
 
-// ── RENDER LIST ──
-function renderList(id,files,t){
+// ── RENDER SHORTS ──
+function renderShorts(id,files,subtype){
+  const el=document.getElementById(id);
+  if(!files.length){el.innerHTML='<div class="empty"><div class="empty-i">📂</div><h3>Nenhum arquivo</h3></div>';return;}
+  el.innerHTML=files.map(f=>shortCard(f,subtype)).join('');
+}
+
+function shortCard(f,subtype){
+  const uid='sc'+btoa(f.path).replace(/[^a-z0-9]/gi,'').slice(0,10);
+  const done=DONE.has(f.path);
+  const verse=firstVerse(f.content);
+  const prayer=detectPrayer(f.name,f.content);
+  const dt=new Date(f.mtime).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',year:'2-digit'});
+  const prev=preview(f.content);
+  const isV=subtype==='v';
+  // Title: verse for versiculos, prayer name for oracoes, fallback filename
+  const title=isV?(verse||f.name):(prayer||f.name);
+  const subtitle=isV?f.name:(verse?verse+' · '+f.name:f.name);
+  const ico=isV?'📖':'🙏';
+  const icClass=isV?'ic-v':'ic-p';
+  const tagClass=isV?'tag-v':'tag-p';
+  const tagLabel=isV?'Short Versículo':'Short Oração';
+  const cnt=JSON.stringify(f.content||'');
+  return`<div class="sc${done?' done':''}" id="${uid}">
+  <div class="sc-hd" onclick="togSc('${uid}')">
+    <div class="sc-ico ${icClass}">${ico}</div>
+    <div class="sc-meta">
+      <div class="sc-title">${title}</div>
+      <div class="sc-sub">${subtitle} · ${prev}</div>
+    </div>
+    <div class="sc-right">
+      <span class="sc-dt">${dt}</span>
+      <span class="tag ${tagClass}">${tagLabel}</span>
+      <button class="cbtn" onclick="event.stopPropagation();copyTxt(this,${cnt})">
+        <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar
+      </button>
+      <button class="check-btn" onclick="event.stopPropagation();toggleDone('${uid}','${f.path.replace(/'/g,"\\'")}')">✓</button>
+      <svg class="chev" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
+    </div>
+  </div>
+  <div class="sc-body">
+    <div class="sc-text">${String(f.content||'').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</div>
+    <div class="sc-foot">
+      <button class="cbtn" onclick="copyTxt(this,${cnt})">
+        <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar script completo
+      </button>
+    </div>
+  </div>
+</div>`;
+}
+
+// ── RENDER RAW ──
+function renderRaw(id,files,t){
   const el=document.getElementById(id);
   if(!el)return;
   if(!files.length){el.innerHTML='<div class="empty"><div class="empty-i">📂</div><h3>Nenhum arquivo</h3></div>';return;}
-  el.innerHTML=files.map(f=>fcard(f,t)).join('');
-}
-
-// ── FILE CARD ──
-function fcard(f,t){
-  const icons={s:'📝',lg:'📖',lv:'🎙️',k:'📚',a:'🤖'};
-  const ics={s:'i-s',lg:'i-l',lv:'i-l',k:'i-k',a:'i-a'};
-  const tags={s:'Short',lg:'Long-form',lv:'Live',k:'Base',a:'Agente'};
-  const tcs={s:'tag-s',lg:'tag-l',lv:'tag-l',k:'tag-k',a:'tag-a'};
-  const kb=(f.size/1024).toFixed(1);
-  const dt=new Date(f.mtime).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',year:'2-digit'});
-  const uid='fc'+Math.random().toString(36).slice(2,9);
-  const cnt=JSON.stringify(f.content||'');
-  const bodyHtml = t==='s' ? parsedBody(f,uid) : rawBody(f.content||'',cnt);
-  return`<div class="fc" id="${uid}">
-  <div class="fc-hd" onclick="tog('${uid}')">
-    <div class="fc-ico ${ics[t]}">${icons[t]}</div>
+  el.innerHTML=files.map(f=>{
+    const uid='fc'+btoa(f.path).replace(/[^a-z0-9]/gi,'').slice(0,10);
+    const dt=new Date(f.mtime).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',year:'2-digit'});
+    const cnt=JSON.stringify(f.content||'');
+    const safe=String(f.content||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    const icons={l:'🎙️',k:'📚',a:'🤖'};
+    const ics={l:'ic-l',k:'ic-k',a:'ic-a'};
+    const tcs={l:'tag-l',k:'tag-k',a:'tag-a'};
+    const tls={l:'Live',k:'Base',a:'Agente'};
+    return`<div class="fc" id="${uid}">
+  <div class="fc-hd" onclick="document.getElementById('${uid}').classList.toggle('open')">
+    <div class="sc-ico ${ics[t]}">${icons[t]}</div>
     <div class="fc-meta">
       <div class="fc-nm">${f.name}</div>
       <div class="fc-pt">${f.path}</div>
     </div>
     <div class="fc-r">
       <span class="fc-dt">${dt}</span>
-      <span class="tag ${tcs[t]}">${tags[t]}</span>
+      <span class="tag ${tcs[t]}">${tls[t]}</span>
       <button class="cbtn" onclick="event.stopPropagation();copyTxt(this,${cnt})">
         <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar
       </button>
-      <svg class="chev" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
+      <svg class="chev2" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
     </div>
   </div>
-  <div class="fc-body">${bodyHtml}</div>
+  <div class="fc-body">
+    <div class="fc-raw">${safe}</div>
+    <div class="fc-foot"><button class="cbtn" onclick="copyTxt(this,${cnt})"><svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar completo</button></div>
+  </div>
 </div>`;
+  }).join('');
 }
 
-function parsedBody(f,uid){
-  const sec=parseShort(f.content||'');
-  const cnt=JSON.stringify(f.content||'');
-  let html='<div class="fc-sections">';
-
-  if(sec.raw){
-    html+=secBlock('📄 Conteúdo','dot-raw',sec.raw,uid+'r');
-  }else{
-    if(sec.hook) html+=secBlock('🎯 Hook (0–3s)','dot-hook',sec.hook,uid+'h');
-    if(sec.script) html+=secBlock('🙏 Script / Oração','dot-script',sec.script,uid+'s');
-    if(sec.seo) html+=secBlock('🔍 SEO · título, tags, hashtags','dot-seo',sec.seo,uid+'e');
-    if(sec.prod) html+=secBlock('🎬 Guia de Produção · ElevenLabs · Gemini · CapCut','dot-prod',sec.prod,uid+'p');
-  }
-  html+='</div>';
-  html+=`<div class="fc-foot"><button class="cbtn" onclick="copyTxt(this,${cnt})"><svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar script completo</button></div>`;
-  return html;
+// ── TOGGLE DONE ──
+function toggleDone(uid,path){
+  if(DONE.has(path))DONE.delete(path);
+  else DONE.add(path);
+  localStorage.setItem('vdf_done',JSON.stringify([...DONE]));
+  document.getElementById(uid).classList.toggle('done');
+  set('sv-done',[...DONE].length);
 }
 
-function rawBody(content,cnt){
-  const safe=(content||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  return`<div class="fc-raw">${safe}</div><div class="fc-foot"><button class="cbtn" onclick="copyTxt(this,${cnt})"><svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar completo</button></div>`;
-}
-
-function secBlock(title,dotClass,content,id){
-  const safe=(content||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  const cnt=JSON.stringify(content||'');
-  return`<div class="fc-section">
-    <div class="fc-sec-hd" onclick="togSec('${id}')">
-      <div class="fc-sec-title"><div class="sec-dot ${dotClass}"></div>${title}</div>
-      <button class="cbtn" onclick="event.stopPropagation();copyTxt(this,${cnt})">
-        <svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar
-      </button>
-    </div>
-    <div class="fc-sec-body" id="${id}" style="display:none">${safe}</div>
-  </div>`;
-}
-
-function togSec(id){
-  const el=document.getElementById(id);
-  if(el)el.style.display=el.style.display==='none'?'block':'none';
-}
-
-// ── VERSE / PRAYER GRIDS ──
-function renderVGrid(){
-  const el=document.getElementById('vgrid');
-  const v=Object.entries(VM);
-  if(!v.length){el.innerHTML='<div style="color:var(--muted);font-size:10.5px;padding:4px 0">Nenhum versículo detectado nos scripts ainda</div>';return;}
-  el.innerHTML=v.sort((a,b)=>b[1].length-a[1].length).map(([k,a])=>`<div class="vchip" onclick="showVM(${JSON.stringify(k)})">${k}<small>${a.length} short${a.length>1?'s':''}</small></div>`).join('');
-}
-function renderPGrid(){
-  const el=document.getElementById('pgrid');
-  const p=Object.entries(PM);
-  if(!p.length){el.innerHTML='<div style="color:var(--muted);font-size:10.5px;padding:4px 0">Nenhuma oração categorizada nos scripts</div>';return;}
-  el.innerHTML=p.sort((a,b)=>b[1].length-a[1].length).map(([k,a])=>`<div class="vchip pc" onclick="showPM(${JSON.stringify(k)})">${k}<small>${a.length} versão${a.length>1?'ões':''}</small></div>`).join('');
-}
-
-// ── QUICK NAV — only what's in files ──
-function renderQN(){
-  const vEl=document.getElementById('qn-v');
-  const pEl=document.getElementById('qn-p');
-  const vk=Object.keys(VM);
-  const pk=Object.keys(PM);
-  if(vk.length){
-    vEl.innerHTML=vk.map(v=>`<div class="chip" onclick="showVM(${JSON.stringify(v)})">${v}</div>`).join('');
-  }else{
-    vEl.innerHTML='<span class="chip-empty">Nenhum versículo nos arquivos ainda</span>';
-  }
-  if(pk.length){
-    pEl.innerHTML=pk.map(p=>`<div class="chip pc" onclick="showPM(${JSON.stringify(p)})">${p}</div>`).join('');
-  }else{
-    pEl.innerHTML='<span class="chip-empty">Nenhuma oração categorizada ainda</span>';
-  }
-}
-
-// ── MODALS ──
-function showVM(v){
-  const files=VM[v]||[];
-  openModal(v,files.length?files.map(f=>`<div class="m-item" onclick="showFile(${JSON.stringify(f.path)})"><h3>${f.name}</h3><p>${f.path}</p></div>`).join(''):'<div class="empty"><p>Nenhum arquivo</p></div>');
-}
-function showPM(p){
-  const files=PM[p]||[];
-  openModal(p,files.length?files.map(f=>`<div class="m-item" onclick="showFile(${JSON.stringify(f.path)})"><h3>${f.name}</h3><p>${f.path}</p></div>`).join(''):'<div class="empty"><p>Nenhum arquivo</p></div>');
-}
-function showFile(path){
-  const f=ALL.find(x=>x.path===path);if(!f)return;
-  const sec=parseShort(f.content||'');
-  const cnt=JSON.stringify(f.content||'');
-  let body='';
-  if(sec.raw){
-    body=`<pre style="white-space:pre-wrap;font-size:10px;font-family:monospace;color:var(--muted2);line-height:1.7">${(sec.raw).replace(/</g,'&lt;').replace(/>/g,'&gt;')}</pre>`;
-  }else{
-    if(sec.hook)body+=`<div style="margin-bottom:8px"><div style="font-size:9px;color:var(--orange);text-transform:uppercase;letter-spacing:.07em;margin-bottom:4px;font-weight:500">🎯 Hook</div><pre style="white-space:pre-wrap;font-size:10px;font-family:monospace;color:var(--muted2);line-height:1.7;background:var(--bg2);padding:8px;border-radius:6px">${sec.hook.replace(/</g,'&lt;').replace(/>/g,'&gt;')}</pre></div>`;
-    if(sec.script)body+=`<div style="margin-bottom:8px"><div style="font-size:9px;color:var(--green);text-transform:uppercase;letter-spacing:.07em;margin-bottom:4px;font-weight:500">🙏 Script / Oração</div><pre style="white-space:pre-wrap;font-size:10px;font-family:monospace;color:var(--muted2);line-height:1.7;background:var(--bg2);padding:8px;border-radius:6px">${sec.script.replace(/</g,'&lt;').replace(/>/g,'&gt;')}</pre></div>`;
-    if(sec.seo)body+=`<div style="margin-bottom:8px"><div style="font-size:9px;color:var(--blue);text-transform:uppercase;letter-spacing:.07em;margin-bottom:4px;font-weight:500">🔍 SEO</div><pre style="white-space:pre-wrap;font-size:10px;font-family:monospace;color:var(--muted2);line-height:1.7;background:var(--bg2);padding:8px;border-radius:6px">${sec.seo.replace(/</g,'&lt;').replace(/>/g,'&gt;')}</pre></div>`;
-    if(sec.prod)body+=`<div style="margin-bottom:8px"><div style="font-size:9px;color:var(--purple);text-transform:uppercase;letter-spacing:.07em;margin-bottom:4px;font-weight:500">🎬 Produção</div><pre style="white-space:pre-wrap;font-size:10px;font-family:monospace;color:var(--muted2);line-height:1.7;background:var(--bg2);padding:8px;border-radius:6px">${sec.prod.replace(/</g,'&lt;').replace(/>/g,'&gt;')}</pre></div>`;
-  }
-  body+=`<button class="cbtn" style="margin-top:6px" onclick="copyTxt(this,${cnt})"><svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar completo</button>`;
-  openModal(f.name,body);
-}
-
-function openModal(title,body){document.getElementById('m-title').textContent=title;document.getElementById('m-body').innerHTML=body;document.getElementById('mbg').classList.add('on');}
-function closeMbg(e){if(e.target===document.getElementById('mbg'))closeModal();}
-function closeModal(){document.getElementById('mbg').classList.remove('on');}
-
-// ── NAV ──
+// ── HELPERS ──
+function togSc(id){document.getElementById(id).classList.toggle('open');}
 function nav(p,el){
   document.querySelectorAll('.sb-nav').forEach(i=>i.classList.remove('on'));
   document.querySelectorAll('.panel').forEach(x=>x.classList.remove('on'));
@@ -601,32 +470,21 @@ function nav(p,el){
   document.getElementById('ptitle').textContent=PAGES[p].t;
   document.getElementById('psub').textContent=PAGES[p].s;
 }
-function qnt(t,el){
-  document.querySelectorAll('.qnav-tab').forEach(x=>x.classList.remove('on'));
-  el.classList.add('on');
-  document.getElementById('qn-v').style.display=t==='v'?'flex':'none';
-  document.getElementById('qn-p').style.display=t==='p'?'flex':'none';
-}
-function tog(id){document.getElementById(id).classList.toggle('open');}
 function set(id,v){const e=document.getElementById(id);if(e)e.textContent=v;}
-
-// ── SEARCH ──
 function doSearch(){
   const q=document.getElementById('srch-inp').value.toLowerCase().trim();
   if(!q){renderAll();return;}
   const f=ALL.filter(x=>String(x.name||'').toLowerCase().includes(q)||String(x.content||'').toLowerCase().includes(q));
   const pid=document.querySelector('.panel.on').id.replace('panel-','');
-  if(pid==='shorts')renderList('list-shorts',f.filter(x=>typ(x.path)==='s'),'s');
-  else if(pid==='live'){renderList('list-long',f.filter(x=>typ(x.path)==='lg'),'lg');renderList('list-live',f.filter(x=>typ(x.path)==='lv'),'lv');}
-  else if(pid==='conhecimento')renderList('list-know',f.filter(x=>typ(x.path)==='k'),'k');
-  else if(pid==='agentes')renderList('list-agents',f.filter(x=>typ(x.path)==='a'),'a');
+  if(pid==='versiculos')renderShorts('list-v',f.filter(x=>typ(x.path)==='s'&&firstVerse(x.content)),'v');
+  else if(pid==='oracoes')renderShorts('list-p',f.filter(x=>typ(x.path)==='s'&&!firstVerse(x.content)),'p');
+  else if(pid==='live'){renderRaw('list-lg',f.filter(x=>typ(x.path)==='lg'),'l');renderRaw('list-lv',f.filter(x=>typ(x.path)==='lv'),'l');}
+  else if(pid==='conhecimento')renderRaw('list-k',f.filter(x=>typ(x.path)==='k'),'k');
+  else if(pid==='agentes')renderRaw('list-a',f.filter(x=>typ(x.path)==='a'),'a');
 }
-
-// ── COPY ──
 function copyTxt(btn,text){
   navigator.clipboard.writeText(text).then(()=>{
-    const o=btn.innerHTML;
-    btn.classList.add('ok');
+    const o=btn.innerHTML;btn.classList.add('ok');
     btn.innerHTML='<svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> Copiado!';
     setTimeout(()=>{btn.classList.remove('ok');btn.innerHTML=o;},2000);
   });
