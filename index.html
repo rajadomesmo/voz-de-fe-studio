@@ -352,7 +352,10 @@ function parseShort(content){
 // ── TYPE DETECTION ──
 function typ(p){
   const l=(p||'').toLowerCase().replace(/\\/g,'/');
-  if(l.includes('shorts/scripts')||/\/short-\d/.test(l)) return 's';
+  // prompts de imagem vão para conhecimento, não scripts
+  if(l.includes('prompts-imagem')) return 'k';
+  // apenas arquivos dentro de shorts/scripts/ são shorts
+  if(l.includes('shorts/scripts/')) return 's';
   if(l.includes('live/playlist')) return 'lv';
   if(/scripts\/roteiro/.test(l)) return 'lg';
   if(l.includes('agents/')) return 'a';
