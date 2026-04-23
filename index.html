@@ -324,27 +324,28 @@ let ALL=[], VM={}, PM={};
 // ── PARSE SHORT SECTIONS ──
 function parseShort(content){
   const sections={hook:'',script:'',seo:'',prod:'',raw:''};
-  if(!content){sections.raw='(vazio)';return sections;}
+  const c=String(content||'');
+  if(!c.trim()){sections.raw='(vazio)';return sections;}
 
   // SEO block
-  const seoMatch=content.match(/---\s*SEO\s*---([\s\S]*?)(?=---|$)/i);
+  const seoMatch=c.match(/---\s*SEO\s*---([\s\S]*?)(?=---|$)/i);
   if(seoMatch)sections.seo=seoMatch[1].trim();
 
   // PROD / GUIA block
-  const prodMatch=content.match(/---\s*(?:GUIA DE PRODUÇÃO|PRODUÇÃO|PRODUCTION)\s*---([\s\S]*?)(?=---|$)/i);
+  const prodMatch=c.match(/---\s*(?:GUIA DE PRODUÇÃO|PRODUÇÃO|PRODUCTION)\s*---([\s\S]*?)(?=---|$)/i);
   if(prodMatch)sections.prod=prodMatch[1].trim();
 
   // HOOK block (0-3s)
-  const hookMatch=content.match(/(?:HOOK|hook|Hook)[^\n]*\n+([\s\S]*?)(?=\n###|\n##|\nCORPO|\nSCRIPT|\nCTA|---)/i);
+  const hookMatch=c.match(/(?:HOOK|hook|Hook)[^\n]*\n+([\s\S]*?)(?=\n###|\n##|\nCORPO|\nSCRIPT|\nCTA|---)/i);
   if(hookMatch)sections.hook=hookMatch[1].trim();
 
   // SCRIPT / CORPO block
-  const scriptMatch=content.match(/(?:CORPO|BODY|Script completo|ROTEIRO|corpo)[^\n]*\n+([\s\S]*?)(?=\n###|\n##|\nCTA|---GUIA|---SEO|---)/i);
+  const scriptMatch=c.match(/(?:CORPO|BODY|Script completo|ROTEIRO|corpo)[^\n]*\n+([\s\S]*?)(?=\n###|\n##|\nCTA|---GUIA|---SEO|---)/i);
   if(scriptMatch)sections.script=scriptMatch[1].trim();
 
   // If no parsed sections, use raw
   if(!sections.hook&&!sections.script&&!sections.seo&&!sections.prod){
-    sections.raw=content;
+    sections.raw=c;
   }
   return sections;
 }

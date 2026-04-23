@@ -21,3 +21,4 @@ $json | Out-File -FilePath "$root\data.json" -Encoding utf8
 Write-Host "data.json gerado com $($files.Count) arquivos"
 
 
+
