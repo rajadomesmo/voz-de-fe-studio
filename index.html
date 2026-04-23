@@ -373,7 +373,7 @@ function extractVerses(content){
 // ── EXTRACT PRAYER TYPES ──
 const PRAYER_TYPES=['oração da noite','oração da manhã','oração do dia','oração para dormir','oração de proteção','oração de cura','oração da gratidão','oração de guerra','oração de libertação','oração de prosperidade','oração da meia-noite','oração de intercessão','oração de arrependimento','oração de força','oração de paz','oração de vitória','oração de esperança','oração de fé'];
 function extractPrayer(name,content){
-  const cl=(content||'').toLowerCase();
+  const cl=String(content||'').toLowerCase();
   for(const p of PRAYER_TYPES) if(cl.includes(p)) return p;
   const m=cl.match(/oração\s+(d[aoe]?\s+\w+)/);
   return m?m[0].toLowerCase():null;
@@ -383,11 +383,12 @@ function extractPrayer(name,content){
 function buildMaps(){
   VM={};PM={};
   ALL.filter(f=>typ(f.path)==='s'&&f.content).forEach(f=>{
-    extractVerses(f.content).forEach(v=>{
+    const content=String(f.content||'');
+    extractVerses(content).forEach(v=>{
       if(!VM[v])VM[v]=[];
       if(!VM[v].find(x=>x.path===f.path))VM[v].push(f);
     });
-    const p=extractPrayer(f.name,f.content);
+    const p=extractPrayer(f.name,content);
     if(p){
       if(!PM[p])PM[p]=[];
       if(!PM[p].find(x=>x.path===f.path))PM[p].push(f);
@@ -605,7 +606,7 @@ function set(id,v){const e=document.getElementById(id);if(e)e.textContent=v;}
 function doSearch(){
   const q=document.getElementById('srch-inp').value.toLowerCase().trim();
   if(!q){renderAll();return;}
-  const f=ALL.filter(x=>x.name.toLowerCase().includes(q)||(x.content||'').toLowerCase().includes(q));
+  const f=ALL.filter(x=>String(x.name||'').toLowerCase().includes(q)||String(x.content||'').toLowerCase().includes(q));
   const pid=document.querySelector('.panel.on').id.replace('panel-','');
   if(pid==='shorts')renderList('list-shorts',f.filter(x=>typ(x.path)==='s'),'s');
   else if(pid==='live'){renderList('list-long',f.filter(x=>typ(x.path)==='lg'),'lg');renderList('list-live',f.filter(x=>typ(x.path)==='lv'),'lv');}
