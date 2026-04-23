@@ -17,5 +17,6 @@ Get-ChildItem -Path $root -Recurse -Include "*.md","*.txt" | ForEach-Object {
 }
 
 $json = $files | ConvertTo-Json -Depth 3
-$json | Out-File -FilePath "$root\data.json" -Encoding utf8NoBOM
+$json | Out-File -FilePath "$root\data.json" -Encoding utf8
 Write-Host "data.json gerado com $($files.Count) arquivos"
+
