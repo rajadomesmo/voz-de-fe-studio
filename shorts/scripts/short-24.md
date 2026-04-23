@@ -61,6 +61,4 @@ Em nome de *Jesus Cristo*. [pausa curta]
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, urgente
-- Velocidade: 0.92
-- Emoção: urgente, crescente, vitoriosa na madrugada
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

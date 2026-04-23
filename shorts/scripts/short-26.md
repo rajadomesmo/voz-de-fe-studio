@@ -66,6 +66,4 @@ Salva e deixa no celular para a hora que precisar."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, pastoral — quente e acolhedora
-- Velocidade: 0.82
-- Emoção: acolhedora, misericordiosa, íntima — como mãe orando com filho
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

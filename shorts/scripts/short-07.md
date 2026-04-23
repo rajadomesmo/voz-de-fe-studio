@@ -63,6 +63,4 @@ E você — salva e declare *toda manhã antes de sair de casa*."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: masculina, grave, autoridade
-- Velocidade: 0.90
-- Emoção: firme, poderoso, crescente
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

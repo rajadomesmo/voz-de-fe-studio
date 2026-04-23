@@ -61,6 +61,4 @@ E salva — ore *todo dia junto com seu esposo*."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, esperançosa
-- Velocidade: 0.87
-- Emoção: amorosa, esperançosa, intercessória
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

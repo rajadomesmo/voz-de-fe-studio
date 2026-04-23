@@ -61,6 +61,4 @@ O Espírito Santo é o Consolador que Jesus prometeu para você."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, reverente
-- Velocidade: 0.85
-- Emoção: reverente, íntima, contemplativa
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

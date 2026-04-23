@@ -64,6 +64,4 @@ Salva e ouça toda vez que a tristeza apertar."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, acolhedora
-- Velocidade: 0.85
-- Emoção: acolhedora, ferida → restaurada
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

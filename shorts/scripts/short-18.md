@@ -65,6 +65,4 @@ Declara as bênçãos de Deuteronômio 28 sobre sua vida."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, proclamação
-- Velocidade: 0.92
-- Emoção: crescente, poderosa, vitoriosa
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

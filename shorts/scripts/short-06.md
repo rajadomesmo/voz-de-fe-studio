@@ -63,6 +63,4 @@ Filipenses 4:7 — a paz de Deus guarda quem ora."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, grave
-- Velocidade: 0.85 (lenta)
-- Emoção: serena, contemplativa
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

@@ -60,6 +60,4 @@ Deus abre portas que nenhum homem pode fechar."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, pastoral
-- Velocidade: 0.85
-- Emoção: esperançosa, contemplativa, segura
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

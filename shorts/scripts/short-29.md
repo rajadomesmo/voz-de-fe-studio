@@ -65,6 +65,4 @@ Salva e ouça antes de ministrar."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, com autoridade espiritual crescente
-- Velocidade: 0.85
-- Emoção: começa íntima/reveladora → cresce em autoridade → termina em certeza
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

@@ -61,6 +61,4 @@ Fé falada em voz alta é fé que age."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, convicta
-- Velocidade: 0.90
-- Emoção: confiante, firme, declaratória
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

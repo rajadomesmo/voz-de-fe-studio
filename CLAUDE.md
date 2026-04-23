@@ -12,7 +12,8 @@
 
 ## Tom da Voz
 - Pastoral, grave, acolhedor, urgente mas sereno
-- Voz IA via ElevenLabs
+- Voz IA via ElevenLabs — SEMPRE MASCULINA, grave, velocidade 0.85
+- NUNCA usar voz feminina neste canal
 
 ## Canais de Referência
 - Bispo Bruno Leonardo
@@ -21,14 +22,14 @@
 
 ## Meta de Produção
 - 1 vídeo longo/dia (10–15 min)
-- 5 Shorts/dia via OpusClip (canal 2)
+- 5 Shorts/dia — conteúdo original (não cortes de longs)
 - Horários de upload: 5h, 18h ou 0h
 
 ## Ferramentas
-- ElevenLabs: geração de voz
-- Gemini: geração de imagens
+- ElevenLabs: geração de voz (MASCULINA, grave, 0.85)
+- Gemini: geração de imagens (prompts incluídos nos scripts)
 - CapCut: edição de vídeo
-- OpusClip: corte automático de Shorts
+- OpusClip: opcional
 
 ## Regra Anti-Demonetização
 - Nunca repetir mesma estrutura de roteiro 2x seguido
@@ -36,9 +37,11 @@
 - Declarar IA na descrição de todos os vídeos
 
 ## Pastas
-- transcricoes\ → transcrições dos canais de referência
-- scripts\ → roteiros gerados
-- prompts-imagem\ → prompts para Gemini
-- seo\ → análises, títulos, tags, descrições
+- agents\ → agentes de IA (researcher, scriptwriter, seo, memory, orchestrator)
+- knowledge\ → banco de keywords, hooks aprendidos, referências visuais
+- shorts\scripts\ → scripts de Shorts (contém script + guia produção + SEO integrado)
+- scripts\ → roteiros longos (10–15 min)
+- live\playlist\ → loops para Gyre (30–60 min)
+- seo\ → SEO de roteiros longos (long-[N].md) e lives (live-[N].md)
 - audio\ → arquivos .mp3 gerados no ElevenLabs
 - thumbnails\ → artes finais 1280x720

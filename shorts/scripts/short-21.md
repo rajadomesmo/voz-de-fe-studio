@@ -60,6 +60,4 @@ E salva — declare vitória *toda manhã em voz alta*."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, vitoriosa
-- Velocidade: 0.92
-- Emoção: crescente, explosiva, vitoriosa
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

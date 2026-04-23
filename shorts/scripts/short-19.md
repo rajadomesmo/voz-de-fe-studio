@@ -63,6 +63,4 @@ Salmo 4:8 — durma em paz, protegido por Deus."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, sussurrada
-- Velocidade: 0.80 (mais lenta de todos)
-- Emoção: serena, quase sonolenta, sagrada
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

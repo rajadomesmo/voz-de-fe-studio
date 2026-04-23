@@ -64,6 +64,4 @@ Manda esse Short *agora* — Deus tem um plano para essa pessoa."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, com autoridade crescente
-- Velocidade: 0.88
-- Emoção: esperançosa, firme, declaratória — cresce do íntimo ao proclamatório
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

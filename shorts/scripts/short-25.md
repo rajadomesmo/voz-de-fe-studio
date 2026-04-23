@@ -63,6 +63,4 @@ Salmo 103 — gratidão que não esquece os milagres."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, grata
-- Velocidade: 0.83
-- Emoção: grata, contemplativa, emocionada suavemente
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

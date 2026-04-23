@@ -26,18 +26,16 @@ oração poderosa, salmo 91, oração para dormir, oração da meia-noite,
 oração de proteção, oração de cura, decreto profético, guerra espiritual,
 oração evangélica, declaração de fé, oração para prosperidade
 
-## Conhecimento de Retenção e LTV
-- Todo Short deve começar com frase de prova social + gatilho de hábito
-- Estrutura obrigatória:
-  [0-3s] "Essa oração [tema] já ajudou [X] pessoas — ouça todo dia e veja o milagre"
-  [3-50s] Oração/declaração principal
-  [50-60s] CTA de hábito: "Salva esse Short e ouça amanhã de manhã"
-- NUNCA usar "se inscreva" como único CTA — é fraco para retenção
-- CTA de hábito ("salva", "ouça todo dia", "coloca no alarme") gera mais retorno do que CTA de inscrição
-- Prova social no hook aumenta retenção nos primeiros 3 segundos
-- Quanto mais específica a promessa do hook, maior a retenção
-  Fraco: "Essa oração vai te ajudar"
-  Forte: "Essa oração de 60 segundos já tirou correntes de mais de 50 mil pessoas"
+## Conhecimento de Retenção e LTV — 5 tipos de hook (rotar entre eles)
+1. Narração direta do versículo — sem introdução, cai direto no texto bíblico
+2. Afirmação 2ª pessoa — "Você foi escolhido para ouvir isso hoje"
+3. Urgência espiritual — "Deus está agindo AGORA MESMO na sua vida"
+4. Gatilho de identidade — "SE VOCÊ VIU ISSO não é por acaso"
+5. Promessa específica — "Essa oração mudou [X] vidas em [X] dias"
+
+Regra: rotar entre os 5 tipos — nunca usar o mesmo tipo 2x seguido.
+CTA: sempre hábito — "salva", "ouça amanhã", "manda pra alguém", "coloca no alarme".
+Hooks fracos PROIBIDOS: "bem-vindo", "olá", "neste short", abertura suave.
 
 ## Consultas obrigatórias
 1. Leia `knowledge\banco-keywords\` para usar keywords validadas
@@ -64,6 +62,9 @@ oração evangélica, declaração de fé, oração para prosperidade
 ### Bloco 5 — Horário sugerido
 Melhor horário de upload: 5h / 18h / 0h (com justificativa)
 
-Salve em: `seo\seo-roteiro-[N].md`
+**Shorts:** NÃO usar este agente — SEO já está integrado no arquivo do script (agent-scriptwriter entrega tudo junto).
+
+**Roteiros longos (10–15 min):** salve em `seo\long-[N].md`
+**Lives / Gyre (30–60 min):** salve em `seo\live-[N].md`
 
 O usuário usa esse arquivo abrindo o YouTube Studio e colando cada bloco no campo correspondente.

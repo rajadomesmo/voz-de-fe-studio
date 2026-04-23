@@ -66,6 +66,4 @@ A oração da fé chega onde você não consegue ir."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, compassiva
-- Velocidade: 0.82
-- Emoção: contemplativa, compassiva, fé firme — como alguém orando à beira do leito
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

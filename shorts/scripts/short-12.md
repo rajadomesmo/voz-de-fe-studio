@@ -60,6 +60,4 @@ A Palavra de Deus renova o que a terapia não alcança."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, firme
-- Velocidade: 0.90
-- Emoção: determinada, crescente, poderosa
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

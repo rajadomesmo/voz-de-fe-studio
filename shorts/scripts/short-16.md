@@ -61,6 +61,4 @@ Dorme quem entrega o peso a Deus."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, aliviada
-- Velocidade: 0.83
-- Emoção: cansada no início → aliviada no final
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

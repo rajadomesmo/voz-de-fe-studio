@@ -65,6 +65,4 @@ Isaías 40:31 — força renovada para quem espera."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, encorajadora
-- Velocidade: 0.85
-- Emoção: acolhedora, serena, crescendo em esperança
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

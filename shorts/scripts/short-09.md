@@ -61,6 +61,4 @@ Comece todo dia falando com Deus antes de tudo."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, suave
-- Velocidade: 0.85
-- Emoção: íntima, contemplativa, esperançosa
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

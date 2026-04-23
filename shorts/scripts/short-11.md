@@ -63,6 +63,4 @@ Gratidão diária muda o que a ansiedade não consegue mudar."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, suave
-- Velocidade: 0.83
-- Emoção: grata, serena, contemplativa
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

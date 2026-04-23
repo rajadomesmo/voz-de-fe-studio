@@ -75,7 +75,32 @@ agent-memory → registre no MEMORY
 
 Salvar em:
 - live\playlist\oracao-loop-[N].md
-- seo\seo-live-[N].md
+- seo\live-[N].md
+
+---
+
+## CICLO ROTEIRO LONGO (10–15 min)
+
+Ativado quando: usuário pedir vídeo longo, roteiro de 10–15 min, não para live/Gyre
+
+Etapa 1 — PRÉ-CICLO (obrigatório — ver acima)
+
+Etapa 2 — Roteiro
+agent-scriptwriter → gere roteiro de 10–15 min:
+- Formato: DECLARAÇÃO ou SALMO GUIADO
+- Versículos reais com leitura pausada
+- Marcadores [pausa curta] e [pausa longa] entre blocos
+- 2 prompts Gemini: thumbnail 1280×720 + vídeo fundo 9:16 loop
+
+Etapa 3 — SEO
+agent-seo → SEO completo em seo\long-[N].md (título, descrição 300+ palavras, tags, timestamps, horário)
+
+Etapa 4 — Memória
+agent-memory → atualizar MEMORY com tema, livro bíblico, estrutura e hook usados
+
+Salvar em:
+- scripts\roteiro-[N]-[tema].md
+- seo\long-[N].md
 
 ---
 

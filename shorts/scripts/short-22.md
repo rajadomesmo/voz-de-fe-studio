@@ -62,6 +62,4 @@ Deus ainda fala por sonhos e visões — Joel 2:28."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, profética
-- Velocidade: 0.88
-- Emoção: profética, expectante, reverente
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

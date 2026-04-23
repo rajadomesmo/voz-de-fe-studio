@@ -63,6 +63,4 @@ Em Cristo — você não é mais quem você era."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, grave, libertadora
-- Velocidade: 0.90
-- Emoção: convicta, crescente, libertadora
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade

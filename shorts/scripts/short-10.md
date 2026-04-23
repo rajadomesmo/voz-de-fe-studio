@@ -62,6 +62,4 @@ E salva — ore pelos seus filhos *todo dia*."**
 ---
 
 ## Instrução ElevenLabs
-- Voz sugerida: feminina, warm, maternal
-- Velocidade: 0.88
-- Emoção: amorosa, determinada, intercessória
+ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
