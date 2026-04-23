@@ -3,7 +3,7 @@
 **Tema:** Prosperidade e desbloqueio financeiro  
 **Estrutura:** Intercessória (intercessão pela vida financeira, trabalho e sonhos travados)  
 **Duração estimada:** 11–13 min em voz firme e pastoral  
-**Voz ElevenLabs:** grave, médio-rápido, urgente nas intercessões — autoridade com calor pastoral
+**Voz ElevenLabs:** MASCULINA, grave, médio-rápido — velocidade 0.85 — urgente nas intercessões — autoridade com calor pastoral — NUNCA voz feminina
 
 ---
 

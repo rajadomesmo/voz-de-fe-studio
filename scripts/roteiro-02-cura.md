@@ -3,7 +3,7 @@
 **Tema:** Cura e restauração do corpo e da mente  
 **Estrutura:** Declaratória (série de decretos de cura, autoridade espiritual plena)  
 **Duração estimada:** 11–13 min em voz firme e pastoral  
-**Voz ElevenLabs:** grave, confiante, ritmo médio, acelerado nas declarações — autoridade sem grito
+**Voz ElevenLabs:** MASCULINA, grave, confiante, ritmo médio — velocidade 0.85 — acelerado nas declarações — autoridade sem grito — NUNCA voz feminina
 
 ---
 

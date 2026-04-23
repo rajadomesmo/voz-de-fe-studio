@@ -3,7 +3,7 @@
 **Tema:** Proteção  
 **Estrutura:** Contemplativa (meditação sobre a presença de Deus como escudo)  
 **Duração estimada:** 11–13 min em voz lenta e pastoral  
-**Voz ElevenLabs:** grave, calma, pausas longas — não urgente, não bélico
+**Voz ElevenLabs:** MASCULINA, grave, calma, pausas longas — velocidade 0.85 — não urgente, não bélico — NUNCA voz feminina
 
 ---
 

@@ -10,13 +10,17 @@
 Independente do que o usuário pedir, execute SEMPRE estas 2 etapas antes:
 
 PRÉ-CICLO obrigatório:
-1. agent-memory → leia MEMORY. Identifique: últimos temas, hooks usados, o que foi descartado, formatos recentes
-2. agent-researcher → faça varredura rápida de incremento:
+1. agent-memory → leia MEMORY. Identifique: últimos temas, hooks usados, versículos e orações já usados, categoria (A/B) do último ciclo, o que foi descartado, formatos recentes
+2. agent-researcher → faça varredura rápida:
    - Leia knowledge\canais-referencia\shorts-referencia.md
-   - Leia seo\tendencias.md (se existir)
-   - Via Chrome MCP, busque no YouTube os 3 Shorts de oração mais recentes (últimos 7 dias)
-   - Identifique se há tema novo em alta não explorado ainda
-   - Salve achados novos em seo\tendencias.md (append, não sobrescrever)
+   - Leia seo\tendencias.md — inclusive seção de histórico A/B
+   - Leia knowledge\banco-titulos\hooks-aprendidos.md
+   - Busque no YouTube Shorts as 2 categorias separadamente (últimos 7 dias):
+     · CATEGORIA A: oração pura (oração da noite, oração da manhã, oração de proteção)
+     · CATEGORIA B: versículo/Salmo recitado + oração derivada
+   - Compare views, engajamento e velocidade viral — decida qual está performando melhor
+   - Registre a decisão com dados em seo\tendencias.md (append)
+   - Identifique tema novo em alta não explorado ainda
 
 Só depois do PRÉ-CICLO inicia o ciclo solicitado.
 
@@ -28,28 +32,25 @@ Ativado quando: usuário pedir shorts, vídeos curtos, novos conteúdos
 
 Etapa 1 — PRÉ-CICLO (obrigatório — ver acima)
 
-Etapa 2 — Roteiros
-agent-scriptwriter → com base no PRÉ-CICLO, gere os scripts solicitados:
-- Hook de prova social obrigatório (0-3s)
-- Versículo bíblico real — priorizar Salmos
+Etapa 2 — Roteiros + SEO + Produção
+agent-scriptwriter → com base no PRÉ-CICLO (incluindo decisão A/B do researcher), gere os scripts:
+- Categoria usada: A (oração pura) ou B (versículo + oração) — conforme decisão do researcher
+- Hook lido de knowledge\banco-titulos\hooks-aprendidos.md — nunca repetir dos últimos 10
 - Corpo com [pausa curta] e marcadores de ênfase
 - CTA de hábito obrigatório — não apenas "se inscreva"
-- Prompt de imagem em inglês para Gemini (dark, cinematic, 9:16, no text)
-- Nunca repetir Salmo ou estrutura dos últimos 3 gerados
+- Nunca repetir Salmo, oração ou estrutura dos últimos 3 gerados
+- Ao final de cada script: Guia de Produção completo + SEO integrado (NÃO criar seo\ separado)
 
-Etapa 3 — SEO
-agent-seo → gere pacote SEO completo para cada Short:
-- 3 opções de título (máx 60 caracteres)
-- Descrição curta com keyword na 1ª linha
-- 5 hashtags
-- Horário sugerido de postagem
+Guia de Produção obrigatório em cada script:
+- 2 prompts Gemini: thumbnail 1280×720 + vídeo fundo 9:16 loop
+- ElevenLabs: MASCULINA, grave, velocidade 0.85 — NUNCA feminina
+- CapCut: 9:16, 1080×1920, legenda automática, música lo-fi cristã
 
-Etapa 4 — Memória
-agent-memory → atualize MEMORY com temas, Salmos, hooks e CTAs usados. Sugira próximos 3 temas.
+Etapa 3 — Memória
+agent-memory → atualize MEMORY com: temas, versículos/orações usados, categoria (A/B), tipo de hook, CTA. Sugira próximos 3 temas.
 
 Salvar em:
-- shorts\scripts\short-[N]-[tema].md
-- seo\seo-short-[N].md
+- shorts\scripts\short-[N]-[tema].md (contém script + guia produção + SEO — tudo em um arquivo)
 
 ---
 

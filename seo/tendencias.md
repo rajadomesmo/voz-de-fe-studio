@@ -50,3 +50,19 @@ Busca: "oração shorts", "versículo bíblico", "declaração de fé" — últi
 ## Próxima Pesquisa Sugerida
 - Buscar: "decreto profético 2026", "oração da madrugada", "guerra espiritual shorts"
 - Data sugerida: 2026-04-30
+
+---
+
+## Histórico de Decisões A/B — Categoria por Ciclo
+
+> Preenchido pelo agent-researcher a cada ciclo de pesquisa.
+> Formato: data | categoria vencedora | dados que embasaram | recomendação
+
+| Data | Cat. Vencedora | Views Cat A | Views Cat B | Decisão |
+|------|----------------|-------------|-------------|---------|
+| — | — | — | — | Aguardando primeira pesquisa comparativa |
+
+### Como interpretar
+- **Cat A** = oração pura (sem versículo base obrigatório)
+- **Cat B** = versículo/Salmo recitado + oração derivada
+- O researcher preenche essa tabela após cada pesquisa e registra também no MEMORY
