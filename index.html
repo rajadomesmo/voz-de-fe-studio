@@ -457,8 +457,6 @@ function toggleDone(key,path){
 }
 
 function copyIdx(key){
-  const text=key===-1||key==='-1'?document.querySelector('.fc-raw')||document.querySelector('.sc-text')?.(document.querySelector('.sc-text').textContent):'':( STORE[key]||'');
-  // Para key=-1 pega o fc-raw visível
   const txt=key===-1||key==='-1'?(document.querySelector('.fc-raw')||{textContent:''}).textContent:(STORE[key]||'');
   const sel=key===-1||key==='-1'?'[onclick*="copyIdx(-1)"]':`[onclick*="copyIdx('${key}')"]`;
   const btns=[...document.querySelectorAll(sel)];
