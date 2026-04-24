@@ -265,14 +265,23 @@ function firstVerse(c){
   return m?m[0].trim():null;
 }
 
-const PTYPES=['oração da noite','oração da manhã','oração do dia','oração para dormir','oração de proteção','oração de cura','oração da gratidão','oração de guerra','oração de libertação','oração de prosperidade','oração da meia-noite','oração de intercessão','oração de arrependimento','oração de força','oração de paz','oração de vitória','oração de esperança','oração de fé'];
-
 function detectPrayer(name,c){
-  const cl=String(c||'').toLowerCase();
-  const fn=String(name||'').toLowerCase().replace(/-/g,' ').replace('.md','');
-  for(const p of PTYPES){if(cl.includes(p)||fn.includes(p))return p;}
-  const m=cl.match(/oração\s+(?:d[aoe]?\s+)?\w+/);
-  return m?m[0]:null;
+  const content=String(c||'');
+  // 1. H1/H2 heading — "# Short 29 — Unção e Chamado" → "Unção e Chamado"
+  const hdM=content.match(/^#{1,3}\s+(.+)/m);
+  if(hdM){
+    const hd=hdM[1].replace(/\*+/g,'').trim();
+    // Remove "Short XX —" prefix
+    const cleaned=hd.replace(/^short\s+\d+\s*[—–\-]+\s*/i,'').replace(/\(.*?\)$/,'').trim();
+    if(cleaned.length>2)return capitalizeFirst(cleaned);
+  }
+  // 2. **Tema:** field
+  const tM=content.match(/\*\*[Tt]ema[:\s]+\*\*([^\n]+)/);
+  if(tM){const t=tM[1].replace(/\*/g,'').trim();if(t.length>2)return capitalizeFirst(t);}
+  // 3. Filename: short-03-correntes → "Correntes", short-02-sono → "Sono"
+  const fn=String(name||'').replace('.md','').replace(/^short-\d+-?/,'').replace(/-/g,' ').trim();
+  if(fn&&fn.length>1)return capitalizeFirst(fn);
+  return 'Oração';
 }
 
 function preview(c){
@@ -348,7 +357,6 @@ function buildShortList(listId,files,subtype){
     <div class="sc-ico ${isV?'ic-v':'ic-p'}">${isV?'📖':'🙏'}</div>
     <div class="sc-meta">
       <div class="sc-title">${esc(title)}</div>
-      ${isV&&prayer?`<div class="sc-prayer">${esc(capitalizeFirst(prayer))}</div>`:''}
       ${!isV&&verse?`<div class="sc-prayer">${esc(verse)}</div>`:''}
       <div class="sc-sub">${esc(f.name)} · ${esc(preview(f.content))}</div>
     </div>
