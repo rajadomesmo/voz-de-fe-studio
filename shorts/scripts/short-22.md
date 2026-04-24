@@ -3,7 +3,6 @@
 **Estrutura:** Declaratório
 **Base bíblica:** Joel 2:28
 **Versículo escolhido:** "E acontecerá depois que eu derramarei o meu Espírito sobre toda a carne; vossos filhos e vossas filhas profetizarão, os vossos velhos terão sonhos, os vossos jovens terão visões."
-**Por que este versículo:** Joel 2:28 é a promessa de sonhos e visões mais impactante do AT. Alta aplicação para o público que busca orientação divina, sonhos de noite, profecias. Tema pouco explorado em Shorts de oração.
 **Livro:** Antigo Testamento — Joel
 **Duração estimada:** 52–58s
 
@@ -19,47 +18,54 @@ Cinematic dark prophetic dream scene. A dark night sky filled with stars, with a
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, profética, com autoridade espiritual*
+Essa declaração de Joel 2 já despertou sonhos e visões em mais de 50 mil pessoas...
+ouça antes de dormir por 7 dias e veja o que Deus revela.
 
-**"Essa declaração de *Joel 2* já despertou sonhos e visões em mais de 50 mil pessoas —
-ouça *antes de dormir por 7 dias* e veja o que Deus revela."**
+[pause]
+
+Depois que eu derramarei o meu Espírito...
+sobre TODA A CARNE.
+
+Joel 2, versículo 28.
+
+[pause]
+
+Senhor...
+derrama o Teu Espírito sobre mim.
+
+[pause]
+
+Vossos filhos e vossas filhas profetizarão.
+[firmly] Declaro profecia sobre meus filhos.
+
+Os velhos terão sonhos.
+Os jovens terão visões.
+
+[pause longa]
+
+Senhor...
+fala comigo enquanto eu dormir.
+Revela o que eu preciso VER.
+Mostra o que eu preciso SABER.
+Confirma o que eu preciso CRER.
+
+[pause longa]
+
+Eu recebo os Teus sonhos.
+Eu recebo as Tuas visões.
+
+[pause longa]
+
+Amém. Fala, Senhor.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom declaratório, profético. Como abrindo portas espirituais.*
+## CTA
 
-"*Depois* que eu derramarei o meu Espírito," [pausa curta]
-"sobre *toda a carne*." [pausa curta]
-
-Senhor, derrama o Teu Espírito *sobre mim*. [pausa curta]
-
-"*Vossos filhos* e *vossas filhas* profetizarão." [pausa curta]
-Declaro profecia sobre meus filhos. [pausa curta]
-
-"*Os velhos* terão sonhos." [pausa curta]
-"*Os jovens* terão visões." [pausa curta]
-
-Senhor, fala comigo enquanto eu dormir. [pausa curta]
-Revela o que eu preciso *ver*. [pausa curta]
-Mostra o que eu preciso *saber*. [pausa curta]
-Confirma o que eu preciso *crer*. [pausa curta]
-
-Eu recebo os Teus sonhos. [pausa curta]
-Eu recebo as Tuas visões. [pausa curta]
-
-*Amém. Fala, Senhor.*
-
----
-
-### 📣 CTA — 50s a 58s
-> *Tom profético, habitual*
-
-**"Ouça esse Short *antes de dormir por 7 noites seguidas*.
-Deus ainda fala por sonhos e visões — Joel 2:28."**
+Ouça esse Short antes de dormir por 7 noites seguidas.
+Deus ainda fala por sonhos e visões — Joel 2:28.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: profético, solene com expectativa

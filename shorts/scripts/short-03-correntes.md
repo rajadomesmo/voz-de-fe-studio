@@ -1,7 +1,7 @@
 # Short 03 — Quebrando Correntes (Salmo 46)
 
-**Estrutura:** Declaratório  
-**Base bíblica:** Salmo 46  
+**Estrutura:** Declaratório
+**Base bíblica:** Salmo 46
 **Duração estimada:** 52–58s
 
 ---
@@ -24,42 +24,53 @@ Cinematic dark spiritual warfare scene. Heavy iron chains lying shattered and br
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, autoridade, urgência*
+Esse decreto do Salmo 46 já libertou mais de 60 mil pessoas de correntes invisíveis...
+ouça todo dia e veja Deus agir.
 
-**"Esse decreto do *Salmo 46* já libertou mais de 60 mil pessoas de correntes invisíveis —
-ouça todo dia e veja *Deus agir*."**
+[pause]
+
+Deus é o nosso refúgio e força...
+socorro bem presente na angústia.
+
+[pause]
+
+Portanto — NÃO TEMEREI.
+Ainda que a terra se mude.
+Ainda que os montes se movam.
+
+[pause longa]
+
+[firmly] Em nome de Jesus Cristo...
+declaro: toda corrente se QUEBRA agora.
+
+[pause]
+
+Toda amarração contra minha mente — QUEBRADA.
+Todo laço contra minha família — QUEBRADO.
+Todo bloqueio contra minha vida — DESTRUÍDO.
+
+[pause longa]
+
+O Senhor dos exércitos está conosco...
+o Deus de Jacó é o nosso refúgio.
+
+[pause]
+
+Aquietai-vos...
+e sabei que Eu sou DEUS.
+
+[pause longa]
+
+Amém. Está feito.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom declaratório, firme, crescente. Cada linha = autoridade espiritual.*
+## CTA
 
-"*Deus* é o nosso refúgio e *força*," [pausa curta]
-socorro *bem presente* na angústia." [pausa curta]
-
-Portanto *não temerei*. [pausa curta]
-Ainda que a terra se mude. [pausa curta]
-Ainda que os montes se movam. [pausa curta]
-
-Em nome de Jesus Cristo — [pausa curta]
-declaro: toda corrente se *quebra agora*. [pausa curta]
-
-Toda amarração contra minha mente — *quebrada*. [pausa curta]
-Todo laço contra minha família — *quebrado*. [pausa curta]
-Todo bloqueio contra minha vida — *destruído*. [pausa curta]
-
-"O Senhor dos exércitos está *conosco*;" [pausa curta]
-o Deus de Jacó é o nosso *refúgio*." [pausa curta]
-
-"*Aquietai-vos* — e sabei que Eu sou *Deus*." [pausa curta]
-
-*Amém. Está feito.*
+Manda esse Short para alguém que precisa ser liberto hoje.
+E você — ouça todo dia até sentir a corrente cair.
 
 ---
 
-### 📣 CTA — 50s a 58s
-> *Tom firme, convidativo*
-
-**"Manda esse Short para alguém que precisa ser *liberto* hoje.
-E você — ouça todo dia até sentir a corrente cair."**
+## Instrução ElevenLabs
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: firme com autoridade crescente

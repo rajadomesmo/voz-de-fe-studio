@@ -3,7 +3,6 @@
 **Estrutura:** Declaratório
 **Base bíblica:** Provérbios 9:10
 **Versículo escolhido:** "O temor do Senhor é o princípio da sabedoria; o conhecimento do Santo é inteligência."
-**Por que este versículo:** Temor é categoria completamente ausente no canal até agora. No contexto cristão evangélico, temor não é medo — é reverência, reconhecimento da grandeza de Deus que produz humildade e alinhamento. Provérbios 9:10 estabelece que toda sabedoria começa aqui — fortíssimo para público que busca direção de vida, decisões certas, proteção contra erros. Livro novo (Provérbios) nunca usado. Tom declaratório funciona bem: o ouvinte declara sua postura de reverência como decisão ativa.
 **Livro:** Antigo Testamento — Provérbios
 **Duração estimada:** 48–54s
 
@@ -19,50 +18,56 @@ Cinematic dark reverence scene. A massive ancient stone altar rising from deep d
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, firme — solenidade reverente, não ameaça*
+O temor do Senhor...
+é o começo de tudo.
 
-**"O temor do Senhor — *é o começo de tudo*."**
+[pause]
+
+O temor do Senhor é o PRINCÍPIO da sabedoria...
+o conhecimento do Santo é inteligência.
+
+Provérbios 9, versículo 10.
+
+[pause]
+
+Não o começo da religião.
+O começo da SABEDORIA.
+
+[pause longa]
+
+Então eu declaro hoje:
+
+[pause]
+
+Senhor... eu Te temo.
+Não com medo de punição.
+Mas com reverência de quem reconhece QUEM TU ÉS.
+
+[pause longa]
+
+Tu és GRANDE — e eu sou pequena diante de Ti.
+Tu és ETERNO — e os meus dias estão nas Tuas mãos.
+Tu és SANTO — e eu me aproximo com humildade.
+
+[pause longa]
+
+Aqui começa a minha sabedoria.
+Não no meu conhecimento.
+Não na minha experiência.
+EM TI.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 46s
-> *Tom declaratório com reverência — cada linha é uma postura de adoração*
+## CTA
 
-[pausa longa]
-
-"O temor do Senhor é o *princípio* da sabedoria." [pausa curta]
-*Provérbios 9, versículo 10.* [pausa longa]
-
-Não o começo da religião. [pausa curta]
-O começo da *sabedoria*. [pausa longa]
-
-Então eu declaro hoje: [pausa longa]
-
-Senhor, eu te temo. [pausa curta]
-Não com medo de punição. [pausa curta]
-Mas com reverência de quem reconhece *quem Tu és*. [pausa longa]
-
-Tu és *grande* — e eu sou pequena diante de Ti. [pausa curta]
-Tu és *eterno* — e os meus dias estão nas Tuas mãos. [pausa curta]
-Tu és *Santo* — e eu me aproximo com humildade. [pausa longa]
-
-Aqui começa a minha sabedoria. [pausa curta]
-Não no meu conhecimento. [pausa curta]
-Não na minha experiência. [pausa curta]
-*Em Ti.* [pausa longa]
-
-*Amém.* [pausa longa]
-
----
-
-### 📣 CTA — 46s a 54s
-> *Tom sóbrio, convidativo*
-
-**"Toda decisão importante começa aqui.
-Salva e ouça antes de qualquer escolha grande."**
+Toda decisão importante começa aqui.
+Salva e ouça antes de qualquer escolha grande.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: solene com autoridade reverente
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: solene com autoridade reverente

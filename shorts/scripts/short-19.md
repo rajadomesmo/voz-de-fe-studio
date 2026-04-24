@@ -3,7 +3,6 @@
 **Estrutura:** Contemplativo
 **Base bíblica:** Salmo 4:8
 **Versículo escolhido:** "Em paz me deitarei e logo dormirei; porque só Tu, Senhor, me fazes habitar em segurança."
-**Por que este versículo:** Salmo 4:8 é o versículo de sono e segurança mais direto e poético da Bíblia. 6 palavras que encapsulam um ritual noturno completo. Diferente do Salmo 121 (short-02) pois foca em segurança espiritual ao dormir, não apenas em paz.
 **Livro:** Antigo Testamento — Salmos
 **Duração estimada:** 48–54s
 
@@ -19,48 +18,50 @@ Cinematic dark sacred sleep scene. A simple wooden bed with white linen sheets, 
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, suave como sussurro noturno*
+Esse versículo do Salmo 4 já trouxe sono profundo e seguro para mais de 55 mil pessoas...
+ouça ao deitar e durma debaixo da proteção de Deus.
 
-**"Esse versículo do *Salmo 4* já trouxe sono profundo e seguro para mais de 55 mil pessoas —
-ouça *ao deitar* e durma debaixo da proteção de Deus."**
+[pause]
+
+Em paz me deitarei...
+e logo dormirei.
+
+Salmo 4, versículo 8.
+
+[pause]
+
+Em paz — não em ansiedade.
+Em paz — não em preocupação.
+
+[pause longa]
+
+Porque Tu, Senhor...
+somente Tu...
+me fazes habitar em segurança.
+
+[pause]
+
+Não o trinco da porta.
+Não o alarme da casa.
+TU.
+
+[pause longa]
+
+Enquanto eu durmo... Tu velas.
+Enquanto eu descanso... Tu guardas.
+
+[pause longa]
+
+Amém. Boa noite, Senhor.
 
 ---
 
-### 🙏 CORPO — 3s a 46s
-> *Tom contemplativo, lentíssimo. Como uma oração que embala para dormir.*
+## CTA
 
-Senhor, a noite chegou. [pausa curta]
-E eu venho a Ti antes de fechar os olhos. [pausa curta]
-
-"*Em paz* me deitarei." [pausa curta]
-Em paz — não em ansiedade. [pausa curta]
-Em paz — não em preocupação. [pausa curta]
-
-"E *logo dormirei*." [pausa curta]
-
-Porque *Tu, Senhor,* [pausa curta]
-*somente Tu* — [pausa curta]
-me fazes habitar em *segurança*. [pausa curta]
-
-Não o trinco da porta. [pausa curta]
-Não o alarme da casa. [pausa curta]
-*Tu*. [pausa curta]
-
-Enquanto eu durmo — *Tu velas*. [pausa curta]
-Enquanto eu descanso — *Tu guardas*. [pausa curta]
-
-*Amém. Boa noite, Senhor.*
-
----
-
-### 📣 CTA — 46s a 54s
-> *Tom suave, quase sussurro, habitual*
-
-**"Coloca esse Short no *ritual de toda noite*.
-Salmo 4:8 — durma em paz, protegido por Deus."**
+Coloca esse Short no ritual de toda noite.
+Salmo 4:8 — durma em paz, protegido por Deus.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: quase sussurro, suave como noite

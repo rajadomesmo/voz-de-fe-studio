@@ -3,7 +3,6 @@
 **Estrutura:** Declaratório
 **Base bíblica:** 2 Coríntios 5:17
 **Versículo escolhido:** "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo."
-**Por que este versículo:** 2 Co 5:17 é o versículo de identidade em Cristo mais poderoso. Alta aplicação para pessoas saindo de vício, trauma, relacionamentos ruins. Estrutura natural para decretos de identidade.
 **Livro:** Novo Testamento — 2 Coríntios
 **Duração estimada:** 52–58s
 
@@ -19,48 +18,55 @@ Cinematic dark new creation scene. A cracked old dark stone chrysalis splitting 
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, libertadora, definitiva*
+Em Cristo, você não é mais quem você era.
+Declare isso agora.
 
-**"Em Cristo, você não é mais quem você *era*.
-Declare isso *agora*."**
+[pause]
+
+Se alguém está em Cristo...
+NOVA CRIATURA É.
+
+2 Coríntios 5, versículo 17.
+
+[pause]
+
+Eu sou nova criatura.
+
+[pause]
+
+As coisas velhas JÁ PASSARAM.
+O velho eu — passou.
+A velha dor — passou.
+A velha derrota — passou.
+
+[pause longa]
+
+Eis que TUDO SE FEZ NOVO.
+
+[pause]
+
+[firmly] Eu sou nova.
+Eu sou livre.
+Eu sou filha do Deus Altíssimo.
+
+[pause longa]
+
+Essa é minha IDENTIDADE.
+Não o que o passado diz.
+O que a Palavra de Deus diz.
+
+[pause longa]
+
+Amém. Sou nova criatura.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom declaratório, firme. Cada linha = destruição do velho e construção do novo.*
+## CTA
 
-"Se alguém está em *Cristo*," [pausa curta]
-*nova criatura é*." [pausa curta]
-
-Eu sou nova criatura. [pausa curta]
-
-As coisas velhas *já passaram*. [pausa curta]
-O velho eu — *passou*. [pausa curta]
-A velha dor — *passou*. [pausa curta]
-A velha derrota — *passou*. [pausa curta]
-
-"Eis que *tudo se fez novo*." [pausa curta]
-
-Eu sou nova. [pausa curta]
-Eu sou livre. [pausa curta]
-Eu sou filha do *Deus Altíssimo*. [pausa curta]
-
-Essa é minha *identidade*. [pausa curta]
-Não o que o passado diz. [pausa curta]
-O que a *Palavra de Deus* diz. [pausa curta]
-
-*Amém. Sou nova criatura.*
-
----
-
-### 📣 CTA — 50s a 58s
-> *Tom libertador, habitual*
-
-**"Salva esse Short e *declare sua identidade todo dia*.
-Em Cristo — você não é mais quem você era."**
+Salva esse Short e declare sua identidade todo dia.
+Em Cristo — você não é mais quem você era.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: libertador, definitivo

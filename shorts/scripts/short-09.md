@@ -3,7 +3,6 @@
 **Estrutura:** Intercessório
 **Base bíblica:** Salmo 5:3
 **Versículo escolhido:** "Ouve a minha voz de manhã, ó Senhor; de manhã apresento a minha oração diante de Ti e fico esperando."
-**Por que este versículo:** Salmo 5:3 é a convocação bíblica para a oração matinal. Cria hábito (CTA natural), alta retenção pela promessa de resposta. Salmo não usado ainda.
 **Livro:** Antigo Testamento — Salmos
 **Duração estimada:** 50–56s
 
@@ -19,46 +18,50 @@ Cinematic dark dawn prayer scene. A lone wooden chair positioned before a tall n
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, suave como o amanhecer*
+Você começa o dia olhando o celular antes de falar com Deus?
+Muda isso agora.
 
-**"Você começa o dia olhando o *celular* antes de falar com *Deus*? —
-Muda isso agora."**
+[pause]
+
+Ouve a minha voz de manhã, ó Senhor...
+de manhã apresento a minha oração diante de Ti.
+
+Salmo 5, versículo 3.
+
+[pause]
+
+Antes do celular.
+Antes do trabalho.
+Antes de qualquer palavra humana...
+
+[firmly] a primeira voz que ouço é a TUA.
+
+[pause longa]
+
+Senhor...
+cobre este dia com a Tua misericórdia.
+Cobre cada caminho que farei hoje.
+Cada decisão.
+Cada encontro.
+
+[pause]
+
+Que o Teu favor me anteceda.
+Que a Tua graça me acompanhe.
+Que a Tua paz permaneça.
+
+[pause longa]
+
+Amém. Bom dia, Senhor.
 
 ---
 
-### 🙏 CORPO — 3s a 48s
-> *Tom intercessório, íntimo, como conversa com Deus ao amanhecer.*
+## CTA
 
-Senhor, *de manhã* ouve a minha voz. [pausa curta]
-De manhã apresento a Ti a minha *oração*. [pausa curta]
-E fico esperando. [pausa curta]
-
-Antes do celular. [pausa curta]
-Antes do trabalho. [pausa curta]
-Antes de qualquer *palavra humana* — [pausa curta]
-a primeira voz que ouço é a *Tua*. [pausa curta]
-
-Cobre este dia com a Tua misericórdia. [pausa curta]
-Cobre cada caminho que farei hoje. [pausa curta]
-Cada decisão. [pausa curta]
-Cada encontro. [pausa curta]
-
-Que o Teu *favor* me anteceda. [pausa curta]
-Que a Tua *graça* me acompanhe. [pausa curta]
-Que a Tua *paz* permaneça. [pausa curta]
-
-*Amém. Bom dia, Senhor.*
-
----
-
-### 📣 CTA — 48s a 56s
-> *Tom suave, habitual*
-
-**"Coloca esse Short no *alarme de amanhã cedo*.
-Comece todo dia falando com Deus antes de tudo."**
+Coloca esse Short no alarme de amanhã cedo.
+Comece todo dia falando com Deus antes de tudo.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: suave como amanhecer, íntimo

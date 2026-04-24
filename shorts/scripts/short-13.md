@@ -3,7 +3,6 @@
 **Estrutura:** Declaratório
 **Base bíblica:** Hebreus 11:1,6
 **Versículo escolhido:** "Ora, a fé é a certeza de coisas que se esperam e a convicção de coisas que não se veem." + "Sem fé é impossível agradar a Deus."
-**Por que este versículo:** Hebreus 11 é o "capítulo dos heróis da fé". A definição bíblica de fé em 11:1 é a mais citada no evangelho. Versículo de crença ativa, não passiva — ideal para estrutura declaratória.
 **Livro:** Novo Testamento — Hebreus
 **Duração estimada:** 52–58s
 
@@ -19,46 +18,51 @@ Cinematic dark faith scene. A single burning torch planted firmly in dark rocky 
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, confiante, ativa*
+Essa declaração de Hebreus 11 já fortaleceu a fé de mais de 55 mil pessoas...
+salva e declare em voz alta todo dia.
 
-**"Essa declaração de *Hebreus 11* já fortaleceu a fé de mais de 55 mil pessoas —
-salva e *declare em voz alta* todo dia."**
+[pause]
+
+A fé é a CERTEZA das coisas que se esperam...
+a CONVICÇÃO das coisas que não se veem.
+
+Hebreus 11, versículo 1.
+
+[pause]
+
+Eu tenho fé.
+Não fé de circunstância.
+Não fé quando está bem.
+FÉ INABALÁVEL.
+
+[pause longa]
+
+Eu creio no que não vejo ainda.
+Eu creio na promessa que ainda não chegou.
+Eu creio no milagre que está a caminho.
+
+[pause longa]
+
+Sem fé é impossível agradar a Deus.
+
+[pause]
+
+[firmly] Então eu tenho fé.
+Fé que AGRADA A DEUS.
+Fé que MOVE MONTANHAS.
+
+[pause longa]
+
+Amém. Eu creio.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom declaratório, firme, sem hesitação. Cada linha = ato de fé.*
+## CTA
 
-"A fé é a *certeza* das coisas que se esperam." [pausa curta]
-"A *convicção* das coisas que não se veem." [pausa curta]
-
-Eu tenho fé. [pausa curta]
-Não fé de circunstância. [pausa curta]
-Não fé quando está bem. [pausa curta]
-*Fé inabalável*. [pausa curta]
-
-Eu creio no que *não vejo ainda*. [pausa curta]
-Eu creio na promessa que ainda *não chegou*. [pausa curta]
-Eu creio no milagre que está *a caminho*. [pausa curta]
-
-"Sem fé é impossível *agradar a Deus*." [pausa curta]
-
-Então eu tenho fé. [pausa curta]
-Fé que *agrada a Deus*. [pausa curta]
-Fé que *move montanhas*. [pausa curta]
-
-*Amém. Eu creio.*
-
----
-
-### 📣 CTA — 50s a 58s
-> *Tom firme, habitual, desafiador*
-
-**"Salva esse Short e *declare em voz alta toda manhã*.
-Fé falada em voz alta é fé que age."**
+Salva esse Short e declare em voz alta toda manhã.
+Fé falada em voz alta é fé que age.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: firme com convicção profunda

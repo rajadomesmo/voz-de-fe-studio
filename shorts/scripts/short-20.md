@@ -3,7 +3,6 @@
 **Estrutura:** Contemplativo
 **Base bíblica:** João 14:16-17
 **Versículo escolhido:** "E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre; o Espírito da verdade..."
-**Por que este versículo:** Pesquisa mostrou 1.1M views em "Prayer to the Holy Spirit". João 14:16-17 é a promessa direta do Espírito Santo — "Consolador" ressoa com o público feminino 30-55 que busca consolo. Livro novo, tema diferenciado.
 **Livro:** Novo Testamento — João
 **Duração estimada:** 52–58s
 
@@ -19,46 +18,60 @@ Cinematic dark Holy Spirit scene. A white dove in slow descent, wings spread wid
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, íntima, como convite ao sagrado*
+Antes de qualquer decisão importante...
+ore ao Espírito Santo primeiro.
 
-**"Antes de qualquer *decisão importante* —
-ore ao *Espírito Santo* primeiro."**
+[pause]
+
+Eu rogarei ao Pai...
+e ele vos dará outro Consolador.
+
+Para que fique convosco...
+para SEMPRE.
+
+João 14, versículo 16.
+
+[pause]
+
+Espírito Santo...
+eu Te convido.
+
+[pause]
+
+Tu és o Consolador.
+Prometido pelo próprio Jesus.
+Para ficar comigo — para sempre.
+
+[pause longa]
+
+Vem, Espírito da verdade.
+Ilumina o que está escuro na minha mente.
+Aquieta o que está agitado no meu coração.
+Fortalece o que está fraco na minha alma.
+
+[pause longa]
+
+Não quero caminhar sem Ti.
+Não quero decidir sem Ti.
+Não quero um dia sequer longe da Tua presença.
+
+[pause]
+
+Vem, Santo Espírito.
+ENCHE ESTE LUGAR.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom contemplativo, sagrado, como entrar em lugar santo.*
+## CTA
 
-Espírito Santo, eu Te convido. [pausa curta]
-
-Tu és o *Consolador*. [pausa curta]
-Prometido pelo próprio *Jesus*. [pausa curta]
-Para ficar comigo — *para sempre*. [pausa curta]
-
-Vem, *Espírito da verdade*. [pausa curta]
-Ilumina o que está escuro na minha mente. [pausa curta]
-Aquieta o que está agitado no meu coração. [pausa curta]
-Fortalece o que está fraco na minha alma. [pausa curta]
-
-Não quero caminhar sem *Ti*. [pausa curta]
-Não quero decidir sem *Ti*. [pausa curta]
-Não quero um dia sequer longe da *Tua presença*. [pausa curta]
-
-Vem, Santo Espírito. [pausa curta]
-*Enche este lugar*. [pausa curta]
-
-*Amém.*
-
----
-
-### 📣 CTA — 50s a 58s
-> *Tom suave, habitual, íntimo*
-
-**"Salva esse Short e ouça *antes de tomar qualquer decisão importante*.
-O Espírito Santo é o Consolador que Jesus prometeu para você."**
+Salva esse Short e ouça antes de tomar qualquer decisão importante.
+O Espírito Santo é o Consolador que Jesus prometeu para você.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: íntimo, reverente, como entrar em lugar santo

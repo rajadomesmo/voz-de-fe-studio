@@ -1,7 +1,7 @@
 # Short 02 — Sono e Descanso (Salmo 121)
 
-**Estrutura:** Intercessório  
-**Base bíblica:** Salmo 121  
+**Estrutura:** Intercessório
+**Base bíblica:** Salmo 121
 **Duração estimada:** 50–56s
 
 ---
@@ -24,41 +24,52 @@ Cinematic dark bedroom atmosphere. Soft golden candlelight casting warm glow on 
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, suave, quase sussurro*
+Esse Salmo 121 já trouxe paz e sono profundo para mais de 40 mil pessoas...
+ouça antes de dormir e sinta a diferença.
 
-**"Esse Salmo 121 já trouxe paz e sono profundo para mais de 40 mil pessoas —
-ouça *antes de dormir* e veja a diferença."**
+[pause]
+
+Levantarei os olhos para os montes...
+de onde me virá o socorro?
+
+[pause]
+
+O meu socorro vem do SENHOR...
+que fez o céu e a terra.
+
+[pause]
+
+Senhor...
+antes de fechar os olhos, venho a Ti.
+Entrego cada preocupação desta noite.
+
+[pause]
+
+Não dormitará aquele que te guarda.
+Não dormitará nem dormirá o guarda de Israel.
+
+[pause longa]
+
+Enquanto eu descanso... Tu velas.
+Enquanto eu durmo... Tu guardas.
+
+[pause]
+
+O Senhor guardará a tua entrada e a tua saída...
+desde agora e para sempre.
+
+[pause longa]
+
+Amém. Boa noite.
 
 ---
 
-### 🙏 CORPO — 3s a 48s
-> *Tom intercessório, lento, acolhedor. Cada linha = uma respiração.*
+## CTA
 
-"Levantarei os olhos para os montes —" [pausa curta]
-de onde me virá o *socorro*?" [pausa curta]
-
-O meu socorro vem do *Senhor*, [pausa curta]
-que fez o céu e a *terra*. [pausa curta]
-
-Senhor, antes de fechar os olhos, venho a Ti. [pausa curta]
-Entrego a Ti cada preocupação desta noite. [pausa curta]
-
-"Não dormitará aquele que te *guarda*." [pausa curta]
-"Eis que não dormitará nem dormirá o *guarda de Israel*." [pausa curta]
-
-Enquanto eu descanso, *Tu velas*. [pausa curta]
-Enquanto eu durmo, *Tu guardas*. [pausa curta]
-
-"O Senhor guardará a tua *entrada* e a tua *saída*," [pausa curta]
-desde agora e *para sempre*." [pausa curta]
-
-*Amém. Boa noite.*
+Coloca esse áudio no alarme de amanhã cedo.
+Comece o dia debaixo da proteção do Salmo 121.
 
 ---
 
-### 📣 CTA — 48s a 56s
-> *Tom suave, habitual*
-
-**"Coloca esse áudio no *alarme de amanhã* cedo.
-Comece o dia debaixo da proteção do Salmo 121."**
+## Instrução ElevenLabs
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: calmo com suavidade noturna

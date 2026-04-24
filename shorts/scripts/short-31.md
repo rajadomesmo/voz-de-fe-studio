@@ -3,7 +3,6 @@
 **Estrutura:** Declaratório
 **Base bíblica:** Mateus 6:33
 **Versículo escolhido:** "Buscai primeiro o reino de Deus e a sua justiça, e todas essas coisas vos serão acrescentadas."
-**Por que este versículo:** Mateus 6:33 é a promessa de providência mais direta de Jesus. "Acrescentadas" implica que Deus adiciona o que falta — não que o fiel conquista sozinho. Contexto 2026: crise econômica persistente no Brasil, público feminino 30-55 anos frequentemente sendo o sustento da casa, ansiedade material alta. Livro novo (Mateus) — nunca usado. Tom declaratório diferencia de oração pedindo — aqui se *decide* priorizar o reino.
 **Livro:** Novo Testamento — Mateus
 **Duração estimada:** 48–54s
 
@@ -19,51 +18,59 @@ Cinematic dark provision scene. A dark stone table with a simple loaf of bread a
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz firme, confiante — como quem anuncia uma decisão, não um pedido*
+Buscai PRIMEIRO o reino de Deus e a Sua justiça...
+e todas essas coisas vos serão acrescentadas.
 
-**"Buscai *primeiro* o reino de Deus — *e tudo o mais será acrescentado*."**
+[pause]
+
+Isso foi Jesus quem disse.
+
+Mateus 6, versículo 33.
+
+[pause]
+
+Não vou correr atrás do que Deus prometeu acrescentar.
+Vou correr atrás D'ELE.
+
+[pause longa]
+
+Senhor...
+eu Te busco PRIMEIRO.
+
+[pause]
+
+Antes da conta que está para vencer.
+Antes da necessidade que aperta.
+Antes de qualquer solução humana.
+
+[pause longa]
+
+TU és o meu provedor.
+Não o meu esforço.
+Não a minha estratégia.
+TU.
+
+[pause]
+
+E se eu Te busco primeiro...
+o que me falta, Tu ACRESCENTA.
+
+[pause]
+
+Tua Palavra não volta vazia.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 46s
-> *Tom declaratório, crescente — cada linha é uma decisão de fé*
+## CTA
 
-[pausa longa]
-
-Isso foi Jesus quem disse. [pausa curta]
-*Mateus 6, versículo 33.* [pausa longa]
-
-Então eu declaro *hoje*: [pausa longa]
-
-Não vou correr atrás do que Deus prometeu acrescentar. [pausa curta]
-Vou correr atrás *d'Ele*. [pausa longa]
-
-Senhor, eu Te busco *primeiro*. [pausa curta]
-Antes da conta que está para vencer. [pausa curta]
-Antes da necessidade que aperta. [pausa curta]
-Antes de qualquer solução humana. [pausa longa]
-
-*Tu* és o meu provedor. [pausa curta]
-Não o meu esforço. [pausa curta]
-Não a minha estratégia. [pausa curta]
-*Tu.* [pausa longa]
-
-E se eu Te busco primeiro — [pausa curta]
-o que me falta, *Tu acrescenta*. [pausa curta]
-Tua Palavra *não volta vazia*. [pausa longa]
-
-*Amém.* [pausa longa]
-
----
-
-### 📣 CTA — 46s a 54s
-> *Tom firme, habitual*
-
-**"Ouça isso toda vez que a pressão financeira apertar.
-Salva — Deus acrescenta quando você busca Ele primeiro."**
+Ouça isso toda vez que a pressão financeira apertar.
+Salva — Deus acrescenta quando você busca Ele primeiro.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: firme com descanso
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: firme com descanso profundo

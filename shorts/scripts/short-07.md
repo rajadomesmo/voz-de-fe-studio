@@ -3,7 +3,6 @@
 **Estrutura:** Declaratório
 **Base bíblica:** Efésios 6:10-11
 **Versículo escolhido:** "Finalmente, sede fortalecidos no Senhor e na força do seu poder. Revesti-vos de toda a armadura de Deus, para poderdes ficar firmes contra as ciladas do diabo."
-**Por que este versículo:** Efésios 6 é a passagem de guerra espiritual mais poderosa do NT. Apelo direto à batalha, autoridade, decretos — estrutura declaratória natural.
 **Livro:** Novo Testamento — Efésios
 **Duração estimada:** 54–60s
 
@@ -19,48 +18,53 @@ Cinematic dark spiritual warfare scene. Ancient bronze armor pieces — breastpl
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, autoridade absoluta, urgente*
+Esse decreto de Efésios 6 já derrubou fortalezas na vida de mais de 70 mil guerreiros...
+ouça todo dia e entre em batalha preparado.
 
-**"Esse decreto de *Efésios 6* já derrubou fortalezas na vida de mais de 70 mil guerreiros —
-ouça *todo dia* e entre em batalha preparado."**
+[pause]
+
+Sede fortalecidos no Senhor...
+e na força do Seu poder.
+
+[pause]
+
+[firmly] Eu me revisto agora...
+da ARMADURA DE DEUS.
+
+[pause]
+
+Cinto da verdade — cinjo meus rins.
+Couraça da justiça — cubro meu peito.
+Escudo da fé — com ele apago os dardos.
+
+[pause longa]
+
+Todo dardo do inimigo — APAGADO.
+Toda cilada armada contra mim — DESTRUÍDA.
+Toda força das trevas contra minha família — DERRUBADA agora.
+
+[pause longa]
+
+Para poderdes ficar FIRMES.
+
+[pause]
+
+Eu fico firme.
+Não recuo.
+Em nome de Jesus Cristo.
+
+[pause longa]
+
+Amém. A batalha é do Senhor.
 
 ---
 
-### 🙏 CORPO — 3s a 52s
-> *Tom declaratório, crescente em autoridade. Cada decreto = golpe espiritual.*
+## CTA
 
-"Sede fortalecidos no *Senhor*," [pausa curta]
-e na força do Seu *poder*." [pausa curta]
-
-Eu me revisto agora — [pausa curta]
-da *armadura de Deus*. [pausa curta]
-
-Cinto da *verdade* — cinjo meus rins. [pausa curta]
-Couraça da *justiça* — cubro meu peito. [pausa curta]
-Escudo da *fé* — com ele apago os dardos. [pausa curta]
-
-Todo dardo do inimigo — *apagado*. [pausa curta]
-Toda cilada armada contra mim — *destruída*. [pausa curta]
-Toda força das trevas contra minha família — *derrubada agora*. [pausa curta]
-
-"Para poderdes *ficar firmes*." [pausa curta]
-
-Eu fico firme. [pausa curta]
-Não recuo. [pausa curta]
-Em nome de *Jesus Cristo*. [pausa curta]
-
-*Amém. A batalha é do Senhor.*
-
----
-
-### 📣 CTA — 52s a 60s
-> *Tom firme, guerreiro, habitual*
-
-**"Manda esse Short para alguém em batalha espiritual agora.
-E você — salva e declare *toda manhã antes de sair de casa*."**
+Manda esse Short para alguém em batalha espiritual agora.
+E você — salva e declare toda manhã antes de sair de casa.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: firme com autoridade crescente

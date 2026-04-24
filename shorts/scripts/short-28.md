@@ -3,8 +3,7 @@
 **Estrutura:** Contemplativo
 **Base bíblica:** Tiago 5:14-15
 **Versículo escolhido:** "Está alguém doente entre vocês? Chame os líderes da igreja para que orem por ele... A oração da fé salvará o enfermo."
-**Por que este versículo:** Tiago 5:15 é a base bíblica direta para oração de cura — mais específica que Isaías 53, foca no ato de *interceder* por outra pessoa enferma. Alto gatilho de compartilhamento: quem ouve pensa imediatamente em alguém doente para enviar.
-**Livro:** Novo Testamento — Tiago (livro novo, nunca usado)
+**Livro:** Novo Testamento — Tiago
 **Duração estimada:** 50–56s
 
 ---
@@ -19,51 +18,58 @@ Cinematic dark healing prayer scene. An ancient stone room with a simple stone s
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz suave, grave, como quem reconhece algo importante*
+Se você viu isso...
+alguém na sua vida precisa de cura.
 
-**"Se você viu isso — alguém na sua vida *precisa de cura*."**
+[pause]
+
+A oração da fé SALVARÁ o enfermo.
+
+Tiago 5, versículo 15.
+
+[pause]
+
+Senhor...
+eu intercedo agora
+por cada pessoa enferma
+que está por trás dessa oração.
+
+[pause longa]
+
+Que a Tua mão de cura toque esse corpo AGORA.
+Que essa enfermidade ceda ao nome de Jesus.
+Que a vida retorne.
+Que a força volte.
+Que a dor se vá.
+
+[pause longa]
+
+Esta é uma oração da fé.
+E a oração da fé SALVA o enfermo.
+
+[pause]
+
+Não talvez.
+SALVA.
+
+[pause longa]
+
+Eu creio nessa promessa.
+Eu fico diante de Ti pelo meu enfermo.
+Cura, Senhor.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 48s
-> *Tom contemplativo, intercessório — oração por pessoa ausente*
+## CTA
 
-[pausa longa]
-
-"A oração da fé *salvará* o enfermo." [pausa curta]
-*Tiago 5, versículo 15.* [pausa longa]
-
-Senhor, eu intercedo *agora* [pausa curta]
-por cada pessoa enferma [pausa curta]
-que está por trás dessa oração. [pausa longa]
-
-Que a Tua mão de cura toque esse corpo *agora*. [pausa curta]
-Que essa enfermidade ceda ao *nome de Jesus*. [pausa curta]
-Que a vida retorne. [pausa curta]
-Que a força volte. [pausa curta]
-Que a dor se vá. [pausa longa]
-
-Esta é uma oração da fé. [pausa curta]
-E a oração da fé *salva* o enfermo. [pausa curta]
-Não talvez. [pausa curta]
-*Salva*. [pausa longa]
-
-Eu creio nessa promessa. [pausa curta]
-Eu fico diante de Ti pelo meu enfermo. [pausa curta]
-*Cura, Senhor.* [pausa longa]
-
-*Amém.* [pausa longa]
-
----
-
-### 📣 CTA — 48s a 56s
-> *Tom suave, com urgência de amor*
-
-**"Manda esse Short para quem está doente ou tem familiar doente.
-A oração da fé chega onde você não consegue ir."**
+Manda esse Short para quem está doente ou tem familiar doente.
+A oração da fé chega onde você não consegue ir.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: calmo com fé firme, intercedendo com amor

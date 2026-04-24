@@ -3,7 +3,6 @@
 **Estrutura:** Intercessório
 **Base bíblica:** Josué 24:15
 **Versículo escolhido:** "Quanto a mim e à minha casa, serviremos ao Senhor."
-**Por que este versículo:** Josué 24:15 é o versículo de declaração familiar mais conhecido do evangelho. Gatilho emocional máximo para mães. Pesquisa mostrou 89K views em Short de oração pelos filhos — nicho com demanda clara.
 **Livro:** Antigo Testamento — Josué
 **Duração estimada:** 52–58s
 
@@ -19,47 +18,52 @@ Cinematic dark family protection scene. A family Bible open on a dark wooden tab
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, materna, cheia de amor e autoridade*
+Você orou pelos seus filhos hoje?
+Trinta segundos que podem mudar o dia deles.
 
-**"Você *orou pelos seus filhos* hoje? —
-Trinta segundos que podem mudar o dia deles."**
+[pause]
+
+Quanto a mim e à minha casa...
+serviremos ao SENHOR.
+
+Josué 24, versículo 15.
+
+[pause]
+
+Senhor...
+venho diante de Ti pelos meus filhos.
+Pelo fruto do meu ventre.
+Pela alma de cada um deles.
+
+[pause longa]
+
+[firmly] O sangue de Jesus COBRE suas cabeças.
+O sangue de Jesus GUARDA seus corações.
+O sangue de Jesus SELA seus caminhos.
+
+[pause]
+
+Que nenhuma arma formada contra eles prospere.
+Que nenhum laço os prenda.
+Que toda influência do mal seja cortada agora.
+
+[pause longa]
+
+Eles pertencem ao SENHOR.
+Eu os coloco nas Tuas mãos.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom intercessório, materno, crescendo em autoridade espiritual.*
+## CTA
 
-Senhor, venho diante de Ti pelos meus filhos. [pausa curta]
-Pelo fruto do meu ventre. [pausa curta]
-Pela *alma* de cada um deles. [pausa curta]
-
-"*Quanto a mim e à minha casa*, [pausa curta]
-serviremos ao *Senhor*." [pausa curta]
-
-Declaro *proteção* sobre cada filho que eu tenho. [pausa curta]
-O sangue de Jesus *cobre* suas cabeças. [pausa curta]
-O sangue de Jesus *guarda* seus corações. [pausa curta]
-O sangue de Jesus *sela* seus caminhos. [pausa curta]
-
-Que nenhuma arma formada contra eles *prospere*. [pausa curta]
-Que nenhum laço os prenda. [pausa curta]
-Que toda influência do mal *seja cortada agora*. [pausa curta]
-
-Eles pertencem ao *Senhor*. [pausa curta]
-Eu os coloco nas Tuas mãos. [pausa curta]
-
-*Amém.*
-
----
-
-### 📣 CTA — 50s a 58s
-> *Tom materno, habitual, afetivo*
-
-**"Manda esse Short para a mãe que precisa ouvir isso hoje.
-E salva — ore pelos seus filhos *todo dia*."**
+Manda esse Short para a mãe que precisa ouvir isso hoje.
+E salva — ore pelos seus filhos todo dia.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: calmo com amor e autoridade

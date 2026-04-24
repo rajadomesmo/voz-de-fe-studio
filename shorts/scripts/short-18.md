@@ -2,8 +2,7 @@
 
 **Estrutura:** Declaratório
 **Base bíblica:** Deuteronômio 28:2-6
-**Versículo escolhido:** "E virão sobre ti todas estas bênçãos, e te alcançarão, quando deres ouvidos à voz do Senhor teu Deus. Bendito serás na cidade, e bendito no campo. Bendito o fruto do teu ventre... Bendito o teu cesto e a tua amassadeira. Bendito serás na tua entrada e bendito na tua saída."
-**Por que este versículo:** Deuteronômio 28 é o capítulo das bênçãos. "Bendito serás" repetido 6x = estrutura de decreto natural. Alta demanda no nicho de prosperidade, mas com base bíblica diferente do Salmo 23 já usado.
+**Versículo escolhido:** "E virão sobre ti todas estas bênçãos, e te alcançarão... Bendito serás na cidade, e bendito no campo... Bendito serás na tua entrada e bendito na tua saída."
 **Livro:** Antigo Testamento — Deuteronômio
 **Duração estimada:** 54–60s
 
@@ -19,50 +18,57 @@ Cinematic dark abundance decree scene. A large open ancient stone doorway with g
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, proclamação, autoridade bíblica*
+Esse decreto de Deuteronômio 28 já abriu bênçãos sobre mais de 75 mil famílias...
+ouça toda manhã antes de trabalhar e declare suas bênçãos.
 
-**"Esse decreto de *Deuteronômio 28* já abriu bênçãos sobre mais de 75 mil famílias —
-ouça *toda manhã antes de trabalhar* e declare suas bênçãos."**
+[pause]
+
+E virão sobre ti todas estas bênçãos...
+e te ALCANÇARÃO.
+
+Deuteronômio 28, versículo 2.
+
+[pause]
+
+Eu dou ouvidos à voz do Senhor meu Deus.
+
+[pause longa]
+
+[firmly] BENDITO SERÁS na cidade.
+Bendito no meu trabalho.
+
+BENDITO SERÁS no campo.
+Bênção na minha casa.
+
+Bendito o fruto do meu ventre.
+Meus filhos são abençoados.
+
+[pause]
+
+Bendito o meu cesto e a minha amassadeira.
+Bênção nas minhas finanças.
+
+[pause longa]
+
+Bendito na minha ENTRADA.
+Bendito na minha SAÍDA.
+
+[pause]
+
+Tudo que eu tocar — abençoado em nome de Jesus.
+
+[pause longa]
+
+Amém. As bênçãos me alcançam hoje.
 
 ---
 
-### 🙏 CORPO — 3s a 52s
-> *Tom declaratório, firme, crescente. Cada "Bendito" = golpe contra a escassez.*
+## CTA
 
-"E virão sobre ti todas estas *bênçãos*," [pausa curta]
-e te *alcançarão*." [pausa curta]
-
-Eu dou ouvidos à voz do *Senhor meu Deus*. [pausa curta]
-
-"*Bendito serás* na cidade." [pausa curta]
-Bendito no meu trabalho. [pausa curta]
-
-"*Bendito serás* no campo." [pausa curta]
-Bênção na minha casa. [pausa curta]
-
-"Bendito o *fruto do meu ventre*." [pausa curta]
-Meus filhos são abençoados. [pausa curta]
-
-"Bendito o meu *cesto* e a minha *amassadeira*." [pausa curta]
-Bênção nas minhas finanças. [pausa curta]
-
-"*Bendito* na minha *entrada*." [pausa curta]
-"*Bendito* na minha *saída*." [pausa curta]
-
-Tudo que eu tocar — *abençoado em nome de Jesus*. [pausa curta]
-
-*Amém. As bênçãos me alcançam hoje.*
-
----
-
-### 📣 CTA — 52s a 60s
-> *Tom confiante, habitual*
-
-**"Ouça esse Short *toda manhã antes de sair para o trabalho*.
-Declara as bênçãos de Deuteronômio 28 sobre sua vida."**
+Ouça esse Short toda manhã antes de sair para o trabalho.
+Declara as bênçãos de Deuteronômio 28 sobre sua vida.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: firme com autoridade bíblica

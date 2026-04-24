@@ -1,7 +1,7 @@
 # Short 05 — Cura e Saúde (Salmo 27)
 
-**Estrutura:** Intercessório  
-**Base bíblica:** Salmo 27  
+**Estrutura:** Intercessório
+**Base bíblica:** Salmo 27
 **Duração estimada:** 50–56s
 
 ---
@@ -24,42 +24,53 @@ Cinematic dark healing scene. Gentle hands — no faces visible — resting open
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, urgente, direcionada*
+Essa oração do Salmo 27 já restaurou a saúde de mais de 50 mil pessoas...
+ouça todo dia e receba a sua cura.
 
-**"Essa oração do *Salmo 27* já restaurou a saúde de mais de 50 mil pessoas —
-ouça todo dia e *receba a sua cura*."**
+[pause]
+
+O Senhor é a minha luz e a minha salvação...
+a quem temerei?
+
+[pause]
+
+O Senhor é a força da minha vida...
+de quem me recearei?
+
+[pause longa]
+
+Senhor...
+pelo sangue de Jesus,
+[firmly] declaro saúde sobre meu corpo agora.
+
+[pause]
+
+Toda doença — sob os pés de Jesus.
+Todo diagnóstico — nas mãos de Deus.
+Toda dor — entregue ao Senhor.
+
+[pause longa]
+
+Crer-me-ia ver a bondade do Senhor...
+na terra dos viventes.
+
+[pause]
+
+Espera no Senhor...
+sê forte, e Ele fortalecerá o teu coração.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 48s
-> *Tom intercessório, acolhedor, crescendo em autoridade. Cada linha = declaração de fé.*
+## CTA
 
-"O Senhor é a minha *luz* e a minha *salvação*;" [pausa curta]
-a quem *temerei*?" [pausa curta]
-
-"O Senhor é a *força* da minha vida;" [pausa curta]
-de quem me *recearei*?" [pausa curta]
-
-Senhor, pelo sangue de Jesus, [pausa curta]
-declaro saúde sobre meu *corpo* agora. [pausa curta]
-
-Toda doença — *sob os pés de Jesus*. [pausa curta]
-Todo diagnóstico — *nas mãos de Deus*. [pausa curta]
-Toda dor — *entregue ao Senhor*. [pausa curta]
-
-"Crer-me-ia ver a *bondade* do Senhor" [pausa curta]
-na terra dos *viventes*." [pausa curta]
-
-"*Espera* no Senhor —" [pausa curta]
-sê forte, e Ele *fortalecerá* o teu coração." [pausa curta]
-
-*Amém.*
+Manda esse Short para alguém que precisa de cura hoje.
+E você — ouça amanhã de manhã. O Salmo 27 é sua força.
 
 ---
 
-### 📣 CTA — 48s a 56s
-> *Tom suave, esperançoso, habitual*
-
-**"Manda esse Short para alguém que precisa de *cura* hoje.
-E você — ouça amanhã de manhã. O Salmo 27 é sua força."**
+## Instrução ElevenLabs
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: calmo com autoridade crescente

@@ -3,7 +3,6 @@
 **Estrutura:** Declaratório
 **Base bíblica:** Romanos 12:2
 **Versículo escolhido:** "E não vos conformeis com este século, mas transformai-vos pela renovação da vossa mente, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
-**Por que este versículo:** Romanos 12:2 é o versículo de transformação mental mais poderoso do NT. Alta aplicação para depressão, pensamentos negativos, ansiedade. Estrutura declaratória natural (não conformar + transformar = decretos).
 **Livro:** Novo Testamento — Romanos
 **Duração estimada:** 52–58s
 
@@ -19,45 +18,50 @@ Cinematic dark transformation scene. A cracked dark stone surface with brilliant
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, firme, transformadora*
+Sua mente está te governando...
+ou a Palavra de Deus te governa?
 
-**"Sua *mente* está te governando —
-ou a *Palavra de Deus* te governa?"**
+[pause]
+
+Não vos conformeis com este século.
+
+Romanos 12, versículo 2.
+
+[pause]
+
+Eu não me conformo.
+Não com o pensamento de derrota.
+Não com a voz da dúvida.
+Não com o padrão do mundo.
+
+[pause longa]
+
+Transformai-vos pela renovação da vossa mente.
+
+[pause]
+
+[firmly] Minha mente é RENOVADA em Cristo Jesus.
+Meu pensamento não me governa...
+a Palavra de Deus me governa.
+
+[pause longa]
+
+Declaro: RENOVAÇÃO sobre minha mente agora.
+Declaro: CLAREZA sobre meu pensamento.
+Declaro: a perfeita vontade de Deus sobre minha vida.
+
+[pause longa]
+
+Amém. Mente renovada. Vida transformada.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom declaratório, crescente. Cada decreto = palavra contra o velho padrão de mente.*
+## CTA
 
-"*Não vos conformeis* com este século." [pausa curta]
-
-Eu não me conformo. [pausa curta]
-Não com o pensamento de derrota. [pausa curta]
-Não com a voz da dúvida. [pausa curta]
-Não com o padrão do mundo. [pausa curta]
-
-"*Transformai-vos* pela renovação da vossa mente." [pausa curta]
-
-Minha mente é *renovada em Cristo Jesus*. [pausa curta]
-Meu pensamento não me governa — [pausa curta]
-a *Palavra de Deus* me governa. [pausa curta]
-
-Declaro: *renovação* sobre minha mente agora. [pausa curta]
-Declaro: *clareza* sobre meu pensamento. [pausa curta]
-Declaro: a *perfeita vontade de Deus* sobre minha vida. [pausa curta]
-
-*Amém. Mente renovada. Vida transformada.*
-
----
-
-### 📣 CTA — 50s a 58s
-> *Tom firme, desafiador, habitual*
-
-**"Salva esse Short e ouça *por 21 dias seguidos*.
-A Palavra de Deus renova o que a terapia não alcança."**
+Salva esse Short e ouça por 21 dias seguidos.
+A Palavra de Deus renova o que a terapia não alcança.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: firme com decisão crescente

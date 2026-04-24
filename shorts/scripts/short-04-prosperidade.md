@@ -1,7 +1,7 @@
 # Short 04 — Prosperidade e Bênção Financeira (Salmo 23)
 
-**Estrutura:** Declaratório  
-**Base bíblica:** Salmo 23  
+**Estrutura:** Declaratório
+**Base bíblica:** Salmo 23
 **Duração estimada:** 52–58s
 
 ---
@@ -24,43 +24,55 @@ Cinematic dark abundance scene. Ancient wooden table bathed in warm golden candl
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, confiante, proclamação*
+Esse Salmo 23 já abriu portas financeiras na vida de mais de 70 mil pessoas...
+declare todo dia e veja a provisão de Deus.
 
-**"Esse Salmo 23 já abriu portas financeiras na vida de mais de 70 mil pessoas —
-declare *todo dia* e veja a provisão de Deus."**
+[pause]
+
+O Senhor é o meu pastor...
+NADA ME FALTARÁ.
+
+[pause]
+
+Senhor, a Tua Palavra é verdade.
+Eu a declaro sobre minha vida agora.
+
+[pause]
+
+Toda porta fechada para minhas finanças...
+aberta, em nome de Jesus.
+
+[pause]
+
+Preparas uma mesa perante mim...
+na presença dos meus inimigos.
+
+[pause]
+
+O meu cálice TRANSBORDA.
+
+[pause longa]
+
+[firmly] Eu sou cabeça, não cauda.
+Por cima, não por baixo.
+
+[pause]
+
+Certamente a bondade e a misericórdia me seguirão...
+todos os dias da minha vida.
+
+[pause longa]
+
+Amém. Recebo agora.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom declaratório, firme, confiante. Cada linha = proclamação de fé.*
+## CTA
 
-"O Senhor é o meu *pastor*;" [pausa curta]
-*nada me faltará*." [pausa curta]
-
-Senhor, a Tua Palavra é *verdade*. [pausa curta]
-E eu a *declaro* sobre minha vida agora. [pausa curta]
-
-Toda porta fechada para minhas finanças — [pausa curta]
-*aberta*, em nome de Jesus. [pausa curta]
-
-"Preparas uma mesa perante mim" [pausa curta]
-na presença dos meus *inimigos*." [pausa curta]
-
-"O meu cálice *transborda*." [pausa curta]
-
-Eu sou cabeça, não cauda. [pausa curta]
-Por cima, não por baixo. [pausa curta]
-
-"Certamente a bondade e a misericórdia me *seguirão*" [pausa curta]
-todos os dias da minha vida." [pausa curta]
-
-*Amém. Recebo agora.*
+Salva esse Short e ouça toda manhã por 7 dias.
+Veja o que o Deus do Salmo 23 faz pela sua provisão.
 
 ---
 
-### 📣 CTA — 50s a 58s
-> *Tom esperançoso, habitual*
-
-**"Salva esse Short e ouça *toda manhã por 7 dias*.
-Veja o que o Deus do Salmo 23 faz pela sua provisão."**
+## Instrução ElevenLabs
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: firme com confiança

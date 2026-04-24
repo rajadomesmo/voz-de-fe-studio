@@ -1,7 +1,7 @@
 # Short 01 — Proteção (Salmo 91)
 
-**Estrutura:** Contemplativo  
-**Base bíblica:** Salmo 91  
+**Estrutura:** Contemplativo
+**Base bíblica:** Salmo 91
 **Duração estimada:** 52–58s
 
 ---
@@ -24,42 +24,53 @@ Cinematic dark prayer scene. Ancient stone altar illuminated by a single golden 
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, confiante, direta*
+Essa oração do Salmo 91 já ajudou mais de 80 mil pessoas...
+ouça todo dia e veja a proteção de Deus sobre sua vida.
 
-**"Essa oração do *Salmo 91* já ajudou mais de 80 mil pessoas —
-ouça todo dia e veja a proteção de Deus sobre sua vida."**
+[pause]
+
+Aquele que habita no esconderijo do Altíssimo...
+descansará à sombra do Onipotente.
+
+[pause]
+
+Senhor...
+Tu és o meu refúgio.
+Tu és a minha fortaleza.
+Em Ti confio.
+
+[pause]
+
+Certamente ele te livrará do laço do passarinheiro...
+e da peste destruidora.
+
+[pause]
+
+Com Suas penas me cobrirás.
+Debaixo das Tuas asas me abrigarei.
+
+[pause]
+
+Não temerei o terror da noite.
+Não temerei a seta que voa de dia.
+
+[pause longa]
+
+Pois aos Seus anjos dará ordens a meu respeito...
+para me GUARDAR em todos os meus caminhos.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom contemplativo, pastoral, sereno. Cada linha = uma respiração.*
+## CTA
 
-"Aquele que habita no *esconderijo* do Altíssimo," [pausa curta]
-à sombra do Onipotente *descansará*." [pausa curta]
-
-Senhor, Tu és o meu refúgio. [pausa curta]
-Tu és a minha *fortaleza*. [pausa curta]
-Em Ti *confio*. [pausa curta]
-
-"Certamente ele te livrará do laço do passarinheiro," [pausa curta]
-e da *peste destruidora*." [pausa curta]
-
-Com Suas penas me cobrirás. [pausa curta]
-Debaixo das Tuas asas me abrigarei. [pausa curta]
-
-Não temerei o terror da noite. [pausa curta]
-Nem a seta que voa de dia. [pausa curta]
-
-"Pois aos Seus anjos dará ordens a meu respeito," [pausa curta]
-para me *guardarem* em todos os meus caminhos." [pausa curta]
-
-*Amém.*
+Salva esse Short e ouça todo dia antes de sair de casa.
+Deus guarda quem caminha sob o Salmo 91.
 
 ---
 
-### 📣 CTA — 50s a 58s
-> *Tom suave, convidativo, habitual*
-
-**"Salva esse Short e ouça *todo dia* antes de sair de casa.
-Deus guarda quem caminha sob o Salmo 91."**
+## Instrução ElevenLabs
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: calmo com autoridade

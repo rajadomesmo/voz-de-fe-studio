@@ -3,7 +3,6 @@
 **Estrutura:** Intercessório
 **Base bíblica:** Isaías 61:1-3
 **Versículo escolhido:** "O Espírito do Senhor está sobre mim... a curar os quebrantados de coração... a dar-lhes um ornamento em vez de cinza, óleo de alegria em vez de pranto, manto de louvor em vez de espírito angustiado."
-**Por que este versículo:** Isaías 61 é o profetismo messiânico de cura interior — lido pelo próprio Jesus em Lucas 4. "Quebrantados de coração", "cinza → beleza", "pranto → alegria" — linguagem de cura emocional profunda. Diferente do short-05 que foi cura física.
 **Livro:** Antigo Testamento — Isaías
 **Duração estimada:** 52–58s
 
@@ -19,49 +18,53 @@ Cinematic dark inner healing scene. A cracked clay vessel sitting on dark stone,
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, acolhedora, para quem carrega dor emocional*
+Tem uma dor no coração que nenhum remédio alcança?
+Só o Espírito do Senhor cura por dentro.
 
-**"Tem uma *dor no coração* que nenhum remédio alcança? —
-Só o Espírito do Senhor cura por dentro."**
+[pause]
+
+O Espírito do Senhor está sobre mim...
+para curar os quebrantados de coração.
+
+Isaías 61, versículo 1.
+
+[pause]
+
+Senhor...
+o meu coração está partido.
+Tem dor que eu não consigo nem nomear.
+Tem ferida que ninguém viu.
+
+Mas TU VÊS.
+
+[pause longa]
+
+Ornamento em vez de cinza.
+[softly] Tira as minhas cinzas, Senhor.
+
+Óleo de alegria em vez de pranto.
+Enxuga as minhas lágrimas.
+
+Manto de louvor em vez de espírito angustiado.
+Veste-me com louvor onde havia angústia.
+
+[pause longa]
+
+Só Tu curas por dentro.
+Onde nenhum remédio chega.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 50s
-> *Tom intercessório, suave, como ungir uma ferida.*
+## CTA
 
-"O Espírito do Senhor está *sobre mim*." [pausa curta]
-Para curar os *quebrantados de coração*. [pausa curta]
-
-Senhor, o meu coração está partido. [pausa curta]
-Tem dor que eu não consigo nem nomear. [pausa curta]
-Tem ferida que ninguém viu. [pausa curta]
-
-Mas *Tu vês*. [pausa curta]
-
-"*Ornamento* em vez de cinza." [pausa curta]
-Tira as minhas cinzas, Senhor. [pausa curta]
-
-"*Óleo de alegria* em vez de pranto." [pausa curta]
-Enxuga as minhas lágrimas. [pausa curta]
-
-"*Manto de louvor* em vez de espírito angustiado." [pausa curta]
-Veste-me com louvor onde havia angústia. [pausa curta]
-
-Só *Tu* curas por dentro. [pausa curta]
-Onde nenhum remédio chega. [pausa curta]
-
-*Amém.*
-
----
-
-### 📣 CTA — 50s a 58s
-> *Tom suave, habitual, de cuidado*
-
-**"Manda esse Short para quem carrega *dor no coração hoje*.
-Salva e ouça toda vez que a tristeza apertar."**
+Manda esse Short para quem carrega dor no coração hoje.
+Salva e ouça toda vez que a tristeza apertar.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: suave com compaixão profunda

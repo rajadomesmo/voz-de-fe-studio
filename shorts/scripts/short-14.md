@@ -3,7 +3,6 @@
 **Estrutura:** Contemplativo
 **Base bíblica:** Isaías 40:31
 **Versículo escolhido:** "Mas os que esperam no Senhor renovarão as suas forças, subirão com asas como águias; correrão e não se cansarão; caminharão e não se fatigarão."
-**Por que este versículo:** Isaías 40:31 é o versículo de renovação de forças mais amado do evangelho. Alto reconhecimento, promessa visual (águia = poder) e emocional forte para momentos de cansaço — que o público feminino 30-55 vive intensamente.
 **Livro:** Antigo Testamento — Isaías
 **Duração estimada:** 50–56s
 
@@ -19,50 +18,56 @@ Cinematic dark endurance scene. A solitary eagle silhouette soaring upward throu
 
 ## Script
 
-### 🎯 HOOK — 0 a 3s
-> *Voz grave, acolhedora, para quem está cansado*
+Para quem está no limite...
+há uma promessa de Deus que ninguém pode cancelar.
 
-**"Para quem está no *limite* —
-há uma promessa de Deus que ninguém pode cancelar."**
+[pause]
+
+Os que esperam no Senhor...
+renovarão as suas forças.
+
+Isaías 40, versículo 31.
+
+[pause]
+
+Você está cansado.
+Mas há uma promessa para você.
+
+[pause longa]
+
+Senhor...
+eu espero em Ti.
+Não nas minhas forças.
+Nas TUAS.
+
+[pause]
+
+Subirão com asas como águias.
+Eu SUBO.
+
+Correrão e não se cansarão.
+Eu CORRO.
+
+Caminharão e não se fatigarão.
+Eu CAMINHO.
+
+[pause longa]
+
+A minha força não vem de mim.
+A minha força vem do SENHOR.
+
+[pause longa]
+
+Amém.
 
 ---
 
-### 🙏 CORPO — 3s a 48s
-> *Tom contemplativo, suave como brisa. Cada linha = força chegando.*
+## CTA
 
-Você está *cansado*. [pausa curta]
-Mas há uma promessa para você. [pausa curta]
-
-"Os que *esperam no Senhor*" [pausa curta]
-renovarão as suas *forças*." [pausa curta]
-
-Eu espero em Ti, Senhor. [pausa curta]
-Não nas minhas forças. [pausa curta]
-Nas *Tuas*. [pausa curta]
-
-"Subirão com asas como *águias*." [pausa curta]
-Eu subo. [pausa curta]
-
-"*Correrão* e não se cansarão." [pausa curta]
-Eu corro. [pausa curta]
-
-"*Caminharão* e não se fatigarão." [pausa curta]
-Eu caminho. [pausa curta]
-
-A minha força não vem de mim. [pausa curta]
-A minha força vem do *Senhor*. [pausa curta]
-
-*Amém.*
-
----
-
-### 📣 CTA — 48s a 56s
-> *Tom suave, habitual, encorajador*
-
-**"Coloca esse Short no celular para ouvir *na hora mais difícil*.
-Isaías 40:31 — força renovada para quem espera."**
+Coloca esse Short no celular para ouvir na hora mais difícil.
+Isaías 40:31 — força renovada para quem espera.
 
 ---
 
 ## Instrução ElevenLabs
-ELEVENLABS: voz MASCULINA pastoral grave PT-BR — velocidade 0.85 — emoção: calmo com autoridade
+ELEVENLABS: Arnold BR V3 — velocidade 0.85 — emoção: suave no início, firme no fim
