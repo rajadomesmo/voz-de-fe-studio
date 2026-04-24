@@ -244,27 +244,29 @@ let DONE=new Set();
 try{DONE=new Set(JSON.parse(localStorage.getItem('vdf_done')||'[]'));}catch(e){}
 
 // Store file contents by index to avoid inline data issues
-// ── RIGOROUS FIRST LINE PARSER ──
-// Reads: "# Short 27 — Esperança nos Momentos Impossíveis (Jeremias 29:11)"
-// If has (BibleBook Chapter:Verse) in parens → isVerse=true
-// Otherwise → isVerse=false, extract prayer name
+// ── FIRST LINE PARSER ──
+// Rule: if title contains "oração", "decreto", "declaração" → Oração tab
+// Otherwise → Versículo tab (title = verse from parens if exists, else theme name)
 function parseFirstLine(c){
   const content=String(c||'');
   const lineM=content.match(/^#\s+(.+)/m);
-  if(!lineM)return{isVerse:false,verse:null,prayerName:'Oração'};
+  if(!lineM)return{isVerse:true,verse:null,prayerName:null};
   const line=lineM[1].trim();
 
-  // Bible books (PT-BR)
-  const bb='1?\\s*(?:joão|coríntios|tessalonicenses|pedro|reis|samuel|crônicas)|salmo[s]?|romanos|filipenses|efésios|gálatas|jeremias|mateus|marcos|lucas|atos|provérbios|hebreus|tiago|apocalipse|deuteronômio|josué|isaías|joel|êxodo|gênesis|números|levítico|habacuque|neemias|daniel|oseias|miquéias|malaquias|rute|ester|jó|eclesiastes|cantares|lamentações|colossenses|filemom';
-  const parenRe=new RegExp('\\(\\s*((?:'+bb+')\\s+\\d+(?:[:.\\s]\\d+)?)\\s*\\)','i');
-  const parenM=line.match(parenRe);
-  if(parenM){
-    return{isVerse:true,verse:parenM[1].trim(),prayerName:null};
+  // Extract the part before parentheses
+  const beforeParens=line.replace(/\(.*?\)$/,'').replace(/^short\s+\d+\s*[—–\-]+\s*/i,'').trim();
+
+  // Check if it's a prayer (contains oração, decreto, declaração)
+  const isPrayer=/oração|decreto|declaração/i.test(beforeParens);
+
+  if(isPrayer){
+    return{isVerse:false,verse:null,prayerName:capitalizeFirst(beforeParens)};
   }
 
-  // No bible ref — prayer. Remove "Short XX — " prefix
-  const cleaned=line.replace(/^short\s+\d+\s*[—–\-]+\s*/i,'').replace(/\(.*?\)$/,'').trim();
-  return{isVerse:false,verse:null,prayerName:cleaned.length>2?capitalizeFirst(cleaned):'Oração'};
+  // It's a versículo short — extract verse from parentheses if available
+  const parenM=line.match(/\(([^)]+)\)/);
+  const verse=parenM?parenM[1].trim():beforeParens;
+  return{isVerse:true,verse:verse,prayerName:null};
 }
 
 function firstVerse(c){const p=parseFirstLine(c);return p.isVerse?p.verse:null;}
