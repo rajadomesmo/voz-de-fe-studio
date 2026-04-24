@@ -244,6 +244,31 @@ let DONE=new Set();
 try{DONE=new Set(JSON.parse(localStorage.getItem('vdf_done')||'[]'));}catch(e){}
 
 // Store file contents by index to avoid inline data issues
+// ── RIGOROUS FIRST LINE PARSER ──
+// Reads: "# Short 27 — Esperança nos Momentos Impossíveis (Jeremias 29:11)"
+// If has (BibleBook Chapter:Verse) in parens → isVerse=true
+// Otherwise → isVerse=false, extract prayer name
+function parseFirstLine(c){
+  const content=String(c||'');
+  const lineM=content.match(/^#\s+(.+)/m);
+  if(!lineM)return{isVerse:false,verse:null,prayerName:'Oração'};
+  const line=lineM[1].trim();
+
+  // Bible books (PT-BR)
+  const bb='1?\\s*(?:joão|coríntios|tessalonicenses|pedro|reis|samuel|crônicas)|salmo[s]?|romanos|filipenses|efésios|gálatas|jeremias|mateus|marcos|lucas|atos|provérbios|hebreus|tiago|apocalipse|deuteronômio|josué|isaías|joel|êxodo|gênesis|números|levítico|habacuque|neemias|daniel|oseias|miquéias|malaquias|rute|ester|jó|eclesiastes|cantares|lamentações|colossenses|filemom';
+  const parenRe=new RegExp('\\(\\s*((?:'+bb+')\\s+\\d+(?:[:.\\s]\\d+)?)\\s*\\)','i');
+  const parenM=line.match(parenRe);
+  if(parenM){
+    return{isVerse:true,verse:parenM[1].trim(),prayerName:null};
+  }
+
+  // No bible ref — prayer. Remove "Short XX — " prefix
+  const cleaned=line.replace(/^short\s+\d+\s*[—–\-]+\s*/i,'').replace(/\(.*?\)$/,'').trim();
+  return{isVerse:false,verse:null,prayerName:cleaned.length>2?capitalizeFirst(cleaned):'Oração'};
+}
+
+function firstVerse(c){const p=parseFirstLine(c);return p.isVerse?p.verse:null;}
+
 const STORE={};
 
 function typ(p){
@@ -266,22 +291,11 @@ function firstVerse(c){
 }
 
 function detectPrayer(name,c){
-  const content=String(c||'');
-  // 1. H1/H2 heading — "# Short 29 — Unção e Chamado" → "Unção e Chamado"
-  const hdM=content.match(/^#{1,3}\s+(.+)/m);
-  if(hdM){
-    const hd=hdM[1].replace(/\*+/g,'').trim();
-    // Remove "Short XX —" prefix
-    const cleaned=hd.replace(/^short\s+\d+\s*[—–\-]+\s*/i,'').replace(/\(.*?\)$/,'').trim();
-    if(cleaned.length>2)return capitalizeFirst(cleaned);
-  }
-  // 2. **Tema:** field
-  const tM=content.match(/\*\*[Tt]ema[:\s]+\*\*([^\n]+)/);
-  if(tM){const t=tM[1].replace(/\*/g,'').trim();if(t.length>2)return capitalizeFirst(t);}
-  // 3. Filename: short-03-correntes → "Correntes", short-02-sono → "Sono"
+  const p=parseFirstLine(c);
+  if(p.prayerName&&p.prayerName!=='Oração')return p.prayerName;
+  // Fallback to filename
   const fn=String(name||'').replace('.md','').replace(/^short-\d+-?/,'').replace(/-/g,' ').trim();
-  if(fn&&fn.length>1)return capitalizeFirst(fn);
-  return 'Oração';
+  return fn&&fn.length>1?capitalizeFirst(fn):'Oração';
 }
 
 function preview(c){
@@ -312,8 +326,8 @@ async function loadData(){
 
 function renderAll(){
   const shorts=ALL.filter(f=>typ(f.path)==='s');
-  const vShorts=shorts.filter(f=>firstVerse(f.content));
-  const pShorts=shorts.filter(f=>!firstVerse(f.content));
+  const vShorts=shorts.filter(f=>parseFirstLine(f.content).isVerse);
+  const pShorts=shorts.filter(f=>!parseFirstLine(f.content).isVerse);
   const longs=ALL.filter(f=>typ(f.path)==='lg');
   const lives=ALL.filter(f=>typ(f.path)==='lv');
   const know=ALL.filter(f=>typ(f.path)==='k');
@@ -346,11 +360,12 @@ function buildShortList(listId,files,subtype){
     const storeKey=listId+'_'+i;
     STORE[storeKey]=f.content;
     const done=DONE.has(f.path);
-    const verse=firstVerse(f.content);
-    const prayer=detectPrayer(f.name,f.content);
+    const parsed=parseFirstLine(f.content);
+    const verse=parsed.verse;
+    const prayer=parsed.prayerName||detectPrayer(f.name,f.content);
     const dt=new Date(f.mtime).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',year:'2-digit'});
     const isV=subtype==='v';
-    const title=isV?(verse||f.name):(prayer?capitalizeFirst(prayer):f.name);
+    const title=isV?(verse||f.name):(prayer||f.name);
     const pathEsc=f.path.replace(/'/g,"\\'");
     rows.push(`<div class="sc${done?' done':''}" data-uid="${storeKey}">
   <div class="sc-hd" onclick="togCard('${storeKey}')">
