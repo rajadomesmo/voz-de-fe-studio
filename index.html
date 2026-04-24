@@ -12,13 +12,11 @@
   --text:#EAE5DC;--muted:#4A4858;--muted2:#888699;
   --border:rgba(255,255,255,0.05);--border2:rgba(200,151,58,0.16);
   --green:#52C060;--blue:#5AAAE8;--purple:#9B6FF0;--orange:#E89B3A;--red:#E86060;
-  --r:8px;--r2:12px;--r3:16px;
+  --r:8px;--r2:12px;
   --font:-apple-system,'Segoe UI',system-ui,sans-serif;
 }
 html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--font);font-size:13px;line-height:1.5;overflow:hidden}
-::-webkit-scrollbar{width:3px;height:3px}
-::-webkit-scrollbar-track{background:transparent}
-::-webkit-scrollbar-thumb{background:var(--bg4);border-radius:3px}
+::-webkit-scrollbar{width:3px}::-webkit-scrollbar-track{background:transparent}::-webkit-scrollbar-thumb{background:var(--bg4);border-radius:3px}
 .shell{display:flex;height:100vh}
 
 /* SIDEBAR */
@@ -53,8 +51,6 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 .srch input{background:none;border:none;outline:none;color:var(--text);font-size:11px;width:100%;font-family:var(--font)}
 .srch input::placeholder{color:var(--muted)}
 .srch svg{width:11px;height:11px;stroke:var(--muted);fill:none;flex-shrink:0}
-
-/* STATS */
 .stats{display:flex;gap:7px;margin-bottom:12px}
 .stat{flex:1;background:var(--bg1);border:1px solid var(--border);border-radius:var(--r2);padding:10px 12px}
 .stat-l{font-size:8.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.07em;margin-bottom:2px}
@@ -65,62 +61,51 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 .content{flex:1;overflow-y:auto;padding:0 20px 20px}
 .panel{display:none}
 .panel.on{display:block}
-
-/* SECTION HD */
 .sec{display:flex;align-items:center;justify-content:space-between;margin:14px 0 7px}
 .sec:first-child{margin-top:0}
 .sec-t{font-size:8.5px;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);font-weight:500}
 .sec-c{font-size:9.5px;color:var(--muted);background:var(--bg1);border:1px solid var(--border);padding:1px 7px;border-radius:7px}
-
-/* FILE LIST */
 .flist{display:flex;flex-direction:column;gap:5px}
 
 /* SHORT CARD */
 .sc{background:var(--bg1);border:1px solid var(--border);border-radius:var(--r2);overflow:hidden;transition:border-color .18s}
 .sc:hover{border-color:rgba(200,151,58,.1)}
-.sc.done{border-color:rgba(82,192,96,.15);opacity:.7}
+.sc.done{border-color:rgba(82,192,96,.2);opacity:.65}
 .sc.done .sc-title{text-decoration:line-through;color:var(--muted)}
-
 .sc-hd{display:flex;align-items:center;gap:8px;padding:10px 13px;cursor:pointer;user-select:none}
-.sc-ico{width:26px;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0}
+.sc-ico{width:26px;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:12px;flex-shrink:0}
 .ic-v{background:rgba(200,151,58,.09);color:var(--gold2)}
 .ic-p{background:rgba(90,170,232,.09);color:var(--blue)}
 .ic-l{background:rgba(90,170,232,.09);color:var(--blue)}
 .ic-k{background:var(--gold3);color:var(--gold2)}
 .ic-a{background:rgba(155,111,240,.09);color:var(--purple)}
-
 .sc-meta{flex:1;min-width:0}
-.sc-title{font-size:11.5px;font-weight:500;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.sc-sub{font-size:9.5px;color:var(--muted);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.sc-right{display:flex;align-items:center;gap:5px;flex-shrink:0}
+.sc-title{font-size:11.5px;font-weight:500;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-bottom:2px}
+.sc-prayer{font-size:10px;color:var(--blue);font-style:italic;margin-bottom:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sc-sub{font-size:9.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sc-right{display:flex;align-items:center;gap:5px;flex-shrink:0;margin-left:8px}
 .sc-dt{font-size:8.5px;color:var(--muted);background:var(--bg2);padding:2px 6px;border-radius:5px;white-space:nowrap}
-
 .tag{font-size:8.5px;padding:2px 7px;border-radius:20px;font-weight:500;white-space:nowrap}
 .tag-v{background:rgba(200,151,58,.09);color:var(--gold)}
 .tag-p{background:rgba(90,170,232,.09);color:var(--blue)}
 .tag-l{background:rgba(90,170,232,.09);color:var(--blue)}
 .tag-k{background:var(--gold3);color:var(--gold)}
 .tag-a{background:rgba(155,111,240,.09);color:var(--purple)}
-
-.check-btn{width:22px;height:22px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;flex-shrink:0;color:var(--muted);font-size:11px}
-.check-btn:hover{border-color:var(--green);color:var(--green);background:rgba(82,192,96,.07)}
-.sc.done .check-btn{border-color:var(--green);color:var(--green);background:rgba(82,192,96,.12)}
-
 .cbtn{padding:3px 9px;background:var(--bg2);border:1px solid var(--border);border-radius:6px;cursor:pointer;color:var(--muted2);font-size:9.5px;font-weight:500;display:flex;align-items:center;gap:4px;transition:all .15s;white-space:nowrap}
 .cbtn:hover{background:var(--bg3);color:var(--text)}
 .cbtn.ok{color:var(--green);border-color:rgba(82,192,96,.2);background:rgba(82,192,96,.05)}
 .cbtn svg{width:9px;height:9px;stroke:currentColor;fill:none}
-
+.chk{width:24px;height:24px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;flex-shrink:0;color:var(--muted);font-size:12px;font-weight:600}
+.chk:hover{border-color:var(--green);color:var(--green);background:rgba(82,192,96,.07)}
+.sc.done .chk{border-color:var(--green);color:var(--green);background:rgba(82,192,96,.12)}
 .chev{width:12px;height:12px;stroke:var(--muted);fill:none;stroke-width:2;transition:transform .18s;flex-shrink:0}
 .sc.open .chev{transform:rotate(90deg)}
-
-/* SCRIPT BODY — single click, full content */
 .sc-body{display:none;border-top:1px solid var(--border)}
 .sc.open .sc-body{display:block}
 .sc-text{padding:12px 13px;font-size:10.5px;color:var(--muted2);line-height:1.75;white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,'SF Mono',monospace;max-height:420px;overflow-y:auto;background:var(--bg)}
 .sc-foot{padding:6px 13px 9px;display:flex;gap:5px;border-top:1px solid var(--border);background:var(--bg1)}
 
-/* RAW (non-shorts) */
+/* RAW CARD */
 .fc{background:var(--bg1);border:1px solid var(--border);border-radius:var(--r2);overflow:hidden;transition:border-color .18s}
 .fc:hover{border-color:rgba(200,151,58,.1)}
 .fc-hd{display:flex;align-items:center;gap:8px;padding:10px 13px;cursor:pointer;user-select:none}
@@ -136,7 +121,6 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 .fc-raw{padding:11px 13px;font-size:10.5px;color:var(--muted2);line-height:1.75;white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,'SF Mono',monospace;max-height:340px;overflow-y:auto;background:var(--bg)}
 .fc-foot{padding:6px 13px 9px;display:flex;gap:5px;border-top:1px solid var(--border);background:var(--bg1)}
 
-/* EMPTY / LOADING */
 .empty{text-align:center;padding:44px 20px;color:var(--muted)}
 .empty-i{font-size:28px;margin-bottom:9px;opacity:.3}
 .empty h3{font-size:11.5px;color:var(--muted2);margin-bottom:4px;font-weight:500}
@@ -147,15 +131,13 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 </head>
 <body>
 <div class="shell">
-
 <div class="sb">
   <div class="sb-logo">
     <div class="sb-name">Voz de Fé</div>
     <div class="sb-sub">Studio de Produção</div>
   </div>
   <button class="sb-btn" onclick="loadData()">
-    <svg viewBox="0 0 24 24"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
-    Atualizar
+    <svg viewBox="0 0 24 24"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>Atualizar
   </button>
   <div class="sb-sec">Shorts</div>
   <div class="sb-nav on" onclick="nav('versiculos',this)">
@@ -193,7 +175,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
     <div class="top-row">
       <div class="top-hd">
         <h1 id="ptitle">Shorts Versículos</h1>
-        <p id="psub">Clique no card para ver o script completo · ✓ para marcar como feito</p>
+        <p id="psub">Clique para abrir o script · ✓ para marcar como produzido</p>
       </div>
       <div class="srch">
         <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -210,110 +192,95 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
   </div>
 
   <div class="content">
-
-    <!-- VERSÍCULOS -->
     <div class="panel on" id="panel-versiculos">
       <div class="sec"><span class="sec-t">Shorts com versículo bíblico · mais recentes primeiro</span><span class="sec-c" id="sc-v">0</span></div>
       <div class="flist" id="list-v"><div class="loading"><div class="spin"></div>Aguardando data.json...</div></div>
     </div>
-
-    <!-- ORAÇÕES -->
     <div class="panel" id="panel-oracoes">
       <div class="sec"><span class="sec-t">Shorts de oração temática · mais recentes primeiro</span><span class="sec-c" id="sc-p">0</span></div>
-      <div class="flist" id="list-p"><div class="loading"><div class="spin"></div>Aguardando data.json...</div></div>
+      <div class="flist" id="list-p"></div>
     </div>
-
-    <!-- LIVE -->
     <div class="panel" id="panel-live">
       <div class="sec"><span class="sec-t">Roteiros long-form (10–15 min)</span><span class="sec-c" id="sc-lg">0</span></div>
       <div class="flist" id="list-lg"></div>
       <div class="sec" style="margin-top:18px"><span class="sec-t">Lives / Loops Gyre (30–60 min)</span><span class="sec-c" id="sc-lv">0</span></div>
       <div class="flist" id="list-lv"></div>
     </div>
-
-    <!-- CONHECIMENTO -->
     <div class="panel" id="panel-conhecimento">
-      <div class="sec"><span class="sec-t">Base de conhecimento</span><span class="sec-c" id="sc-k">0</span></div>
+      <div class="sec"><span class="sec-t">Base de conhecimento · hooks · keywords · prompts</span><span class="sec-c" id="sc-k">0</span></div>
       <div class="flist" id="list-k"></div>
     </div>
-
-    <!-- AGENTES -->
     <div class="panel" id="panel-agentes">
       <div class="sec"><span class="sec-t">Agentes configurados</span><span class="sec-c" id="sc-a">0</span></div>
       <div class="flist" id="list-a"></div>
       <div class="sec" style="margin-top:18px"><span class="sec-t">Comandos no Claude Code</span></div>
       <div class="fc open">
         <div class="fc-body" style="display:block">
-          <div class="fc-raw">"quero 5 shorts sobre cura"  → PRÉ-CICLO + CICLO SHORTS
-"pesquisa o que está viral"  → CICLO PESQUISA
-"faz roteiro de 10-15 min"  → CICLO ROTEIRO LONGO
-"faz roteiro para live"     → CICLO LIVE
-"o que já foi feito?"       → Resumo do MEMORY
-"não quero mais [X]"        → Registra em Descartados</div>
-          <div class="fc-foot"><button class="cbtn" onclick="copyTxt(this,document.querySelector('.fc-raw').textContent)"><svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar</button></div>
+          <div class="fc-raw">"quero 5 shorts sobre cura"   → PRÉ-CICLO + CICLO SHORTS
+"pesquisa o que está viral"   → CICLO PESQUISA
+"faz roteiro de 10-15 min"   → CICLO ROTEIRO LONGO
+"faz roteiro para live"      → CICLO LIVE
+"o que já foi feito?"        → Resumo do MEMORY
+"não quero mais [X]"         → Registra em Descartados</div>
+          <div class="fc-foot" id="cmd-foot"></div>
         </div>
       </div>
     </div>
-
   </div>
 </div>
 </div>
 
 <script>
 const PAGES={
-  versiculos:{t:'Shorts Versículos',s:'Clique no card para ver o script · ✓ para marcar como feito'},
-  oracoes:{t:'Shorts Orações',s:'Clique no card para ver o script · ✓ para marcar como feito'},
+  versiculos:{t:'Shorts Versículos',s:'Clique para abrir o script · ✓ para marcar como produzido'},
+  oracoes:{t:'Shorts Orações',s:'Clique para abrir o script · ✓ para marcar como produzido'},
   live:{t:'Live / Long-form',s:'Roteiros para YouTube e Gyre.pro'},
   conhecimento:{t:'Conhecimento',s:'Base de dados, hooks, keywords, prompts de imagem'},
   agentes:{t:'Agentes',s:'Configuração do agent team'}
 };
 
-let ALL=[], DONE=new Set(JSON.parse(localStorage.getItem('vdf_done')||'[]'));
+let ALL=[];
+let DONE=new Set();
+try{DONE=new Set(JSON.parse(localStorage.getItem('vdf_done')||'[]'));}catch(e){}
 
-// ── TYPE ──
+// Store file contents by index to avoid inline data issues
+const STORE={};
+
 function typ(p){
   const l=String(p||'').toLowerCase().replace(/\\/g,'/');
-  if(l.includes('prompts-imagem')) return 'k';
-  if(l.includes('shorts/scripts/')) return 's';
-  if(l.includes('live/playlist')) return 'lv';
-  if(/scripts\/roteiro/.test(l)) return 'lg';
-  if(l.includes('agents/')) return 'a';
+  if(l.includes('prompts-imagem'))return 'k';
+  if(l.includes('shorts/scripts/'))return 's';
+  if(l.includes('live/playlist'))return 'lv';
+  if(/scripts\/roteiro/.test(l))return 'lg';
+  if(l.includes('agents/'))return 'a';
   return 'k';
 }
 
-// ── DETECT VERSE ──
-const VERSE_RE=/(?:salmo[s]?|jo[aã]o|romanos|filipenses|isa[ií]as|ef[eé]sios|jeremias|mateus|marcos|lucas|atos|g[eê]n[eê]sis|[eê]xodo|prov[eé]rbios|hebreus|tiago|pedro|apocalipse|deuteron[oô]mio|g[aá]latas|col[os]+enses|tessalonicenses|cor[íi]ntios|jo[eé]l|josué|isaías|n[úu]meros|levítico)\s+\d+[:\s.]\d+/gi;
-function firstVerse(content){
-  const m=String(content||'').match(VERSE_RE);
+const VREX=/(?:salmo[s]?|jo[aã]o|romanos|filipenses|isa[ií]as|ef[eé]sios|jeremias|mateus|marcos|lucas|atos|g[eê]n[eê]sis|[eê]xodo|prov[eé]rbios|hebreus|tiago|pedro|apocalipse|deuteron[oô]mio|g[aá]latas|col[os]+enses|tessalonicenses|cor[íi]ntios|jo[eé]l|jos[ué]|n[úu]meros|levítico)\s+\d+[:.]\d+/gi;
+
+function firstVerse(c){
+  VREX.lastIndex=0;
+  const m=VREX.exec(String(c||''));
+  VREX.lastIndex=0;
   return m?m[0].trim():null;
 }
-function allVerses(content){
-  const found=new Set();
-  const str=String(content||'');
-  VERSE_RE.lastIndex=0;
-  let m; while((m=VERSE_RE.exec(str))!==null) found.add(m[0].trim());
-  VERSE_RE.lastIndex=0;
-  return [...found];
+
+const PTYPES=['oração da noite','oração da manhã','oração do dia','oração para dormir','oração de proteção','oração de cura','oração da gratidão','oração de guerra','oração de libertação','oração de prosperidade','oração da meia-noite','oração de intercessão','oração de arrependimento','oração de força','oração de paz','oração de vitória','oração de esperança','oração de fé'];
+
+function detectPrayer(name,c){
+  const cl=String(c||'').toLowerCase();
+  const fn=String(name||'').toLowerCase().replace(/-/g,' ').replace('.md','');
+  for(const p of PTYPES){if(cl.includes(p)||fn.includes(p))return p;}
+  const m=cl.match(/oração\s+(?:d[aoe]?\s+)?\w+/);
+  return m?m[0]:null;
 }
 
-// ── DETECT PRAYER ──
-const PRAYER_TYPES=['oração da noite','oração da manhã','oração do dia','oração para dormir','oração de proteção','oração de cura','oração da gratidão','oração de guerra','oração de libertação','oração de prosperidade','oração da meia-noite','oração de intercessão','oração de arrependimento','oração de força','oração de paz','oração de vitória','oração de esperança','oração de fé','oração pelos','oração de'];
-function detectPrayer(name,content){
-  const cl=String(content||'').toLowerCase();
-  for(const p of PRAYER_TYPES) if(cl.includes(p)) return p;
-  const m=cl.match(/oração\s+(?:d[aoe]?\s+)?\w+/i);
-  return m?m[0].toLowerCase():null;
+function preview(c){
+  return String(c||'').replace(/#+\s*/g,'').replace(/\*+/g,'').replace(/\[pausa[^\]]*\]/gi,'').replace(/---[^\n]*/g,'').replace(/\n+/g,' ').trim().slice(0,80)+'…';
 }
 
-// ── PREVIEW ──
-function preview(content){
-  const c=String(content||'').replace(/#+\s*/g,'').replace(/\*+/g,'').replace(/\[pausa[^\]]*\]/gi,'').replace(/---[^\n]*/g,'').replace(/\n+/g,' ').trim();
-  return c.length>90?c.slice(0,90)+'…':c;
-}
-
-// ── LOAD ──
 async function loadData(){
-  document.getElementById('stxt').textContent='Atualizando...';
+  set('stxt','Atualizando...');
   document.getElementById('sdot').style.background='var(--orange)';
   try{
     const r=await fetch('data.json?_='+Date.now());
@@ -326,168 +293,182 @@ async function loadData(){
       return{...f,content:c};
     }).sort((a,b)=>new Date(b.mtime)-new Date(a.mtime));
     renderAll();
-    const t=new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
-    document.getElementById('stxt').textContent='Atualizado '+t;
+    set('stxt','Atualizado '+new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'}));
     document.getElementById('sdot').style.background='var(--green)';
   }catch(e){
-    document.getElementById('stxt').textContent='Erro: '+e.message;
+    set('stxt','Erro: '+e.message);
     document.getElementById('sdot').style.background='var(--red)';
   }
 }
 
-// ── RENDER ALL ──
 function renderAll(){
   const shorts=ALL.filter(f=>typ(f.path)==='s');
-  // Separate: has verse = versiculos, else oracoes
-  const versShorts=shorts.filter(f=>firstVerse(f.content));
-  const prayShorts=shorts.filter(f=>!firstVerse(f.content));
+  const vShorts=shorts.filter(f=>firstVerse(f.content));
+  const pShorts=shorts.filter(f=>!firstVerse(f.content));
   const longs=ALL.filter(f=>typ(f.path)==='lg');
   const lives=ALL.filter(f=>typ(f.path)==='lv');
   const know=ALL.filter(f=>typ(f.path)==='k');
   const agents=ALL.filter(f=>typ(f.path)==='a');
-  const doneCount=[...DONE].length;
 
-  set('b-v',versShorts.length); set('b-p',prayShorts.length);
+  set('b-v',vShorts.length); set('b-p',pShorts.length);
   set('b-l',longs.length+lives.length); set('b-k',know.length); set('b-a',agents.length);
-  set('sv-v',versShorts.length); set('sv-p',prayShorts.length);
-  set('sv-lg',longs.length); set('sv-lv',lives.length); set('sv-done',doneCount);
-  set('sc-v',versShorts.length+' arquivos'); set('sc-p',prayShorts.length+' arquivos');
+  set('sv-v',vShorts.length); set('sv-p',pShorts.length);
+  set('sv-lg',longs.length); set('sv-lv',lives.length); set('sv-done',DONE.size);
+  set('sc-v',vShorts.length+' arquivos'); set('sc-p',pShorts.length+' arquivos');
   set('sc-lg',longs.length); set('sc-lv',lives.length); set('sc-k',know.length); set('sc-a',agents.length);
 
-  renderShorts('list-v',versShorts,'v');
-  renderShorts('list-p',prayShorts,'p');
-  renderRaw('list-lg',longs,'l');
-  renderRaw('list-lv',lives,'l');
-  renderRaw('list-k',know,'k');
-  renderRaw('list-a',agents,'a');
+  buildShortList('list-v',vShorts,'v');
+  buildShortList('list-p',pShorts,'p');
+  buildRawList('list-lg',longs,'l');
+  buildRawList('list-lv',lives,'l');
+  buildRawList('list-k',know,'k');
+  buildRawList('list-a',agents,'a');
+
+  // copy button for commands
+  const cf=document.getElementById('cmd-foot');
+  if(cf)cf.innerHTML='<button class="cbtn" onclick="copyIdx(-1)"><svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar</button>';
 }
 
-// ── RENDER SHORTS ──
-function renderShorts(id,files,subtype){
-  const el=document.getElementById(id);
+function buildShortList(listId,files,subtype){
+  const el=document.getElementById(listId);
   if(!files.length){el.innerHTML='<div class="empty"><div class="empty-i">📂</div><h3>Nenhum arquivo</h3></div>';return;}
-  el.innerHTML=files.map(f=>shortCard(f,subtype)).join('');
-}
-
-function shortCard(f,subtype){
-  const uid='sc'+btoa(f.path).replace(/[^a-z0-9]/gi,'').slice(0,10);
-  const done=DONE.has(f.path);
-  const verse=firstVerse(f.content);
-  const prayer=detectPrayer(f.name,f.content);
-  const dt=new Date(f.mtime).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',year:'2-digit'});
-  const prev=preview(f.content);
-  const isV=subtype==='v';
-  // Title: verse for versiculos, prayer name for oracoes, fallback filename
-  const title=isV?(verse||f.name):(prayer||f.name);
-  const subtitle=isV?f.name:(verse?verse+' · '+f.name:f.name);
-  const ico=isV?'📖':'🙏';
-  const icClass=isV?'ic-v':'ic-p';
-  const tagClass=isV?'tag-v':'tag-p';
-  const tagLabel=isV?'Short Versículo':'Short Oração';
-  const cnt=JSON.stringify(f.content||'');
-  return`<div class="sc${done?' done':''}" id="${uid}">
-  <div class="sc-hd" onclick="togSc('${uid}')">
-    <div class="sc-ico ${icClass}">${ico}</div>
+  const rows=[];
+  files.forEach((f,i)=>{
+    const storeKey=listId+'_'+i;
+    STORE[storeKey]=f.content;
+    const done=DONE.has(f.path);
+    const verse=firstVerse(f.content);
+    const prayer=detectPrayer(f.name,f.content);
+    const dt=new Date(f.mtime).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',year:'2-digit'});
+    const isV=subtype==='v';
+    const title=isV?(verse||f.name):(prayer?capitalizeFirst(prayer):f.name);
+    const pathEsc=f.path.replace(/'/g,"\\'");
+    rows.push(`<div class="sc${done?' done':''}" data-uid="${storeKey}">
+  <div class="sc-hd" onclick="togCard('${storeKey}')">
+    <div class="sc-ico ${isV?'ic-v':'ic-p'}">${isV?'📖':'🙏'}</div>
     <div class="sc-meta">
-      <div class="sc-title">${title}</div>
-      <div class="sc-sub">${subtitle} · ${prev}</div>
+      <div class="sc-title">${esc(title)}</div>
+      ${isV&&prayer?`<div class="sc-prayer">${esc(capitalizeFirst(prayer))}</div>`:''}
+      ${!isV&&verse?`<div class="sc-prayer">${esc(verse)}</div>`:''}
+      <div class="sc-sub">${esc(f.name)} · ${esc(preview(f.content))}</div>
     </div>
     <div class="sc-right">
       <span class="sc-dt">${dt}</span>
-      <span class="tag ${tagClass}">${tagLabel}</span>
-      <button class="cbtn" onclick="event.stopPropagation();copyTxt(this,${cnt})">
+      <span class="tag ${isV?'tag-v':'tag-p'}">${isV?'Short Versículo':'Short Oração'}</span>
+      <button class="cbtn" onclick="event.stopPropagation();copyIdx('${storeKey}')">
         <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar
       </button>
-      <button class="check-btn" onclick="event.stopPropagation();toggleDone('${uid}','${f.path.replace(/'/g,"\\'")}')">✓</button>
+      <button class="chk" onclick="event.stopPropagation();toggleDone('${storeKey}','${pathEsc}')">✓</button>
       <svg class="chev" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
     </div>
   </div>
   <div class="sc-body">
-    <div class="sc-text">${String(f.content||'').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</div>
+    <div class="sc-text">${esc(f.content)}</div>
     <div class="sc-foot">
-      <button class="cbtn" onclick="copyTxt(this,${cnt})">
+      <button class="cbtn" onclick="copyIdx('${storeKey}')">
         <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar script completo
       </button>
     </div>
   </div>
-</div>`;
+</div>`);
+  });
+  el.innerHTML=rows.join('');
 }
 
-// ── RENDER RAW ──
-function renderRaw(id,files,t){
-  const el=document.getElementById(id);
+function buildRawList(listId,files,t){
+  const el=document.getElementById(listId);
   if(!el)return;
   if(!files.length){el.innerHTML='<div class="empty"><div class="empty-i">📂</div><h3>Nenhum arquivo</h3></div>';return;}
-  el.innerHTML=files.map(f=>{
-    const uid='fc'+btoa(f.path).replace(/[^a-z0-9]/gi,'').slice(0,10);
+  const icons={l:'🎙️',k:'📚',a:'🤖'};
+  const ics={l:'ic-l',k:'ic-k',a:'ic-a'};
+  const tcs={l:'tag-l',k:'tag-k',a:'tag-a'};
+  const tls={l:'Live',k:'Base',a:'Agente'};
+  const rows=[];
+  files.forEach((f,i)=>{
+    const storeKey=listId+'_'+i;
+    STORE[storeKey]=f.content;
     const dt=new Date(f.mtime).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',year:'2-digit'});
-    const cnt=JSON.stringify(f.content||'');
-    const safe=String(f.content||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-    const icons={l:'🎙️',k:'📚',a:'🤖'};
-    const ics={l:'ic-l',k:'ic-k',a:'ic-a'};
-    const tcs={l:'tag-l',k:'tag-k',a:'tag-a'};
-    const tls={l:'Live',k:'Base',a:'Agente'};
-    return`<div class="fc" id="${uid}">
-  <div class="fc-hd" onclick="document.getElementById('${uid}').classList.toggle('open')">
+    rows.push(`<div class="fc" data-uid="${storeKey}">
+  <div class="fc-hd" onclick="togFc('${storeKey}')">
     <div class="sc-ico ${ics[t]}">${icons[t]}</div>
     <div class="fc-meta">
-      <div class="fc-nm">${f.name}</div>
-      <div class="fc-pt">${f.path}</div>
+      <div class="fc-nm">${esc(f.name)}</div>
+      <div class="fc-pt">${esc(f.path)}</div>
     </div>
     <div class="fc-r">
       <span class="fc-dt">${dt}</span>
       <span class="tag ${tcs[t]}">${tls[t]}</span>
-      <button class="cbtn" onclick="event.stopPropagation();copyTxt(this,${cnt})">
+      <button class="cbtn" onclick="event.stopPropagation();copyIdx('${storeKey}')">
         <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar
       </button>
       <svg class="chev2" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
     </div>
   </div>
   <div class="fc-body">
-    <div class="fc-raw">${safe}</div>
-    <div class="fc-foot"><button class="cbtn" onclick="copyTxt(this,${cnt})"><svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar completo</button></div>
+    <div class="fc-raw">${esc(f.content)}</div>
+    <div class="fc-foot">
+      <button class="cbtn" onclick="copyIdx('${storeKey}')">
+        <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar completo
+      </button>
+    </div>
   </div>
-</div>`;
-  }).join('');
+</div>`);
+  });
+  el.innerHTML=rows.join('');
 }
 
-// ── TOGGLE DONE ──
-function toggleDone(uid,path){
-  if(DONE.has(path))DONE.delete(path);
-  else DONE.add(path);
-  localStorage.setItem('vdf_done',JSON.stringify([...DONE]));
-  document.getElementById(uid).classList.toggle('done');
-  set('sv-done',[...DONE].length);
+function togCard(key){
+  const el=document.querySelector(`[data-uid="${key}"].sc`);
+  if(el)el.classList.toggle('open');
+}
+function togFc(key){
+  const el=document.querySelector(`[data-uid="${key}"].fc`);
+  if(el)el.classList.toggle('open');
 }
 
-// ── HELPERS ──
-function togSc(id){document.getElementById(id).classList.toggle('open');}
+function toggleDone(key,path){
+  const el=document.querySelector(`[data-uid="${key}"]`);
+  if(DONE.has(path)){DONE.delete(path);if(el)el.classList.remove('done');}
+  else{DONE.add(path);if(el)el.classList.add('done');}
+  try{localStorage.setItem('vdf_done',JSON.stringify([...DONE]));}catch(e){}
+  set('sv-done',DONE.size);
+}
+
+function copyIdx(key){
+  const text=key===-1?document.querySelector('.fc-raw').textContent:(STORE[key]||'');
+  const btns=[...document.querySelectorAll('[onclick*="copyIdx(\''+key+'\'")],[onclick*="copyIdx(-1)"]')];
+  navigator.clipboard.writeText(text).then(()=>{
+    btns.forEach(b=>{
+      const o=b.innerHTML;b.classList.add('ok');
+      b.innerHTML='<svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> Copiado!';
+      setTimeout(()=>{b.classList.remove('ok');b.innerHTML=o;},2000);
+    });
+  });
+}
+
+function capitalizeFirst(s){return s?s.charAt(0).toUpperCase()+s.slice(1):s;}
+function esc(s){return String(s||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function set(id,v){const e=document.getElementById(id);if(e)e.textContent=v;}
+
 function nav(p,el){
   document.querySelectorAll('.sb-nav').forEach(i=>i.classList.remove('on'));
   document.querySelectorAll('.panel').forEach(x=>x.classList.remove('on'));
   el.classList.add('on');
   document.getElementById('panel-'+p).classList.add('on');
-  document.getElementById('ptitle').textContent=PAGES[p].t;
-  document.getElementById('psub').textContent=PAGES[p].s;
+  set('ptitle',PAGES[p].t);
+  set('psub',PAGES[p].s);
 }
-function set(id,v){const e=document.getElementById(id);if(e)e.textContent=v;}
+
 function doSearch(){
   const q=document.getElementById('srch-inp').value.toLowerCase().trim();
   if(!q){renderAll();return;}
   const f=ALL.filter(x=>String(x.name||'').toLowerCase().includes(q)||String(x.content||'').toLowerCase().includes(q));
   const pid=document.querySelector('.panel.on').id.replace('panel-','');
-  if(pid==='versiculos')renderShorts('list-v',f.filter(x=>typ(x.path)==='s'&&firstVerse(x.content)),'v');
-  else if(pid==='oracoes')renderShorts('list-p',f.filter(x=>typ(x.path)==='s'&&!firstVerse(x.content)),'p');
-  else if(pid==='live'){renderRaw('list-lg',f.filter(x=>typ(x.path)==='lg'),'l');renderRaw('list-lv',f.filter(x=>typ(x.path)==='lv'),'l');}
-  else if(pid==='conhecimento')renderRaw('list-k',f.filter(x=>typ(x.path)==='k'),'k');
-  else if(pid==='agentes')renderRaw('list-a',f.filter(x=>typ(x.path)==='a'),'a');
-}
-function copyTxt(btn,text){
-  navigator.clipboard.writeText(text).then(()=>{
-    const o=btn.innerHTML;btn.classList.add('ok');
-    btn.innerHTML='<svg viewBox="0 0 24 24" width="9" height="9" stroke="currentColor" fill="none" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> Copiado!';
-    setTimeout(()=>{btn.classList.remove('ok');btn.innerHTML=o;},2000);
-  });
+  if(pid==='versiculos')buildShortList('list-v',f.filter(x=>typ(x.path)==='s'&&firstVerse(x.content)),'v');
+  else if(pid==='oracoes')buildShortList('list-p',f.filter(x=>typ(x.path)==='s'&&!firstVerse(x.content)),'p');
+  else if(pid==='live'){buildRawList('list-lg',f.filter(x=>typ(x.path)==='lg'),'l');buildRawList('list-lv',f.filter(x=>typ(x.path)==='lv'),'l');}
+  else if(pid==='conhecimento')buildRawList('list-k',f.filter(x=>typ(x.path)==='k'),'k');
+  else if(pid==='agentes')buildRawList('list-a',f.filter(x=>typ(x.path)==='a'),'a');
 }
 
 loadData();
