@@ -18,8 +18,15 @@ Cinematic dark renewal scene. A dark stone windowsill with the first light of da
 
 ## Script
 
-As misericórdias de Deus se renovam esta manhã...
-para você.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, suave — anunciando a manhã nova para quem passou a noite pesada*
+
+**"As misericórdias de Deus se renovam esta manhã... para você."**
+
+---
+
+### 🙏 CORPO — 3s a 50s
+> *Tom intercessório — declarando sobre o ouvinte a misericórdia renovada*
 
 [pause]
 
@@ -69,10 +76,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 50s a 58s
+> *Tom encorajador para a manhã*
 
-Ouça isso toda manhã antes de começar o dia.
-Salva — misericórdias novas todo dia.
+**"Ouça isso toda manhã antes de começar o dia.
+Salva — misericórdias novas todo dia."**
 
 ---
 

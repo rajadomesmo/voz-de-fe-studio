@@ -18,8 +18,15 @@ Cinematic dark reverence scene. A massive ancient stone altar rising from deep d
 
 ## Script
 
-O temor do Senhor...
-é o começo de tudo.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, solene — declarando a fundação antes de tudo mais*
+
+**"O temor do Senhor... é o começo de tudo."**
+
+---
+
+### 🙏 CORPO — 3s a 48s
+> *Tom declaratório — proclamação de reverência ao Senhor como base da sabedoria*
 
 [pause]
 
@@ -62,10 +69,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 48s a 54s
+> *Tom de sabedoria prática*
 
-Toda decisão importante começa aqui.
-Salva e ouça antes de qualquer escolha grande.
+**"Toda decisão importante começa aqui.
+Salva e ouça antes de qualquer escolha grande."**
 
 ---
 

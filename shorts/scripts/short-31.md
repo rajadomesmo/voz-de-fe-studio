@@ -18,10 +18,20 @@ Cinematic dark provision scene. A dark stone table with a simple loaf of bread a
 
 ## Script
 
-Buscai PRIMEIRO o reino de Deus e a Sua justiça...
-e todas essas coisas vos serão acrescentadas.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, firme — como quem recorda uma promessa que o ouvinte conhece*
+
+**"Buscai PRIMEIRO o reino de Deus — e todas essas coisas vos serão acrescentadas."**
+
+---
+
+### 🙏 CORPO — 3s a 48s
+> *Tom declaratório — declaração de dependência exclusiva em Deus como provedor*
 
 [pause]
+
+Buscai PRIMEIRO o reino de Deus e a Sua justiça...
+e todas essas coisas vos serão acrescentadas.
 
 Isso foi Jesus quem disse.
 
@@ -65,10 +75,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 48s a 56s
+> *Tom prático, direto*
 
-Ouça isso toda vez que a pressão financeira apertar.
-Salva — Deus acrescenta quando você busca Ele primeiro.
+**"Ouça isso toda vez que a pressão financeira apertar.
+Salva — Deus acrescenta quando você busca Ele primeiro."**
 
 ---
 

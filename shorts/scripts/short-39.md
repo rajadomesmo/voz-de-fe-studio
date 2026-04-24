@@ -18,10 +18,17 @@ Cinematic dark new beginning scene. A dark cracked stone surface with a single g
 
 ## Script
 
-Eis que faço coisa NOVA...
-já está BROTANDO.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, firme — como quem interrompe o lamento para apontar algo real*
 
-[pause]
+**"Eis que faço coisa nova — já está brotando."**
+
+---
+
+### 🙏 CORPO — 3s a 48s
+> *Tom declaratório — cada linha cancela o passado e afirma o novo*
+
+[pause longa]
 
 Não vos lembreis das coisas passadas.
 Eis que faço coisa NOVA.
@@ -38,7 +45,7 @@ AGORA.
 
 [pause longa]
 
-Então eu declaro sobre a minha vida hoje:
+Então eu declaro sobre a minha vida HOJE:
 
 [pause]
 
@@ -55,7 +62,7 @@ Eu CAMINHO para ela.
 
 [pause]
 
-[firmly] Deus está fazendo coisa nova EM MIM.
+Deus está fazendo coisa nova EM MIM.
 AGORA.
 
 [pause longa]
@@ -64,10 +71,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 48s a 56s
+> *Tom de recomeço, energizante mas sóbrio*
 
-Ouça isso toda segunda-feira — ou qualquer dia que você precisar recomeçar.
-Salva — coisa nova está brotando.
+**"Ouça isso toda segunda-feira — ou qualquer dia que você precisar recomeçar.
+Salva — coisa nova está brotando."**
 
 ---
 

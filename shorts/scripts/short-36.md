@@ -18,10 +18,17 @@ Cinematic dark peace scene. An ancient stone fortress wall at night, lit by a si
 
 ## Script
 
-Em nada sejais ansiosos...
-a paz de Deus está disponível agora.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, direta — não suave demais, mas firme como quem cancela o alarme falso*
 
-[pause]
+**"Em nada sejais ansiosos — a paz de Deus está disponível agora."**
+
+---
+
+### 🙏 CORPO — 3s a 48s
+> *Tom declaratório — cada linha é uma troca: ansiedade por paz*
+
+[pause longa]
 
 Em nada sejais ANSIOSOS.
 Antes — em TUDO — pela oração.
@@ -55,7 +62,7 @@ Como quem fica de guarda enquanto eu descanso.
 
 [pause longa]
 
-[firmly] Eu recebo essa paz AGORA.
+Eu recebo essa paz AGORA.
 
 [pause longa]
 
@@ -63,10 +70,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 48s a 56s
+> *Tom prático, direto*
 
-Ouça isso toda vez que a ansiedade apertar.
-Salva — paz que guarda quando você não aguenta mais.
+**"Ouça isso toda vez que a ansiedade apertar.
+Salva — paz que guarda quando você não aguenta mais."**
 
 ---
 

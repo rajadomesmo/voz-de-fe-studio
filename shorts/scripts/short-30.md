@@ -18,8 +18,15 @@ Cinematic dark comfort scene. A single golden candle flame burning alone on an a
 
 ## Script
 
-Se o seu coração está partido...
-Deus está perto de você agora.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, íntima — falando diretamente para quem está sofrendo*
+
+**"Se o seu coração está partido... Deus está perto de você agora."**
+
+---
+
+### 🙏 CORPO — 3s a 50s
+> *Tom contemplativo — declarações suaves sobre a presença de Deus no sofrimento*
 
 [pause]
 
@@ -66,10 +73,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 50s a 58s
+> *Tom gentil, como quem compartilha algo precioso*
 
-Manda essa oração para quem está sofrendo agora.
-Às vezes a palavra certa chega pelo celular.
+**"Manda essa oração para quem está sofrendo agora.
+Às vezes a palavra certa chega pelo celular."**
 
 ---
 

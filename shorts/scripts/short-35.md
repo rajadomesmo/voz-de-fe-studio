@@ -18,10 +18,17 @@ Cinematic dark reunion scene. A long, dark stone road stretching into deep shado
 
 ## Script
 
-Se você tem um filho longe de Deus...
-Ele já está correndo ao encontro dele.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, pastoral — reconhecendo a dor de mãe antes de declarar a promessa*
 
-[pause]
+**"Se você tem um filho longe de Deus — Ele já está correndo ao encontro dele."**
+
+---
+
+### 🙏 CORPO — 3s a 50s
+> *Tom intercessório — oração em terceira pessoa, intercedendo pelo filho ausente*
+
+[pause longa]
 
 Ainda estava LONGE...
 quando o pai o VIU.
@@ -32,17 +39,16 @@ Lucas 15, versículo 20.
 
 [pause longa]
 
-Deus vê o seu filho de longe.
+Deus vê meu filho de longe.
 Antes dele decidir voltar.
 Antes dele pedir perdão.
 Deus JÁ ESTÁ CORRENDO.
 
 [pause longa]
 
-Senhor...
-eu intercedo pelo meu filho agora.
+Senhor, eu intercedo pelo meu filho AGORA.
 
-[pause]
+[pause longa]
 
 Que o Teu Espírito o encontre
 no lugar onde ele está.
@@ -67,10 +73,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 50s a 58s
+> *Tom suave, materno — fala para mãe que precisa ouvir*
 
-Manda essa oração para toda mãe que ora por filho afastado de Deus.
-A oração chega onde você não consegue ir.
+**"Manda essa oração para toda mãe que ora por filho afastado de Deus.
+A oração chega onde você não consegue ir."**
 
 ---
 

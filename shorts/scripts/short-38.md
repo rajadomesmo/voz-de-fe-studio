@@ -18,10 +18,17 @@ Cinematic dark divine presence scene. An endless dark ocean at night, with a lon
 
 ## Script
 
-Você pode se sentir completamente só...
-mas não há lugar onde Deus não esteja.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, íntima — não para o coletivo, para uma pessoa*
 
-[pause]
+**"Você pode se sentir completamente só — mas não há lugar onde Deus não esteja."**
+
+---
+
+### 🙏 CORPO — 3s a 50s
+> *Tom contemplativo, lento — Davi fazendo perguntas que já têm resposta*
+
+[pause longa]
 
 Para onde me irei do Teu Espírito?
 Para onde fugirei da Tua presença?
@@ -52,10 +59,9 @@ TU ESTÁS LÁ.
 
 [pause longa]
 
-Senhor...
-que eu sinta Tua presença
+Senhor, que eu sinta Tua presença
 exatamente nesse lugar de solidão.
-Que o silêncio seja PREENCHIDO por Ti.
+Que o silêncio seja PREENCHIDO POR TI.
 Que eu saiba — no fundo do coração —
 que NUNCA estou sozinha.
 
@@ -65,10 +71,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 50s a 58s
+> *Tom íntimo, gentil*
 
-Para quem está sozinha hoje — ouça isso antes de dormir.
-Salva — e ouça sempre que a solidão apertar.
+**"Para quem está sozinha hoje — ouça isso antes de dormir.
+Salva — e ouça sempre que a solidão apertar."**
 
 ---
 

@@ -18,10 +18,17 @@ Cinematic dark blessing scene. A dark winding stone path, and along its sides: s
 
 ## Script
 
-As bênçãos de Deus não esperam você chegar...
-elas vêm ao seu encontro.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, confiante — como quem anuncia algo que já está a caminho*
 
-[pause]
+**"As bênçãos de Deus não esperam você chegar — elas vêm ao seu encontro."**
+
+---
+
+### 🙏 CORPO — 3s a 48s
+> *Tom intercessório — declarando sobre o ouvinte o que está prometido*
+
+[pause longa]
 
 Todas essas bênçãos virão sobre ti...
 e TE ALCANÇARÃO.
@@ -37,8 +44,7 @@ E ALCANÇARÃO.
 
 [pause longa]
 
-Senhor...
-declaro sobre quem ouve essa oração:
+Senhor, declaro sobre quem ouve essa oração:
 
 [pause]
 
@@ -65,10 +71,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 48s a 56s
+> *Tom de urgência positiva*
 
-Ouça isso antes de qualquer reunião, entrevista ou decisão importante.
-Salva — as bênçãos já estão vindo.
+**"Ouça isso antes de qualquer reunião, entrevista ou decisão importante.
+Salva — as bênçãos já estão vindo."**
 
 ---
 

@@ -18,8 +18,15 @@ Cinematic dark singular hope scene. A dark expanse of still water reflecting a s
 
 ## Script
 
-Quando tudo ao redor falhou...
-Ele ainda está lá.
+### 🎯 HOOK — 0 a 3s
+> *Voz grave, contemplativa — reconhecendo o fracasso de outros apoios*
+
+**"Quando tudo ao redor falhou... Ele ainda está lá."**
+
+---
+
+### 🙏 CORPO — 3s a 50s
+> *Tom contemplativo — âncora de esperança exclusiva em Deus*
 
 [pause]
 
@@ -71,10 +78,11 @@ Amém.
 
 ---
 
-## CTA
+### 📣 CTA — 50s a 58s
+> *Tom íntimo, como quem compartilha seu próprio segredo*
 
-Ouça isso toda vez que a esperança fraquear.
-Salva — sua âncora tem nome.
+**"Ouça isso toda vez que a esperança fraquear.
+Salva — sua âncora tem nome."**
 
 ---
 
