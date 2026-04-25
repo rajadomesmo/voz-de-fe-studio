@@ -18,8 +18,8 @@ Cinematic dark victory scene. A raised fist emerging from darkness, wrapped in g
 
 ## Script
 
-Você está em uma batalha que parece impossível de vencer?
-A vitória já é sua. Receba.
+Se a situação que você está enfrentando parece perdida por todos os lados...
+esse decreto de 1 Coríntios 15 é para você agora.
 
 [pause]
 
@@ -59,8 +59,8 @@ Amém. Vitória em Jesus.
 
 ## CTA
 
-Manda esse Short para quem está perdendo batalhas hoje.
-E salva — declare vitória toda manhã em voz alta.
+Declara em voz alta toda manhã: "A vitória já é minha em Jesus."
+Salva e ouça por 7 dias.
 
 ---
 

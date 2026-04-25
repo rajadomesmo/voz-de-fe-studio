@@ -18,8 +18,8 @@ Cinematic dark sacred sleep scene. A simple wooden bed with white linen sheets, 
 
 ## Script
 
-Esse versículo do Salmo 4 já trouxe sono profundo e seguro para mais de 55 mil pessoas...
-ouça ao deitar e durma debaixo da proteção de Deus.
+O Salmo 4:8 é declarado toda noite por mais de 80 mil pessoas —
+e elas relatam que são os únicos que dormem em paz.
 
 [pause]
 
@@ -58,8 +58,8 @@ Amém. Boa noite, Senhor.
 
 ## CTA
 
-Coloca esse Short no ritual de toda noite.
-Salmo 4:8 — durma em paz, protegido por Deus.
+Coloca no alarme para tocar toda noite antes de dormir.
+Salva — Salmo 4:8: o ritual de sono que Deus preparou para você.
 
 ---
 

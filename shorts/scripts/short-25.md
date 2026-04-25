@@ -18,8 +18,8 @@ Cinematic dark remembrance and blessing scene. An ancient stone scroll unfurling
 
 ## Script
 
-Essa oração do Salmo 103 já despertou gratidão real em mais de 70 mil pessoas...
-ouça toda manhã e nunca mais esqueça o que Deus fez.
+Se você acorda todo dia ansioso...
+esquecendo o que Deus já fez — esse Salmo 103 foi escrito para a sua alma agora.
 
 [pause]
 
@@ -64,8 +64,8 @@ Amém.
 
 ## CTA
 
-Ouça esse Short toda manhã e lembre de uma bênção de Deus.
-Salmo 103 — gratidão que não esquece os milagres.
+Ouça toda manhã e lembre uma bênção de Deus.
+Salva — Salmo 103 todo dia: gratidão que não esquece o que Ele já fez.
 
 ---
 

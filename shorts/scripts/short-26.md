@@ -18,8 +18,8 @@ Cinematic dark scene of divine forgiveness. A cracked stone surface lit from abo
 
 ## Script
 
-Se você carrega o peso de um erro...
-Deus está esperando você agora mesmo.
+Mais de 100 mil pessoas já fizeram essa oração do Salmo 51...
+e saíram com um coração novo. O perdão de Deus não tem fila.
 
 [pause]
 
@@ -65,8 +65,8 @@ Amém.
 
 ## CTA
 
-Toda vez que você errar — ouça essa oração.
-Salva e deixa no celular para a hora que precisar.
+Salva e ouça toda vez que você errar.
+Não carregue o peso até amanhã — ore agora.
 
 ---
 

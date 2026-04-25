@@ -24,8 +24,8 @@ Cinematic dark abundance scene. Ancient wooden table bathed in warm golden candl
 
 ## Script
 
-Esse Salmo 23 já abriu portas financeiras na vida de mais de 70 mil pessoas...
-declare todo dia e veja a provisão de Deus.
+Deus está abrindo portas financeiras AGORA MESMO —
+declare o Salmo 23 antes que o dia comece.
 
 [pause]
 
@@ -69,8 +69,8 @@ Amém. Recebo agora.
 
 ## CTA
 
-Salva esse Short e ouça toda manhã por 7 dias.
-Veja o que o Deus do Salmo 23 faz pela sua provisão.
+Coloca no alarme de amanhã cedo.
+Ouça por 7 dias seguidos — e veja o Deus do Salmo 23 agir.
 
 ---
 

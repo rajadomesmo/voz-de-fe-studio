@@ -18,8 +18,8 @@ Cinematic dark family protection scene. A family Bible open on a dark wooden tab
 
 ## Script
 
-Você orou pelos seus filhos hoje?
-Trinta segundos que podem mudar o dia deles.
+Deus está aguardando AGORA a sua intercessão pelos seus filhos.
+Eles precisam do seu clamor hoje.
 
 [pause]
 
@@ -60,8 +60,8 @@ Amém.
 
 ## CTA
 
-Manda esse Short para a mãe que precisa ouvir isso hoje.
-E salva — ore pelos seus filhos todo dia.
+Salva e ouça toda manhã antes de mandar mensagem pro seu filho.
+Intercessão primeiro — sempre.
 
 ---
 

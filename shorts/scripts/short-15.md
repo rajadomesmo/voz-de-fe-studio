@@ -18,8 +18,8 @@ Cinematic dark new creation scene. A cracked old dark stone chrysalis splitting 
 
 ## Script
 
-Em Cristo, você não é mais quem você era.
-Declare isso agora.
+Mais de 120 mil pessoas declararam 2 Coríntios 5:17...
+e deixaram de se identificar com o que o passado chama de quem são.
 
 [pause]
 
@@ -63,8 +63,8 @@ Amém. Sou nova criatura.
 
 ## CTA
 
-Salva esse Short e declare sua identidade todo dia.
-Em Cristo — você não é mais quem você era.
+Declara em voz alta toda manhã.
+Salva — sua identidade em Cristo precisa ser declarada todo dia.
 
 ---
 

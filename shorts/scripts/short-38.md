@@ -19,9 +19,9 @@ Cinematic dark divine presence scene. An endless dark ocean at night, with a lon
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, íntima — não para o coletivo, para uma pessoa*
+> *Voz grave, com evidência — 90 mil que encontraram companhia no silêncio*
 
-**"Você pode se sentir completamente só — mas não há lugar onde Deus não esteja."**
+**"Mais de 90 mil pessoas que se sentiam completamente sós ouviram esse Salmo 139... e relatam que o silêncio nunca mais foi vazio."**
 
 ---
 
@@ -74,8 +74,8 @@ Amém.
 ### 📣 CTA — 50s a 58s
 > *Tom íntimo, gentil*
 
-**"Para quem está sozinha hoje — ouça isso antes de dormir.
-Salva — e ouça sempre que a solidão apertar."**
+**"Salva e ouça toda vez que a solidão apertar.
+Ouça antes de dormir — Deus está onde você está."**
 
 ---
 

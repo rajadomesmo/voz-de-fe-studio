@@ -18,8 +18,8 @@ Cinematic dark midnight prayer scene. A narrow stone prison corridor at night, w
 
 ## Script
 
-Se você acordou na madrugada — Deus tem algo para você.
-Essa oração de Atos 16 já quebrou prisões de mais de 65 mil pessoas.
+Deus está agindo AGORA MESMO na madrugada —
+foi na meia-noite que o terremoto aconteceu em Atos 16.
 
 [pause]
 
@@ -61,8 +61,8 @@ Amém. As portas estão abertas.
 
 ## CTA
 
-Se você acordou na madrugada — salva esse Short.
-Ore na madrugada. É quando os terremotos espirituais acontecem.
+Salva e ouça toda vez que acordar na madrugada.
+Deus não acorda você às 3h sem razão — esse é o momento do terremoto.
 
 ---
 

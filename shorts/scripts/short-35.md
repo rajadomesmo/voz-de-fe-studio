@@ -19,9 +19,9 @@ Cinematic dark reunion scene. A long, dark stone road stretching into deep shado
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, pastoral — reconhecendo a dor de mãe antes de declarar a promessa*
+> *Voz grave, com prova — 200 mil mães que encontraram esperança*
 
-**"Se você tem um filho longe de Deus — Ele já está correndo ao encontro dele."**
+**"Mais de 200 mil mães oraram por filho pródigo com essa passagem de Lucas 15... e o pai correu antes mesmo deles decidirem voltar."**
 
 ---
 
@@ -76,8 +76,8 @@ Amém.
 ### 📣 CTA — 50s a 58s
 > *Tom suave, materno — fala para mãe que precisa ouvir*
 
-**"Manda essa oração para toda mãe que ora por filho afastado de Deus.
-A oração chega onde você não consegue ir."**
+**"Ouça toda manhã intercedendo pelo seu filho.
+Salva — e manda para toda mãe que ora por filho pródigo."**
 
 ---
 

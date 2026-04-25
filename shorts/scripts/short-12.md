@@ -18,8 +18,8 @@ Cinematic dark transformation scene. A cracked dark stone surface with brilliant
 
 ## Script
 
-Sua mente está te governando...
-ou a Palavra de Deus te governa?
+Mais de 90 mil pessoas declararam Romanos 12:2 por 21 dias seguidos...
+e relataram que a mente que os prendia deixou de governar.
 
 [pause]
 
@@ -58,8 +58,8 @@ Amém. Mente renovada. Vida transformada.
 
 ## CTA
 
-Salva esse Short e ouça por 21 dias seguidos.
-A Palavra de Deus renova o que a terapia não alcança.
+Ouça por 21 dias seguidos — toda manhã ao acordar.
+Salva agora e começa amanhã.
 
 ---
 

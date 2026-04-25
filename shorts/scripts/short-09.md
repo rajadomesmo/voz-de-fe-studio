@@ -18,8 +18,8 @@ Cinematic dark dawn prayer scene. A lone wooden chair positioned before a tall n
 
 ## Script
 
-Você começa o dia olhando o celular antes de falar com Deus?
-Muda isso agora.
+Mais de 100 mil pessoas começam o dia com essa oração do Salmo 5...
+e relatam que tudo muda quando Deus é a primeira voz da manhã.
 
 [pause]
 
@@ -58,8 +58,8 @@ Amém. Bom dia, Senhor.
 
 ## CTA
 
-Coloca esse Short no alarme de amanhã cedo.
-Comece todo dia falando com Deus antes de tudo.
+Coloca no alarme de amanhã — 5h30.
+Ouça todo dia antes do celular. Salmo 5 primeiro.
 
 ---
 

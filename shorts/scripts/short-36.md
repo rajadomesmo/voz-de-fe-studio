@@ -19,9 +19,9 @@ Cinematic dark peace scene. An ancient stone fortress wall at night, lit by a si
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, direta — não suave demais, mas firme como quem cancela o alarme falso*
+> *Voz grave, pessoal — chamando quem chegou até aqui*
 
-**"Em nada sejais ansiosos — a paz de Deus está disponível agora."**
+**"Se você chegou até essa oração hoje... é porque a paz de Deus está te chamando de volta agora. Não é coincidência."**
 
 ---
 
@@ -73,8 +73,8 @@ Amém.
 ### 📣 CTA — 48s a 56s
 > *Tom prático, direto*
 
-**"Ouça isso toda vez que a ansiedade apertar.
-Salva — paz que guarda quando você não aguenta mais."**
+**"Salva e ouça toda vez que a ansiedade apertar.
+Ouça por 7 dias — a paz que excede o entendimento guarda quem declara."**
 
 ---
 

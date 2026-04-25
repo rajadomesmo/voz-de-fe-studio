@@ -18,8 +18,8 @@ Cinematic dark faith scene. A single burning torch planted firmly in dark rocky 
 
 ## Script
 
-Essa declaração de Hebreus 11 já fortaleceu a fé de mais de 55 mil pessoas...
-salva e declare em voz alta todo dia.
+Fé não é sentimento — é uma escolha.
+E hoje você vai escolher crer mesmo sem ver.
 
 [pause]
 
@@ -59,8 +59,8 @@ Amém. Eu creio.
 
 ## CTA
 
-Salva esse Short e declare em voz alta toda manhã.
-Fé falada em voz alta é fé que age.
+Declare em voz alta toda manhã ao acordar.
+Salva — fé que se fala todo dia é fé que move montanha.
 
 ---
 

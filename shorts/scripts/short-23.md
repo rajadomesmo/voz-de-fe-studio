@@ -18,8 +18,8 @@ Cinematic dark inner healing scene. A cracked clay vessel sitting on dark stone,
 
 ## Script
 
-Tem uma dor no coração que nenhum remédio alcança?
-Só o Espírito do Senhor cura por dentro.
+O que machuca mais não é a dor —
+é achar que precisa estar bem para Deus chegar. Deus chega na quebra.
 
 [pause]
 
@@ -61,8 +61,8 @@ Amém.
 
 ## CTA
 
-Manda esse Short para quem carrega dor no coração hoje.
 Salva e ouça toda vez que a tristeza apertar.
+Ouça por 7 dias — Deus cura por dentro o que ninguém vê por fora.
 
 ---
 

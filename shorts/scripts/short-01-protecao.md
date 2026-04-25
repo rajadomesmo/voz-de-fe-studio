@@ -24,8 +24,8 @@ Cinematic dark prayer scene. Ancient stone altar illuminated by a single golden 
 
 ## Script
 
-Essa oração do Salmo 91 já ajudou mais de 80 mil pessoas...
-ouça todo dia e veja a proteção de Deus sobre sua vida.
+Mais de 200 mil pessoas dormem debaixo do Salmo 91 toda noite...
+e nenhuma foi alcançada pelo mal.
 
 [pause]
 
@@ -67,8 +67,8 @@ Amém.
 
 ## CTA
 
-Salva esse Short e ouça todo dia antes de sair de casa.
-Deus guarda quem caminha sob o Salmo 91.
+Salva e coloca no alarme de amanhã cedo.
+Salmo 91 — proteção declarada antes de qualquer passo.
 
 ---
 

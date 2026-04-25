@@ -18,8 +18,8 @@ Cinematic dark endurance scene. A solitary eagle silhouette soaring upward throu
 
 ## Script
 
-Para quem está no limite...
-há uma promessa de Deus que ninguém pode cancelar.
+Se você está carregando mais do que aguenta...
+exausto por dentro — essa promessa de Isaías 40 é para você agora.
 
 [pause]
 
@@ -64,8 +64,8 @@ Amém.
 
 ## CTA
 
-Coloca esse Short no celular para ouvir na hora mais difícil.
-Isaías 40:31 — força renovada para quem espera.
+Salva e ouça na hora mais difícil do dia.
+Força renovada para quem espera — Isaías 40:31.
 
 ---
 

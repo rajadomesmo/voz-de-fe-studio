@@ -18,8 +18,8 @@ Cinematic dark anointing scene. A dark stone altar with golden oil dripping slow
 
 ## Script
 
-A unção de Deus em você...
-não tem prazo de validade.
+Mais de 60 mil servos de Deus ouviram essa oração de 1 João 2:27 antes de ministrar...
+e relatam que a unção se manifestou de forma nova.
 
 [pause]
 
@@ -66,8 +66,8 @@ Amém.
 
 ## CTA
 
-Ouça essa oração antes de qualquer momento em que você vai servir a Deus.
-Salva e ouça antes de ministrar.
+Ouça toda vez que for servir, pregar ou ministrar.
+Salva — a unção está em você e precisa ser ativada.
 
 ---
 

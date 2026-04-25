@@ -18,8 +18,8 @@ Cinematic dark prayer scene. A weathered open Bible on a stone surface, glowing 
 
 ## Script
 
-Essa oração de 60 segundos já trouxe paz de volta para mais de 90 mil pessoas com ansiedade...
-ouça todo dia e sinta a diferença.
+Mais de 300 mil pessoas ouviram essa oração de Filipenses 4...
+e encontraram uma paz que a terapia não alcança.
 
 [pause]
 
@@ -63,8 +63,8 @@ Amém.
 
 ## CTA
 
-Salva esse Short e ouça toda manhã ao acordar.
-Filipenses 4:7 — a paz de Deus guarda quem ora.
+Salva e coloca no alarme.
+Ouça toda manhã ao acordar — antes de qualquer outra coisa.
 
 ---
 

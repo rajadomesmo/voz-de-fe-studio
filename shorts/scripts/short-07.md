@@ -18,8 +18,8 @@ Cinematic dark spiritual warfare scene. Ancient bronze armor pieces — breastpl
 
 ## Script
 
-Esse decreto de Efésios 6 já derrubou fortalezas na vida de mais de 70 mil guerreiros...
-ouça todo dia e entre em batalha preparado.
+Se você chegou até esse decreto hoje — não é coincidência.
+Você está em batalha e Deus te enviou a armadura.
 
 [pause]
 
@@ -61,8 +61,8 @@ Amém. A batalha é do Senhor.
 
 ## CTA
 
-Manda esse Short para alguém em batalha espiritual agora.
-E você — salva e declare toda manhã antes de sair de casa.
+Salva e declare em voz alta toda manhã antes de sair.
+A armadura precisa ser vestida todo dia.
 
 ---
 

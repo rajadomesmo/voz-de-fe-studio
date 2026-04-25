@@ -18,8 +18,8 @@ Cinematic dark favor scene. Ancient open scroll partially unrolled on a dark sto
 
 ## Script
 
-Essa oração de Provérbios já abriu portas de favor para mais de 55 mil pessoas...
-ouça por 7 dias e veja o favor de Deus agir.
+Você está dando tudo de si no trabalho, em casa, em tudo...
+mas as portas continuam fechadas. Essa oração é para você.
 
 [pause]
 
@@ -57,8 +57,8 @@ Amém.
 
 ## CTA
 
-Salva esse Short e ouça toda manhã por 7 dias.
-Deus abre portas que nenhum homem pode fechar.
+Ouça toda manhã antes de sair para o trabalho por 7 dias.
+Salva — favor que abre o que está fechado.
 
 ---
 

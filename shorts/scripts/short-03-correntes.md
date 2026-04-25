@@ -24,8 +24,8 @@ Cinematic dark spiritual warfare scene. Heavy iron chains lying shattered and br
 
 ## Script
 
-Esse decreto do Salmo 46 já libertou mais de 60 mil pessoas de correntes invisíveis...
-ouça todo dia e veja Deus agir.
+Mais de 150 mil decretos declarados do Salmo 46...
+e Deus agiu em cada um.
 
 [pause]
 
@@ -67,8 +67,8 @@ Amém. Está feito.
 
 ## CTA
 
-Manda esse Short para alguém que precisa ser liberto hoje.
-E você — ouça todo dia até sentir a corrente cair.
+Declara isso todo dia por 7 dias.
+Salva — e veja cada corrente cair.
 
 ---
 

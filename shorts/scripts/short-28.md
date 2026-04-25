@@ -18,8 +18,8 @@ Cinematic dark healing prayer scene. An ancient stone room with a simple stone s
 
 ## Script
 
-Se você viu isso...
-alguém na sua vida precisa de cura.
+Se há alguém doente na sua família...
+ou você mesmo carrega um diagnóstico que assusta — essa é a oração da fé.
 
 [pause]
 
@@ -66,8 +66,8 @@ Amém.
 
 ## CTA
 
-Manda esse Short para quem está doente ou tem familiar doente.
-A oração da fé chega onde você não consegue ir.
+Ouça por 7 dias seguidos por quem está doente.
+Salva — a oração da fé salva o enfermo: Tiago 5:15.
 
 ---
 

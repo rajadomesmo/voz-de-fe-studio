@@ -18,8 +18,8 @@ Cinematic dark Holy Spirit scene. A white dove in slow descent, wings spread wid
 
 ## Script
 
-Antes de qualquer decisão importante...
-ore ao Espírito Santo primeiro.
+Se você chegou até essa oração hoje...
+o Espírito Santo tem algo específico para te mostrar agora.
 
 [pause]
 
@@ -68,8 +68,8 @@ Amém.
 
 ## CTA
 
-Salva esse Short e ouça antes de tomar qualquer decisão importante.
-O Espírito Santo é o Consolador que Jesus prometeu para você.
+Salva e ouça antes de cada decisão importante.
+O Consolador prometido por Jesus está disponível agora.
 
 ---
 

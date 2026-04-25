@@ -19,9 +19,9 @@ Cinematic dark reverence scene. A massive ancient stone altar rising from deep d
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, solene — declarando a fundação antes de tudo mais*
+> *Voz grave, com desafio — convite à mudança real*
 
-**"O temor do Senhor... é o começo de tudo."**
+**"Ouça essa declaração de Provérbios 9:10 por 7 dias... e veja sua capacidade de tomar decisões mudar completamente."**
 
 ---
 
@@ -72,8 +72,8 @@ Amém.
 ### 📣 CTA — 48s a 54s
 > *Tom de sabedoria prática*
 
-**"Toda decisão importante começa aqui.
-Salva e ouça antes de qualquer escolha grande."**
+**"Ouça por 7 dias seguidos — toda manhã antes de qualquer decisão.
+Salva — sabedoria que começa em Deus."**
 
 ---
 

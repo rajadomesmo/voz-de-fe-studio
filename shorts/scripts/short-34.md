@@ -19,9 +19,9 @@ Cinematic dark singular hope scene. A dark expanse of still water reflecting a s
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, contemplativa — reconhecendo o fracasso de outros apoios*
+> *Voz grave, suave — diagnóstico com saída*
 
-**"Quando tudo ao redor falhou... Ele ainda está lá."**
+**"Se você está esperando de alguém que tem limite... de uma situação que não virou — essa oração vai redirecionar sua esperança agora."**
 
 ---
 
@@ -81,8 +81,8 @@ Amém.
 ### 📣 CTA — 50s a 58s
 > *Tom íntimo, como quem compartilha seu próprio segredo*
 
-**"Ouça isso toda vez que a esperança fraquear.
-Salva — sua âncora tem nome."**
+**"Salva e ouça toda vez que a esperança fraquear.
+Sua âncora tem nome — e Ela não cede."**
 
 ---
 

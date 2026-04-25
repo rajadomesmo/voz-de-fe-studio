@@ -18,8 +18,8 @@ Cinematic dark abundance decree scene. A large open ancient stone doorway with g
 
 ## Script
 
-Esse decreto de Deuteronômio 28 já abriu bênçãos sobre mais de 75 mil famílias...
-ouça toda manhã antes de trabalhar e declare suas bênçãos.
+Você sente que trabalha mais do que todos...
+mas a bênção passa pelo lado. Esse decreto é para você.
 
 [pause]
 
@@ -65,8 +65,8 @@ Amém. As bênçãos me alcançam hoje.
 
 ## CTA
 
-Ouça esse Short toda manhã antes de sair para o trabalho.
-Declara as bênçãos de Deuteronômio 28 sobre sua vida.
+Ouça toda manhã antes de sair para o trabalho.
+Salva — as bênçãos de Deuteronômio 28 te alcançam hoje.
 
 ---
 

@@ -24,8 +24,8 @@ Cinematic dark healing scene. Gentle hands — no faces visible — resting open
 
 ## Script
 
-Essa oração do Salmo 27 já restaurou a saúde de mais de 50 mil pessoas...
-ouça todo dia e receba a sua cura.
+Se você tem um diagnóstico que assusta...
+ou uma dor que não passa — essa oração do Salmo 27 é para você.
 
 [pause]
 
@@ -67,8 +67,8 @@ Amém.
 
 ## CTA
 
-Manda esse Short para alguém que precisa de cura hoje.
-E você — ouça amanhã de manhã. O Salmo 27 é sua força.
+Ouça toda manhã por 21 dias seguidos.
+Salva — cura declarada, todos os dias.
 
 ---
 

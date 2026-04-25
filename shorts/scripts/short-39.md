@@ -19,9 +19,9 @@ Cinematic dark new beginning scene. A dark cracked stone surface with a single g
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, firme — como quem interrompe o lamento para apontar algo real*
+> *Voz grave, surpreendente — inversão que ressignifica a situação*
 
-**"Eis que faço coisa nova — já está brotando."**
+**"Você não precisa recomeçar do zero — Deus está recomeçando EM VOCÊ. A coisa nova já está brotando no lugar que parece mais destruído."**
 
 ---
 
@@ -74,8 +74,8 @@ Amém.
 ### 📣 CTA — 48s a 56s
 > *Tom de recomeço, energizante mas sóbrio*
 
-**"Ouça isso toda segunda-feira — ou qualquer dia que você precisar recomeçar.
-Salva — coisa nova está brotando."**
+**"Salva e ouça toda segunda-feira — ou qualquer dia que precisar recomeçar.
+Coisa nova já está brotando em você."**
 
 ---
 

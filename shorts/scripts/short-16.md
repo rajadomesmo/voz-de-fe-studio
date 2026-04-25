@@ -18,8 +18,8 @@ Cinematic dark release scene. A heavy dark iron chain link slowly unraveling and
 
 ## Script
 
-Essa oração do Salmo 55 já aliviou o peso de mais de 50 mil pessoas com ansiedade...
-ouça antes de dormir e entregue tudo a Deus.
+Se você vai deitar com o peso do mundo nas costas...
+que não é seu para carregar — esse Salmo foi escrito para você.
 
 [pause]
 
@@ -67,8 +67,8 @@ Amém. Entregue.
 
 ## CTA
 
-Salva esse Short e ouça toda noite antes de deitar.
-Dorme quem entrega o peso a Deus.
+Coloca no ritual da noite. Ouça toda noite ao deitar —
+e entregue cada peso antes de fechar os olhos.
 
 ---
 

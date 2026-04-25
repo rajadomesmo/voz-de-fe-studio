@@ -19,9 +19,9 @@ Cinematic dark renewal scene. A dark stone windowsill with the first light of da
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, suave — anunciando a manhã nova para quem passou a noite pesada*
+> *Voz grave, com evidência — prova social que convida*
 
-**"As misericórdias de Deus se renovam esta manhã... para você."**
+**"Mais de 150 mil pessoas começam a manhã declarando Lamentações 3:22-23... e relatam que nenhum dia começa pesado quando Deus é a primeira voz."**
 
 ---
 
@@ -79,8 +79,8 @@ Amém.
 ### 📣 CTA — 50s a 58s
 > *Tom encorajador para a manhã*
 
-**"Ouça isso toda manhã antes de começar o dia.
-Salva — misericórdias novas todo dia."**
+**"Coloca no alarme de amanhã cedo.
+Ouça toda manhã — misericórdias novas, todo dia, sem exceção."**
 
 ---
 

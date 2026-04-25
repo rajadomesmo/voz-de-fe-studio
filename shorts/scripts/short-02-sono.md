@@ -24,8 +24,9 @@ Cinematic dark bedroom atmosphere. Soft golden candlelight casting warm glow on 
 
 ## Script
 
-Esse Salmo 121 já trouxe paz e sono profundo para mais de 40 mil pessoas...
-ouça antes de dormir e sinta a diferença.
+Você está exausta...
+mas quando deita, a mente não para.
+Essa oração é para você.
 
 [pause]
 
@@ -66,8 +67,8 @@ Amém. Boa noite.
 
 ## CTA
 
-Coloca esse áudio no alarme de amanhã cedo.
-Comece o dia debaixo da proteção do Salmo 121.
+Salva e coloca no ritual de toda noite.
+Dorme em paz quem entrega a noite ao Senhor.
 
 ---
 

@@ -19,9 +19,9 @@ Cinematic dark provision scene. A dark stone table with a simple loaf of bread a
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, firme — como quem recorda uma promessa que o ouvinte conhece*
+> *Voz grave, direta — diagnóstico que interrompe antes de redirecionar*
 
-**"Buscai PRIMEIRO o reino de Deus — e todas essas coisas vos serão acrescentadas."**
+**"Se você está correndo atrás das coisas que Deus prometeu ACRESCENTAR... está correndo na direção errada. Ouça isso."**
 
 ---
 
@@ -78,8 +78,8 @@ Amém.
 ### 📣 CTA — 48s a 56s
 > *Tom prático, direto*
 
-**"Ouça isso toda vez que a pressão financeira apertar.
-Salva — Deus acrescenta quando você busca Ele primeiro."**
+**"Ouça toda vez que a pressão financeira apertar.
+Salva — busca primeiro, recebe depois."**
 
 ---
 

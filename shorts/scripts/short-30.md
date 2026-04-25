@@ -19,9 +19,9 @@ Cinematic dark comfort scene. A single golden candle flame burning alone on an a
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, íntima — falando diretamente para quem está sofrendo*
+> *Voz grave, urgente — declarando presença divina imediata*
 
-**"Se o seu coração está partido... Deus está perto de você agora."**
+**"Deus está AGORA MESMO ao lado de quem tem o coração partido — não depois, não quando você melhorar: AGORA."**
 
 ---
 
@@ -76,8 +76,8 @@ Amém.
 ### 📣 CTA — 50s a 58s
 > *Tom gentil, como quem compartilha algo precioso*
 
-**"Manda essa oração para quem está sofrendo agora.
-Às vezes a palavra certa chega pelo celular."**
+**"Salva e ouça toda vez que a dor apertar.
+E manda para quem você sabe que está sofrendo agora."**
 
 ---
 

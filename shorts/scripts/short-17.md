@@ -18,8 +18,8 @@ Cinematic dark covenant scene. Two intertwined braided cords wrapped around a wo
 
 ## Script
 
-O inimigo ataca mais o casamento...
-quando você não está orando por ele.
+Mais de 70 mil casamentos foram restaurados com essa oração de Eclesiastes 4...
+o cordão de três dobras não se quebra quando Deus está no centro.
 
 [pause]
 
@@ -59,8 +59,8 @@ Amém.
 
 ## CTA
 
-Manda esse Short para quem precisa de restauração no casamento.
-E salva — ore todo dia junto com seu esposo.
+Ore junto com seu esposo toda noite.
+Salva e ouça por 7 dias — o cordão de três dobras se fortalece na oração diária.
 
 ---
 

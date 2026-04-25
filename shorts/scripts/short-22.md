@@ -18,8 +18,8 @@ Cinematic dark prophetic dream scene. A dark night sky filled with stars, with a
 
 ## Script
 
-Essa declaração de Joel 2 já despertou sonhos e visões em mais de 50 mil pessoas...
-ouça antes de dormir por 7 dias e veja o que Deus revela.
+Mais de 80 mil pessoas ouviram essa declaração de Joel 2 antes de dormir...
+e relatam que Deus começou a falar nos sonhos.
 
 [pause]
 
@@ -62,8 +62,8 @@ Amém. Fala, Senhor.
 
 ## CTA
 
-Ouça esse Short antes de dormir por 7 noites seguidas.
-Deus ainda fala por sonhos e visões — Joel 2:28.
+Ouça toda noite antes de dormir por 7 noites seguidas.
+Salva — e registre os sonhos de manhã. Deus vai falar.
 
 ---
 

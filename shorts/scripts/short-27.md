@@ -18,6 +18,11 @@ Cinematic dark hope scene. A narrow stone path emerging from dense dark fog, win
 
 ## Script
 
+Se você chegou até esse versículo hoje —
+Deus está interrompendo o desespero com uma palavra específica para você.
+
+[pause]
+
 Porque EU SEI os planos que tenho para você...
 
 [pause]
@@ -62,8 +67,8 @@ Amém.
 
 ## CTA
 
-Conhece alguém no desespero?
-Manda esse Short agora — Deus tem um plano para essa pessoa.
+Declara toda manhã: "O plano de Deus para mim é paz e esperança."
+Salva — e ouça nos dias que a dúvida apertar.
 
 ---
 

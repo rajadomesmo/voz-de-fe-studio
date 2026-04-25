@@ -19,9 +19,9 @@ Cinematic dark blessing scene. A dark winding stone path, and along its sides: s
 ## Script
 
 ### 🎯 HOOK — 0 a 3s
-> *Voz grave, confiante — como quem anuncia algo que já está a caminho*
+> *Voz grave, direta — diagnóstico que reconhece a dor antes de declarar a promessa*
 
-**"As bênçãos de Deus não esperam você chegar — elas vêm ao seu encontro."**
+**"Se você sente que as bênçãos passam por todo mundo menos por você... essa declaração de Deuteronômio 28 vai mudar essa percepção agora."**
 
 ---
 
@@ -74,8 +74,8 @@ Amém.
 ### 📣 CTA — 48s a 56s
 > *Tom de urgência positiva*
 
-**"Ouça isso antes de qualquer reunião, entrevista ou decisão importante.
-Salva — as bênçãos já estão vindo."**
+**"Ouça toda manhã antes de sair.
+Salva — declare as bênçãos de Deuteronômio 28 antes de qualquer passo."**
 
 ---
 

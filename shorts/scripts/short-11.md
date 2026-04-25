@@ -18,8 +18,8 @@ Cinematic dark gratitude scene. Hands raised open in worship, viewed from below 
 
 ## Script
 
-Essa oração de gratidão já transformou o coração de mais de 80 mil pessoas...
-ouça toda noite antes de dormir e veja a vida mudar.
+Se você vai dormir pensando no que ainda não tem...
+essa oração vai virar tudo de cabeça para baixo.
 
 [pause]
 
@@ -64,8 +64,8 @@ Amém. Obrigado, Senhor.
 
 ## CTA
 
-Salva esse Short e ouça toda noite antes de dormir.
-Gratidão diária muda o que a ansiedade não consegue mudar.
+Coloca no ritual da noite. Ouça toda noite antes de dormir —
+7 dias seguidos e veja o que muda.
 
 ---
 
